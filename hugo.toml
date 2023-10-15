@@ -39,7 +39,7 @@ paginate     = 10
 
     [languages.en.params.logo]
       logoText = "thesillyscribbles!"
-      logoHomeLink = "/"
+      logoHomeLink = "/thesillyscribbles/"
     # or
     #
     # path = "/img/your-example-logo.svg"
