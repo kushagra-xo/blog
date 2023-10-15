@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Silly Scribbles</title>
+    <link>localhost/</link>
+    <description>Recent content on The Silly Scribbles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Fri, 13 Oct 2023 13:03:03 +0530</lastBuildDate><atom:link href="localhost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kde Bluetooth Disabled on Login</title>
+      <link>localhost/posts/kde-bluetooth-on-login/</link>
+      <pubDate>Fri, 13 Oct 2023 13:03:03 +0530</pubDate>
+      
+      <guid>localhost/posts/kde-bluetooth-on-login/</guid>
+      <description>Lately i had been dealing with an issue where my bluetooth would disable automatically upon login. I had done a lot of troubleshooting to realize that the issue was with me abruptly rebooting instead of rebooting via the gui.
+Which would cause ~/.config/bluedevilglobalrc to look something like this:
+[Adapters] 44:85:00:80:3C:BA_powered=false Solution: 1. Comment out the line to look something like this: [Adapters] #44:85:00:80:3C:BA_powered=false I have tested this and there does not seem to be any functionality issue whatsoever</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>localhost/posts/my-first-post/</link>
+      <pubDate>Fri, 13 Oct 2023 10:14:27 +0530</pubDate>
+      
+      <guid>localhost/posts/my-first-post/</guid>
+      <description>I have always had wanted to have a blog of my own but it just seemed daunting and hard to do, but hugo just made is so much easier to generate this minimal blog that it was really just without any friction i was able to publish it on github.</description>
+    </item>
+    
+  </channel>
+</rss>

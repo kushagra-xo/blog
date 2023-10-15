@@ -1,0 +1,59 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on The Silly Scribbles</title>
+        <link>localhost/posts/</link>
+        <description>Recent content in Posts on The Silly Scribbles</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Fri, 13 Oct 2023 13:03:03 +0530</lastBuildDate>
+        <atom:link href="localhost/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Kde Bluetooth Disabled on Login</title>
+            <link>localhost/posts/kde-bluetooth-on-login/</link>
+            <pubDate>Fri, 13 Oct 2023 13:03:03 +0530</pubDate>
+            
+            <guid>localhost/posts/kde-bluetooth-on-login/</guid>
+            <description>Lately i had been dealing with an issue where my bluetooth would disable automatically upon login. I had done a lot of troubleshooting to realize that the issue was with me abruptly rebooting instead of rebooting via the gui.
+Which would cause ~/.config/bluedevilglobalrc to look something like this:
+[Adapters] 44:85:00:80:3C:BA_powered=false Solution: 1. Comment out the line to look something like this: [Adapters] #44:85:00:80:3C:BA_powered=false I have tested this and there does not seem to be any functionality issue whatsoever</description>
+            <content type="html"><![CDATA[<p>Lately i had been dealing with an issue where my bluetooth would disable automatically upon login. I had done a lot of troubleshooting to realize that the issue was with me <em>abruptly rebooting</em> instead of rebooting via the gui.</p>
+<p>Which would cause <code>~/.config/bluedevilglobalrc</code> to look something like this:</p>
+<pre tabindex="0"><code>[Adapters]
+44:85:00:80:3C:BA_powered=false
+</code></pre><h2 id="solution">Solution:</h2>
+<h3 id="1-comment-out-the-line-to-look-something-like-this">1. Comment out the line to look something like this:</h3>
+<pre tabindex="0"><code>[Adapters]
+#44:85:00:80:3C:BA_powered=false
+</code></pre><p>I have tested this and there does not seem to be any functionality issue whatsoever</p>
+<h3 id="2-make-the-file-read-only-or-immutable">2. Make the file read-only or immutable</h3>
+<ul>
+<li>Change the file to look like this:</li>
+</ul>
+<pre tabindex="0"><code>[Adapters]
+44:85:00:80:3C:BA_powered=true
+</code></pre><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>$ chattr +i ~/.config/bluedevilglobalrc
+</span></span></code></pre></div><h3 id="3-only-use-gui-reboot">3. Only use GUI reboot</h3>
+<p>Resources:</p>
+<ul>
+<li><a href="https://www.reddit.com/r/ManjaroLinux/comments/12fgj3o/kde_plasma_bluetooth_not_automatically_powered_on/">https://www.reddit.com/r/ManjaroLinux/comments/12fgj3o/kde_plasma_bluetooth_not_automatically_powered_on/</a></li>
+<li><a href="https://bugs.kde.org/show_bug.cgi?id=469119">https://bugs.kde.org/show_bug.cgi?id=469119</a></li>
+</ul>
+]]></content>
+        </item>
+        
+        <item>
+            <title>My First Post</title>
+            <link>localhost/posts/my-first-post/</link>
+            <pubDate>Fri, 13 Oct 2023 10:14:27 +0530</pubDate>
+            
+            <guid>localhost/posts/my-first-post/</guid>
+            <description>I have always had wanted to have a blog of my own but it just seemed daunting and hard to do, but hugo just made is so much easier to generate this minimal blog that it was really just without any friction i was able to publish it on github.</description>
+            <content type="html"><![CDATA[<hr>
+<p>I have always had wanted to have a blog of my own but it just seemed daunting and hard to do, but <a href="https://gohugo.io/">hugo</a> just made is so much easier to generate this minimal blog that it was really just without any friction i was able to publish it on github.</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
