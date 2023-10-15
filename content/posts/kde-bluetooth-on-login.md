@@ -35,7 +35,7 @@ $ chattr +i ~/.config/bluedevilglobalrc
 
 ### 3. Only use GUI reboot
 
-Resources:
+## References:
 
 - https://www.reddit.com/r/ManjaroLinux/comments/12fgj3o/kde_plasma_bluetooth_not_automatically_powered_on/
 - https://bugs.kde.org/show_bug.cgi?id=469119
