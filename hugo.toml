@@ -3,12 +3,8 @@ title        = "The Silly Scribbles"
 theme = 'paper'
 
 [params]
-  # color style
-  color = 'linen'                           # linen, wheat, gray, light
-
   # header social icons
   github = 'kushagra-xo'                 # github.com/YOUR_GITHUB_ID
-  mastodon = 'YOUR_MASTODON_LINK'           # e.g. 'https://mastodon.instance/@xxx'
   rss = true                                # show rss icon
 
   # home page profile
@@ -16,9 +12,8 @@ theme = 'paper'
   name = 'Kushagra J'
   bio = 'a personal blog'
 
-
   # misc
-  disableHLJS = false                        # disable highlight.js
-  disablePostNavigation = true              # disable post navigation
+  disableHLJS = false                       # disable highlight.js
+  disablePostNavigation = false             # disable post navigation
   monoDarkIcon = true                       # show monochrome dark mode icon
   math = true                               # enable KaTeX math typesetting globally
