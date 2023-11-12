@@ -3,55 +3,63 @@ title = 'Updating Mirrors on Arch Linux'
 date = 2023-11-12T17:44:46+05:30
 +++
 
-Having up-to-date mirrors and working mirrors is crucial in an archlinux
-installation to ensure correct pacman functionality i.e. everything updates
-as it should and optimal download speeds.
+### What are Mirrors?
 
-The recommended tool for this task is
-[reflector](https://wiki.archlinux.org/title/reflector), a Python script that
-retrieves the latest mirror list from the MirrorStatus page, filters and sorts
-them by speed (when the correct flags are used), and overwrites the
-`/etc/pacman.d/mirrorlist`(pacman reads mirrors from this here) file.
+In Arch Linux, a mirror is a server that hosts the same content as the main Arch Linux server i.e. packages for you to install, and these mirrors also keep updating these packages so that existing installations can upgrade to newer versions. Not all mirrors are always up, and not all mirorrs update the packages instantly. 
 
-## Install reflector
+### Why Update Mirrors?
 
-```bash
-sudo pacman -S reflector
-```
+Keeping your mirrors updated is important for two reasons:
 
-## Update mirrors
+1. It ensures that your Arch Linux installation works correctly. If your mirrors are out of date, you might have trouble installing or updating software.
 
-```bash
-sudo reflector --latest 20 --protocol https --sort rate --save /etc/pacman.d/mirrorlist
-```
+2. It can help you download software faster. If you're using a slow mirror, your downloads might be slow. By switching to a faster mirror, you can speed up your downloads.
 
-- --latest 50: This option tells reflector to retrieve the 50 most recently
-synchronized mirrors.
-- --protocol https: This option tells reflector to consider both HTTP and HTTPS protocols.
-- --sort rate: This option tells reflector to sort the mirrors by download speed.
-- --save /etc/pacman.d/mirrorlist: This option tells reflector to save the
-selected mirrors to the /etc/pacman.d/mirrorlist file.
+### How to Update Mirrors
 
-## Automate
+To update your mirrors, you'll need to use a tool called `reflector`. Here's a step-by-step guide:
 
-To automate the mirror updating process, you can use the reflector.timer
-systemd unit:
+1. **Install Reflector**: Reflector is a Python script that helps you update your mirrors. You can install it using the `pacman` package manager, which is the default package manager for Arch Linux. Run this command in your terminal to install reflector:
 
-```bash
-sudo systemctl enable reflector.timer
-sudo systemctl start reflector.timer
-```
+   ```bash
+   sudo pacman -S reflector
+   ```
 
-By default, it will start reflector.service once a week. If you want
-to update the mirror list immediately, you can start reflector.service manually:
+2. **Update Mirrors**: After installing reflector, you can use it to update your mirrors. This is done by running the `reflector` command with a few options:
+
+   ```bash
+   sudo reflector --latest 20 --protocol https --sort rate --save /etc/pacman.d/mirrorlist
+   ```
+
+   Here's what each option does:
+
+   - `--latest 20`: This tells reflector to get the 20 most recently synchronized mirrors.
+   - `--protocol https`: This tells reflector to consider mirrors that use the HTTPS protocol.
+   - `--sort rate`: This tells reflector to sort the mirrors by download speed.
+   - `--save /etc/pacman.d/mirrorlist`: This tells reflector to save the selected mirrors to a file that `pacman` (the package manager) reads from [Source 0](https://kushagra-xo.github.io/thesillyscribbles/posts/updating-mirrors-on-arch-linux/).
+
+### Automating Mirror Updates
+
+You can also set up a timer to automatically update your mirrors once a week. This is done using the `systemd` system and service manager, which is the default for Arch Linux. Here's how to do it:
+
+1. **Enable the Reflector Timer**: This tells `systemd` to start the reflector timer service when your computer boots up:
+
+   ```bash
+   sudo systemctl enable reflector.timer
+   ```
+
+2. **Start the Reflector Timer**: This starts the reflector timer service right away:
+
+   ```bash
+   sudo systemctl start reflector.timer
+   ```
+
+If you want to update your mirrors immediately, you can start the reflector service manually with this command:
 
 ```bash
 sudo systemctl start reflector.service
 ```
 
 ### Read more:
-
 - https://wiki.archlinux.org/title/Reflector
-- https://man.archlinux.org/man/reflector.1#EXAMPLES
 - https://wiki.archlinux.org/title/Mirrors
-- https://wiki.archlinux.org/title/Pacman
