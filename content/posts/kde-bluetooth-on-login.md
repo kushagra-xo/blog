@@ -34,8 +34,7 @@ I have tested this and there does not seem to be any functionality issue whatsoe
 ```bash 
 $ chattr +i ~/.config/bluedevilglobalrc
 ```
-
-### 3. Only use GUI reboot
+---
 
 ### Update: (Sun Nov 12 11:17:46 AM IST 2023)
 The issue does not seem to persist anymore, atleast for me, it's been a while rince anything weird happened with my bluetooth. If you are still facing issues maybe you can try the above, or report relevant bugs at bugs.kde.org for better support.
