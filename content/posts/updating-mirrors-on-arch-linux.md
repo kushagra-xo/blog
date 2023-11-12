@@ -36,7 +36,7 @@ To update your mirrors, you'll need to use a tool called `reflector`. Here's a s
    - `--latest 20`: This tells reflector to get the 20 most recently synchronized mirrors.
    - `--protocol https`: This tells reflector to consider mirrors that use the HTTPS protocol.
    - `--sort rate`: This tells reflector to sort the mirrors by download speed.
-   - `--save /etc/pacman.d/mirrorlist`: This tells reflector to save the selected mirrors to a file that `pacman` (the package manager) reads from [Source 0](https://kushagra-xo.github.io/thesillyscribbles/posts/updating-mirrors-on-arch-linux/).
+   - `--save /etc/pacman.d/mirrorlist`: This tells reflector to save the selected mirrors to a file that `pacman` (the package manager) reads from.
 
 ### Automating Mirror Updates
 
