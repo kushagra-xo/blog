@@ -5,7 +5,7 @@ date = 2023-11-12T17:44:46+05:30
 
 ### What are Mirrors?
 
-In Arch Linux, a mirror is a server that hosts the same content as the main Arch Linux server i.e. packages for you to install, and these mirrors also keep updating these packages so that existing installations can upgrade to newer versions. Not all mirrors are always up, and not all mirorrs update the packages instantly. 
+In Arch Linux, a mirror is a server that hosts packages i.e. bundled software for arch linux to be installed on your system, and these mirrors also keep updating these packages so that existing installations can upgrade to newer versions. Not all mirrors are always up, and not all mirorrs update the packages instantly. 
 
 ### Why Update Mirrors?
 
