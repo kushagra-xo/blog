@@ -63,5 +63,6 @@ sudo systemctl start reflector.service
 ```
 
 ### Read more:
+
 - https://wiki.archlinux.org/title/Reflector
 - https://wiki.archlinux.org/title/Mirrors
