@@ -15,7 +15,7 @@ VPN stands for Virtual Private Network.
 > public Internet
 > -- <cite>[Wikipedia][1]</cite>
 
-They provide the ability to ***connect to remote computers, securely***
+They provide the ability to ***connect to remote computers, securely***.
 
 > Security and privacy are two distinct concepts.
 > <cite> Read more here: [PrivacyGuides][2]</cite>
@@ -27,9 +27,18 @@ VPNs are usually used in a personal setting.
 What do i mean by mask and tunnel?
 
 - Mask
-  - The source of all of your traffic now seems to be the VPN server. It's no longer you connecting to the destination, it's the server.
+  - The source of all of your traffic now seems to be the VPN server. It's no longer you connecting to the destination, it's the server. In more simple terms, now you start to pretend to be someone else over the internet, i.e. you start wearing a mask.
 - Tunnel
-  - A secure tunnel is established between you and the VPN server, via encryption, such that the ISP  or anyone else trying to snoop in cannot know what you're trying to do over the Internet.
+  - A secure tunnel is established between you and the VPN server, via encryption, such that the ISP cannot know what you're trying to do over the Internet.
+
+### Basic VPN usage:
+![Normal VPN query](normal-vpn-query.png)
+
+A VPN shifts your trust from your ISP to a VPN server. Therefore choosing a VPN service is extremely crucial in determing privacy returns. A bad service will just be worse for your privacy.
+
+> In essence, the VPN emerges as your valiant guardian, shielding your digital dispatches while orchestrating a cloak of anonymity. It redirects your online missives through varied passages, revealing a world of secrecy and safeguarding your digital odyssey.
+> -- <cite>[ChatGPT][3]</cite>
 
 [1]: https://en.wikipedia.org/wiki/Virtual_private_network
 [2]: https://www.privacyguides.org/en/basics/common-threats/#security-and-privacy
+[3]: https://chat.openai.com/
