@@ -1,5 +1,5 @@
 +++
-title = 'Kde Bluetooth Disabled on Login'
+title = 'KDE Bluetooth Disabled on Login'
 date = 2023-10-13T13:03:03+05:30
 +++
 
@@ -37,7 +37,7 @@ $ chattr +i ~/.config/bluedevilglobalrc
 ---
 
 ### Update: (Sun Nov 12 11:17:46 AM IST 2023)
-The issue does not seem to persist anymore, atleast for me, it's been a while rince anything weird happened with my bluetooth. If you are still facing issues maybe you can try the above, or report relevant bugs at bugs.kde.org for better support.
+The issue does not seem to persist anymore, atleast for me, it's been a while since anything weird happened with my bluetooth. If you are still facing issues maybe you can try the above, or report relevant bugs at bugs.kde.org for better support.
 
 ## References:
 
