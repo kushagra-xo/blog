@@ -17,3 +17,11 @@ theme = 'paper'
   disablePostNavigation = true              # disable post navigation
   monoDarkIcon = true                       # show monochrome dark mode icon
   math = true                               # enable KaTeX math typesetting globally
+[params.giscus]
+  repo = 'kushagra-xo/thesillyscribbles'                 # see https://giscus.app for more details
+  repoId = 'R_kgDOKgNgag'
+  category = 'General'
+  categoryId = 'DIC_kwDOKgNgas4Ca8AM'
+  mapping = 'pathname'
+  theme = 'preferred_color_scheme'
+  lang = 'en'
