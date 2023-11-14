@@ -15,7 +15,7 @@ VPN stands for Virtual Private Network.
 > public Internet
 > -- <cite>[Wikipedia][1]</cite>
 
-They provide with the ability to ***connect to remote computers, securely***
+They provide the ability to ***connect to remote computers, securely***
 
 > Security and privacy are two distinct concepts.
 > <cite> Read more here: [PrivacyGuides][2]</cite>
