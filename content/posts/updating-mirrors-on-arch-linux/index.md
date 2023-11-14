@@ -3,7 +3,7 @@ title = 'Updating Mirrors on Arch Linux'
 date = 2023-11-12T17:44:46+05:30
 +++
 
-![Mirror][https://anything.io/cdn/images/900xauto/100/png/cover/b29e9c3b885fb77271e50b5f36dcb7c8.png]
+![Mirror](https://anything.io/cdn/images/900xauto/100/png/cover/b29e9c3b885fb77271e50b5f36dcb7c8.png)
 
 ### What are Mirrors?
 
