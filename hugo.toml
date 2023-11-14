@@ -4,8 +4,8 @@ theme = 'paper'
 
 [params]
   # header social icons
-  github = 'kushagra-xo'                 # github.com/YOUR_GITHUB_ID
-  rss = true                                # show rss icon
+  github = 'kushagra-xo'
+  rss = true 
 
   # home page profile
   avatar = 'https://i.pinimg.com/736x/94/f5/24/94f52427cf3d8ad32c342a8cd3133c75.jpg'                 # gravatar email or image url
@@ -14,6 +14,6 @@ theme = 'paper'
 
   # misc
   disableHLJS = false                       # disable highlight.js
-  disablePostNavigation = false             # disable post navigation
+  disablePostNavigation = true              # disable post navigation
   monoDarkIcon = true                       # show monochrome dark mode icon
   math = true                               # enable KaTeX math typesetting globally
