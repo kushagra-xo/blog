@@ -16,4 +16,4 @@ date = 2024-01-14T11:36:32+05:30
 - Well, for the most part you shouldn't, in most packages it does not matter, but in some larger applications compiling from source on hardware itself can provide noticeable performance benefits. It is also about just general control over what you compile your software with, and to ignore compiling the features that you do not need stripping the software you run to the bare minimum.
 
 ## Opinion?
-- Gentoo's recent decision about going primarily binary in my opinion is a progressive change and for the good, keeping in the mind the users that do not particularly powerful hardware, while also not forgetting it's roots and the use cases of source-based distribution of packages.
+- Gentoo's recent decision about going primarily binary in my opinion is a progressive change and for the good, keeping in the mind the users that do not particularly powerful hardware, while also not forgetting it's roots and the use cases of source-based distribution of packages. This allows for workflows that merge and blend binary and source based packages making a more flexible user-experience.
