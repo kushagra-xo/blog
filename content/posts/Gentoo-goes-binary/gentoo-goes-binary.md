@@ -23,3 +23,6 @@ date = 2024-01-14T11:36:32+05:30
 
 ## Opinion?
 - Gentoo's recent decision about going primarily binary in my opinion is a progressive change and for the good, keeping in the mind the users that do not particularly powerful hardware, while also not forgetting it's roots and the use cases of source-based distribution of packages. This allows for workflows that merge and blend binary and source based packages making a more flexible user-experience.
+
+### References:
+- https://www.gentoo.org/news/2023/12/29/Gentoo-binary.html
