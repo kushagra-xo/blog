@@ -6,7 +6,7 @@ date = 2024-01-18T21:09:37+05:30
 We live in the age of information, the age of data, yet seldom do we notice, care or appreciate it's representation. It's representation is as powerful as the information itself, it can change how the person feels about it and how they will remember it.
 
 ## What's UI?
-It stands for user interface and is the visual aspect of how information is represented, this includes fonts, colors, menus, buttons and what not all meticulously chosen to transform to set the tone. It's like you dressing up for the appropriate occasion. You dress differently for a wedding, for a party, for a beach, and for sleeping. Similarly we represent information according to the context. For a more formal website, you'd use more formal fonts, and monochromatic colors, but for a club's website, you may choose to get creative with how things look.
+It stands for user interface and is the visual aspect of how information is represented, this includes fonts, colors, menus, buttons and what not, all meticulously chosen to set the tone. It's like you dressing up for the appropriate occasion. You dress differently for a wedding, for a party, for a beach, and for sleeping. Similarly we represent information according to the context. For a more formal website, you'd use more formal fonts, and monochromatic colors, but for a club's website, you may choose to get creative with how things look.
 
 ![ui](ui.png)
 
