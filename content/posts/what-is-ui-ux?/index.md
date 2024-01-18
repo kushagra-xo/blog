@@ -18,6 +18,3 @@ UX is a broader concept that stands for user experience. It's a superset of UI, 
 > Fact: UX is not limted digitally, it can encompass things like chairs, door locks and even clothes as i mentioned above.
 
 ![ux](ux.png) 
-
-## Conclusion
-So the next time you use any product, you may wanna appericiate the underlying efforts of UX/UX developers that ensure that you never have to think about them.
