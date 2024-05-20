@@ -13,7 +13,7 @@ It stands for user interface and is the visual aspect of how information is repr
 ![ui](ui.png)
 
 ## What is UX?
-UX is a broader concept that stands for user experience. It's a superset of UI, emphasizing the end-user experience aspect of design. UX designers ensures that the digital landscape is not just elegant but effortlessly functional through rigourous testing. A good UX appropriately solves the user problem and is accessible to all irrespective of their disabilities. Your dress can be as beautiful as you it to be, but it cant' be functional if it doesn't have enough pockets, or keeps you warm when it's cold.
+UX is a broader concept that stands for user experience. It's a superset of UI, emphasizing the end-user experience aspect of design. UX designers ensures that the digital landscape is not just elegant but effortlessly functional through rigourous testing. A good UX appropriately solves the user problem and is accessible to all irrespective of their disabilities. Your dress can be as beautiful as you want it to be, but it cant' be functional if it doesn't have enough pockets, or keeps you warm when it's cold.
 
 > Fact: UX is not limted digitally, it can encompass things like chairs, door locks and even clothes as i mentioned above.
 
