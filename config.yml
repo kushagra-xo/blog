@@ -71,7 +71,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there, I am Kushagra! \U0001F44B"
-    Content: Welcome to my blog
+    Content: exploring tech, thought and whimsy
 
   socialIcons:
     - name: github
