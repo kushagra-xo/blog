@@ -6,7 +6,11 @@ enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
-
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
 minify:
   disableXML: true
   minifyOutput: true
