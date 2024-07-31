@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/thesillyscribbles/posts/</loc>
-    <lastmod>2024-01-18T21:09:37+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/thesillyscribbles/tags/</loc>
-    <lastmod>2024-01-18T21:09:37+05:30</lastmod>
+    <lastmod>2024-08-01T00:16:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/thesillyscribbles/</loc>
+    <lastmod>2024-08-01T00:16:58+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/thesillyscribbles/tags/</loc>
     <lastmod>2024-01-18T21:09:37+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/thesillyscribbles/tags/ui/</loc>
@@ -20,7 +20,7 @@
     <loc>http://localhost:1313/thesillyscribbles/posts/what-is-ui-ux/</loc>
     <lastmod>2024-01-18T21:09:37+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/thesillyscribbles/posts/virtual-private-networks-vpn/</loc>
+    <loc>http://localhost:1313/thesillyscribbles/posts/virtual-private-networks/</loc>
     <lastmod>2023-11-14T17:12:44+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/thesillyscribbles/tags/vpn/</loc>
