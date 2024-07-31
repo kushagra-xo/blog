@@ -11,6 +11,42 @@
     </image>
     <generator>Hugo -- 0.129.0</generator>
     <language>en</language>
+    <lastBuildDate>Thu, 18 Jan 2024 21:09:37 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/thesillyscribbles/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ui</title>
+      <link>http://localhost:1313/thesillyscribbles/tags/ui/</link>
+      <pubDate>Thu, 18 Jan 2024 21:09:37 +0530</pubDate>
+      <guid>http://localhost:1313/thesillyscribbles/tags/ui/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ux</title>
+      <link>http://localhost:1313/thesillyscribbles/tags/ux/</link>
+      <pubDate>Thu, 18 Jan 2024 21:09:37 +0530</pubDate>
+      <guid>http://localhost:1313/thesillyscribbles/tags/ux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vpn</title>
+      <link>http://localhost:1313/thesillyscribbles/tags/vpn/</link>
+      <pubDate>Tue, 14 Nov 2023 17:12:44 +0530</pubDate>
+      <guid>http://localhost:1313/thesillyscribbles/tags/vpn/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bluetooth</title>
+      <link>http://localhost:1313/thesillyscribbles/tags/bluetooth/</link>
+      <pubDate>Fri, 13 Oct 2023 13:03:03 +0530</pubDate>
+      <guid>http://localhost:1313/thesillyscribbles/tags/bluetooth/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kde</title>
+      <link>http://localhost:1313/thesillyscribbles/tags/kde/</link>
+      <pubDate>Fri, 13 Oct 2023 13:03:03 +0530</pubDate>
+      <guid>http://localhost:1313/thesillyscribbles/tags/kde/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

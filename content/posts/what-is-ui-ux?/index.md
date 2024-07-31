@@ -1,6 +1,7 @@
 +++
 title = 'What Is UI/UX?'
 date = 2024-01-18T21:09:37+05:30
+tags = ['ui', 'ux']
 +++
 
 We live in the age of information, the age of data, yet seldom do we notice, care or appreciate it's representation. It's representation is as powerful as the information itself, it can change how the person feels about it and how they will remember it.

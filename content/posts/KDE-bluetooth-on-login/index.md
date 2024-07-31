@@ -1,6 +1,7 @@
 +++
 title = 'KDE Bluetooth Disabled on Login'
 date = 2023-10-13T13:03:03+05:30
+tags = ['kde', 'bluetooth']
 +++
 
 Lately i had been dealing with an issue where my bluetooth would disable automatically upon login. I had done a lot of troubleshooting to realize that the issue was with me *abruptly rebooting* instead of rebooting via the gui.

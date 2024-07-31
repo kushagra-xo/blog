@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kde on The Silly Scribbles</title>
+    <link>http://localhost:1313/thesillyscribbles/tags/kde/</link>
+    <description>Recent content in Kde on The Silly Scribbles</description>
+    <image>
+      <title>The Silly Scribbles</title>
+      <url>http://localhost:1313/thesillyscribbles/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/thesillyscribbles/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.129.0</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 13 Oct 2023 13:03:03 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/thesillyscribbles/tags/kde/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>KDE Bluetooth Disabled on Login</title>
+      <link>http://localhost:1313/thesillyscribbles/posts/kde-bluetooth-on-login/</link>
+      <pubDate>Fri, 13 Oct 2023 13:03:03 +0530</pubDate>
+      <guid>http://localhost:1313/thesillyscribbles/posts/kde-bluetooth-on-login/</guid>
+      <description>Lately i had been dealing with an issue where my bluetooth would disable automatically upon login. I had done a lot of troubleshooting to realize that the issue was with me abruptly rebooting instead of rebooting via the gui.
+Which would cause ~/.config/bluedevilglobalrc to look something like this:
+[Adapters] 44:85:00:80:3C:BA_powered=false Solution: 1. Comment out the line to look something like this: [Adapters] #44:85:00:80:3C:BA_powered=false I have tested this and there does not seem to be any functionality issue whatsoever</description>
+    </item>
+  </channel>
+</rss>
