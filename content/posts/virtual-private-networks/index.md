@@ -38,9 +38,6 @@ What do I mean by mask and tunnel?
 
 A VPN shifts your trust from your ISP to a VPN server. Therefore choosing a VPN service is extremely crucial in determing privacy returns. A bad service will just be worse for your privacy.
 
-> In essence, the VPN emerges as your valiant guardian, shielding your digital dispatches while orchestrating a cloak of anonymity. It redirects your online missives through varied passages, revealing a world of secrecy and safeguarding your digital odyssey.
-> -- <cite>[ChatGPT][3]</cite>
-
 [1]: https://en.wikipedia.org/wiki/Virtual_private_network
 [2]: https://www.privacyguides.org/en/basics/common-threats/#security-and-privacy
 [3]: https://chat.openai.com/
