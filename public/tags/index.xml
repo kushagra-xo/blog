@@ -9,10 +9,24 @@
       <url>http://localhost:1313/thesillyscribbles/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://localhost:1313/thesillyscribbles/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.129.0</generator>
+    <generator>Hugo -- 0.130.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Jan 2024 21:09:37 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 10:40:06 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/thesillyscribbles/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Filetype</title>
+      <link>http://localhost:1313/thesillyscribbles/tags/filetype/</link>
+      <pubDate>Thu, 01 Aug 2024 10:40:06 +0530</pubDate>
+      <guid>http://localhost:1313/thesillyscribbles/tags/filetype/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Images</title>
+      <link>http://localhost:1313/thesillyscribbles/tags/images/</link>
+      <pubDate>Thu, 01 Aug 2024 10:40:06 +0530</pubDate>
+      <guid>http://localhost:1313/thesillyscribbles/tags/images/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Ui</title>
       <link>http://localhost:1313/thesillyscribbles/tags/ui/</link>
