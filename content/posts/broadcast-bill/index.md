@@ -8,8 +8,6 @@ tags = ['law', 'broadcast', 'news', 'content-creator', 'content', 'censorship', 
 
 India is on the verge of introducing a change in its media architecture with the proposed [Broadcasting Services (Regulation) Bill, 2023](https://en.wikipedia.org/wiki/Broadcasting_Services_(Regulation)_Bill,_2023). While the intention behind this bill seems noble—establishing control over a wider range of broadcasting services and implementing censorship—the implications are far-reaching and concerning for press freedom, privacy, and creative expression.
 
-![](keena-self.jpg)
-
 ## A Consolidated Regulatory Framework
 
 The proposed bill seeks to consolidate all broadcasting services, including digital platforms like social media, under a single regulatory framework. This move raises questions about the government's intentions and potential control over what content is permitted in public discourse as we are well aware of the control established by the majority government in the past decade over journalistic independence and freedom. By expanding its reach to cover both traditional and digital mediums, the bill poses a significant threat to India's digital journalism, which has played a crucial role in shaping public opinion and intellectual in the recent years, when the traditional forms of media were completely biased.
