@@ -1,14 +1,14 @@
 +++
-title = 'Analysis: Broadcasting Services Bill'
+title = 'Broadcasting Services Bill'
 date = 2024-08-02T09:32:34+05:30
 tags = ['law', 'broadcast', 'news', 'content-creator', 'content', 'censorship', 'freedom', 'privacy']
-[cover]
-image = 'https://3dbay.io/files/preview/1280x853/11645199657t5hrnvnjphyckrjrdzg8wauwzgnjz20u4pceb4cqcboxhsa8ym8cuvdegn8w9kcylizdmmapqfixxyicu6qgovi0dqgx8bdca6p9.png'
 +++
 
 ## Introduction
 
 India is on the verge of introducing a change in its media architecture with the proposed [Broadcasting Services (Regulation) Bill, 2023](https://en.wikipedia.org/wiki/Broadcasting_Services_(Regulation)_Bill,_2023). While the intention behind this bill seems noble—establishing control over a wider range of broadcasting services and implementing censorship—the implications are far-reaching and concerning for press freedom, privacy, and creative expression.
+
+![](keena-self.jpg)
 
 ## A Consolidated Regulatory Framework
 
