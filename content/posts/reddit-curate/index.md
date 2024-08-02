@@ -1,6 +1,7 @@
 +++
 title = 'Curating Content on Reddit'
 date = 2024-08-02T18:03:18+05:30
+tags = ['content', 'curate', 'reddit']
 [cover]
 image = 'https://3dbay.io/files/preview/1280x1110/11656917246w8rgqdsnu5lxxzi3ucniubre8nmldhuengtvbr3rovcmhgfnwfwnuo6t5ogjkdhg3vrwkgysg758888rbdgxaipui9p5mbwdpuer.png'
 +++

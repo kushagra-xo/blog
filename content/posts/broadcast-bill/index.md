@@ -1,9 +1,9 @@
 +++
 title = 'Analysis: Broadcasting Services Bill'
 date = 2024-08-02T09:32:34+05:30
+tags = ['law', 'broadcast', 'news', 'content-creator', 'content', 'censorship', 'freedom', 'privacy']
 [cover]
 image = 'https://3dbay.io/files/preview/1280x853/11645199657t5hrnvnjphyckrjrdzg8wauwzgnjz20u4pceb4cqcboxhsa8ym8cuvdegn8w9kcylizdmmapqfixxyicu6qgovi0dqgx8bdca6p9.png'
-tags = ['law', 'broadcast', 'news', 'content-creator', 'content', 'censorship', 'freedom', 'privacy']
 +++
 
 ## Introduction

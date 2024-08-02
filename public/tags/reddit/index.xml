@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Reddit on The Silly Scribbles</title>
+    <link>http://localhost:1313/thesillyscribbles/tags/reddit/</link>
+    <description>Recent content in Reddit on The Silly Scribbles</description>
+    <image>
+      <title>The Silly Scribbles</title>
+      <url>http://localhost:1313/thesillyscribbles/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/thesillyscribbles/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.131.0</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 02 Aug 2024 20:15:31 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/thesillyscribbles/tags/reddit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Curating Content on Reddit</title>
+      <link>http://localhost:1313/thesillyscribbles/posts/reddit-curate/</link>
+      <pubDate>Fri, 02 Aug 2024 18:03:18 +0530</pubDate>
+      <guid>http://localhost:1313/thesillyscribbles/posts/reddit-curate/</guid>
+      <description>I recently have been wanting to curate certain content, be it for design inspiration, or let&amp;rsquo;s just a outfit that I really like, or a life changing skincare tip that I must save for later. But reddit makes all of this really hard by just providing a linear way of saving content without having any extra control whatsoever. After further research, I have found that we can use private subreddits as a way to save personal content.</description>
+    </item>
+  </channel>
+</rss>
