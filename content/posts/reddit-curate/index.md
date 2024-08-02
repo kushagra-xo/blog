@@ -1,6 +1,8 @@
 +++
 title = 'Curating Content on Reddit'
 date = 2024-08-02T18:03:18+05:30
+[cover]
+image = 'https://3dbay.io/files/preview/1280x1110/11656917246w8rgqdsnu5lxxzi3ucniubre8nmldhuengtvbr3rovcmhgfnwfwnuo6t5ogjkdhg3vrwkgysg758888rbdgxaipui9p5mbwdpuer.png'
 +++
 
 I recently have been wanting to curate certain content, be it for design inspiration, or let's just a outfit that I really like, or a life changing skincare tip that I must save for later. But reddit makes all of this really hard by just providing a linear way of saving content without having any extra control whatsoever. After further research, I have found that we can use private subreddits as a way to save personal content.
