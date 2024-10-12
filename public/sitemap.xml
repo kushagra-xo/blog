@@ -2,29 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/thesillyscribbles/posts/how-why-insta/</loc>
-    <lastmod>2024-08-04T21:21:32+05:30</lastmod>
-  </url><url>
     <loc>http://localhost:1313/thesillyscribbles/posts/</loc>
-    <lastmod>2024-08-04T21:21:32+05:30</lastmod>
+    <lastmod>2024-10-12T23:50:45+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/thesillyscribbles/posts/k630-keyboard/</loc>
+    <lastmod>2024-10-12T23:50:45+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/thesillyscribbles/</loc>
-    <lastmod>2024-08-04T21:21:32+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/thesillyscribbles/tags/content/</loc>
-    <lastmod>2024-08-02T23:26:42+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/thesillyscribbles/tags/curate/</loc>
-    <lastmod>2024-08-02T20:19:17+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/thesillyscribbles/posts/reddit-curate/</loc>
-    <lastmod>2024-08-02T20:19:17+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/thesillyscribbles/tags/reddit/</loc>
-    <lastmod>2024-08-02T20:19:17+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/thesillyscribbles/tags/</loc>
-    <lastmod>2024-08-02T23:26:42+05:30</lastmod>
+    <lastmod>2024-10-12T23:50:45+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/thesillyscribbles/tags/broadcast/</loc>
     <lastmod>2024-08-02T23:26:42+05:30</lastmod>
@@ -33,6 +18,9 @@
     <lastmod>2024-08-02T23:26:42+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/thesillyscribbles/tags/censorship/</loc>
+    <lastmod>2024-08-02T23:26:42+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/thesillyscribbles/tags/content/</loc>
     <lastmod>2024-08-02T23:26:42+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/thesillyscribbles/tags/content-creator/</loc>
@@ -48,6 +36,9 @@
     <lastmod>2024-08-02T23:26:42+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/thesillyscribbles/tags/privacy/</loc>
+    <lastmod>2024-08-02T23:26:42+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/thesillyscribbles/tags/</loc>
     <lastmod>2024-08-02T23:26:42+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/thesillyscribbles/tags/filetype/</loc>

@@ -14,27 +14,6 @@
     <lastBuildDate>Fri, 02 Aug 2024 23:26:42 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/thesillyscribbles/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Content</title>
-      <link>http://localhost:1313/thesillyscribbles/tags/content/</link>
-      <pubDate>Fri, 02 Aug 2024 18:03:18 +0530</pubDate>
-      <guid>http://localhost:1313/thesillyscribbles/tags/content/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Curate</title>
-      <link>http://localhost:1313/thesillyscribbles/tags/curate/</link>
-      <pubDate>Fri, 02 Aug 2024 18:03:18 +0530</pubDate>
-      <guid>http://localhost:1313/thesillyscribbles/tags/curate/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Reddit</title>
-      <link>http://localhost:1313/thesillyscribbles/tags/reddit/</link>
-      <pubDate>Fri, 02 Aug 2024 18:03:18 +0530</pubDate>
-      <guid>http://localhost:1313/thesillyscribbles/tags/reddit/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Broadcast</title>
       <link>http://localhost:1313/thesillyscribbles/tags/broadcast/</link>
       <pubDate>Fri, 02 Aug 2024 09:32:34 +0530</pubDate>
@@ -46,6 +25,13 @@
       <link>http://localhost:1313/thesillyscribbles/tags/censorship/</link>
       <pubDate>Fri, 02 Aug 2024 09:32:34 +0530</pubDate>
       <guid>http://localhost:1313/thesillyscribbles/tags/censorship/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Content</title>
+      <link>http://localhost:1313/thesillyscribbles/tags/content/</link>
+      <pubDate>Fri, 02 Aug 2024 09:32:34 +0530</pubDate>
+      <guid>http://localhost:1313/thesillyscribbles/tags/content/</guid>
       <description></description>
     </item>
     <item>

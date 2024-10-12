@@ -1,0 +1,26 @@
++++
+title = 'Redragon K630: A Budget Mechanical Keyboard'
+date = 2024-10-12T23:50:45+05:30
++++
+
+## Background
+
+Recently, I needed a keyboard to pair with my Xiaomi Pad 6. The official Xiaomi keyboard didn’t seem worth its price given its subpar quality and limited use with the tablet alone. That’s when I realized I’d been wanting a mechanical keyboard for a while. I mean, it’s aesthetic, the sound is satisfying, and let’s face it—using one kind of makes you _feel_ more like a programmer. So yeah, I got it for all the wrong reasons, but honestly, I don’t think it was a bad investment.
+
+## First Impressions
+
+![](./PXL_20241011_141004273.jpg)
+
+The unboxing experience was pretty standard—nothing fancy, but that’s what I expected given the price. One thing that stood out was the weight of the keyboard. It felt heavy in my hands, though I’m sure that’s just because this is my first mechanical keyboard, so I don’t have anything to compare it to.
+
+Typing on it felt completely different from my laptop keyboard. Now, whenever I switch back to my laptop, its keyboard feels flat and lifeless in comparison. As for the sound—it’s not overwhelming, but it’s just enough to give that satisfying mechanical _click_. Anything louder might get annoying after a while, so this feels like the perfect balance. Oh, and the backlighting? It’s a nice touch, especially at night.
+
+![](./PXL_20241012_184717243~2.jpg)
+
+## Issues
+
+One weird issue I’ve encountered—and this only happens when I use the keyboard with my tablet—is that the ESC key registers as the '`' character. I’m still figuring out why this happens, but it’s an odd quirk that I hope to resolve soon.
+
+## Final Thoughts
+
+All in all, I think this keyboard is a great addition to my setup, and I’m pretty happy with the purchase. It’s functional, aesthetically pleasing, and makes typing a more enjoyable experience. Plus, who doesn’t love a good mechanical keyboard, right?
