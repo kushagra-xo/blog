@@ -9,7 +9,7 @@
       <url>http://localhost:1313/thesillyscribbles/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://localhost:1313/thesillyscribbles/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.131.0</generator>
+    <generator>Hugo -- 0.135.0</generator>
     <language>en</language>
     <lastBuildDate>Thu, 01 Aug 2024 14:16:34 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/thesillyscribbles/tags/vpn/index.xml" rel="self" type="application/rss+xml" />
@@ -18,9 +18,15 @@
       <link>http://localhost:1313/thesillyscribbles/posts/virtual-private-networks/</link>
       <pubDate>Tue, 14 Nov 2023 17:12:44 +0530</pubDate>
       <guid>http://localhost:1313/thesillyscribbles/posts/virtual-private-networks/</guid>
-      <description>Virtual Private Networks act as an important tool in the modern digital landscape empowering many to protect their privacy, and circumvent government imposed censorship. What the people need is choice. The ability to choose what we wish to share and what we wish to access, and a VPN puts that power in your hands.
-Let&amp;rsquo;s talk some tech.
-What is a VPN? A virtual private network (VPN) is a mechanism for creating a secure connection between a computing device and a computer network, or between two networks, using an insecure communication medium such as the public Internet &amp;ndash; Wikipedia</description>
+      <description>&lt;p&gt;Virtual Private Networks act as an important tool in the modern digital landscape empowering many to protect their privacy, and circumvent government imposed censorship. What the people need is &lt;em&gt;&lt;strong&gt;choice&lt;/strong&gt;&lt;/em&gt;. The ability to choose what we wish to share and what we wish to access, and a VPN puts that power in your hands.&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s talk some tech.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-a-vpn&#34;&gt;What is a VPN?&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A virtual private network (VPN) is a mechanism for creating a secure
+connection between a computing device and a computer network, or
+between two networks, using an insecure communication medium such as the
+public Internet
+&amp;ndash; &lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Virtual_private_network&#34;&gt;Wikipedia&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -9,7 +9,7 @@
       <url>http://localhost:1313/thesillyscribbles/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://localhost:1313/thesillyscribbles/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.131.0</generator>
+    <generator>Hugo -- 0.135.0</generator>
     <language>en</language>
     <lastBuildDate>Fri, 02 Aug 2024 23:26:42 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/thesillyscribbles/tags/news/index.xml" rel="self" type="application/rss+xml" />
@@ -18,8 +18,10 @@
       <link>http://localhost:1313/thesillyscribbles/posts/broadcast-bill/</link>
       <pubDate>Fri, 02 Aug 2024 09:32:34 +0530</pubDate>
       <guid>http://localhost:1313/thesillyscribbles/posts/broadcast-bill/</guid>
-      <description>Introduction India is on the verge of introducing a change in its media architecture with the proposed Broadcasting Services (Regulation) Bill, 2023. While the intention behind this bill seems noble—establishing control over a wider range of broadcasting services and implementing censorship—the implications are far-reaching and concerning for press freedom, privacy, and creative expression.
-A Consolidated Regulatory Framework The proposed bill seeks to consolidate all broadcasting services, including digital platforms like social media, under a single regulatory framework.</description>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;India is on the verge of introducing a change in its media architecture with the proposed &lt;a href=&#34;https://en.wikipedia.org/wiki/Broadcasting_Services_(Regulation)_Bill,_2023&#34;&gt;Broadcasting Services (Regulation) Bill, 2023&lt;/a&gt;. While the intention behind this bill seems noble—establishing control over a wider range of broadcasting services and implementing censorship—the implications are far-reaching and concerning for press freedom, privacy, and creative expression.&lt;/p&gt;
+&lt;h2 id=&#34;a-consolidated-regulatory-framework&#34;&gt;A Consolidated Regulatory Framework&lt;/h2&gt;
+&lt;p&gt;The proposed bill seeks to consolidate all broadcasting services, including digital platforms like social media, under a single regulatory framework. This move raises questions about the government&amp;rsquo;s intentions and potential control over what content is permitted in public discourse as we are well aware of the control established by the majority government in the past decade over journalistic independence and freedom. By expanding its reach to cover both traditional and digital mediums, the bill poses a significant threat to India&amp;rsquo;s digital journalism, which has played a crucial role in shaping public opinion and intellectual in the recent years, when the traditional forms of media were completely biased.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

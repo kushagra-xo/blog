@@ -9,7 +9,7 @@
       <url>http://localhost:1313/thesillyscribbles/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://localhost:1313/thesillyscribbles/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.131.0</generator>
+    <generator>Hugo -- 0.135.0</generator>
     <language>en</language>
     <lastBuildDate>Sun, 04 Aug 2024 21:21:32 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/thesillyscribbles/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -18,58 +18,80 @@
       <link>http://localhost:1313/thesillyscribbles/posts/how-why-insta/</link>
       <pubDate>Sun, 04 Aug 2024 20:21:36 +0530</pubDate>
       <guid>http://localhost:1313/thesillyscribbles/posts/how-why-insta/</guid>
-      <description>Why Use Instagram? I feel that even though privacy is very important for me, with time i have noticed that you can utilize instagram in such a way that it does not violate your privacy rights and prove useful in certain cenarios.
-For The New Ones Being on instagram allows you to have a way to connect with new people that you might exchange your instagram id&amp;rsquo;s with. It is way more convinient to exhcnage instagram handles than trying to convince them to come to signal, which not many people really use.</description>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h2 id=&#34;why-use-instagram&#34;&gt;Why Use Instagram?&lt;/h2&gt;
+&lt;p&gt;I feel that even though privacy is very important for me, with time i have noticed that you can utilize instagram in such a way that it does not violate your privacy rights and prove useful in certain cenarios.&lt;/p&gt;
+&lt;h3 id=&#34;for-the-new-ones&#34;&gt;For The New Ones&lt;/h3&gt;
+&lt;p&gt;Being on instagram allows you to have a way to connect with new people that you might exchange your instagram id&amp;rsquo;s with. It is way more convinient to exhcnage instagram handles than trying to convince them to come to signal, which not many people really use.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Curating Content on Reddit</title>
       <link>http://localhost:1313/thesillyscribbles/posts/reddit-curate/</link>
       <pubDate>Fri, 02 Aug 2024 18:03:18 +0530</pubDate>
       <guid>http://localhost:1313/thesillyscribbles/posts/reddit-curate/</guid>
-      <description>I recently have been wanting to curate certain content, be it for design inspiration, or let&amp;rsquo;s just a outfit that I really like, or a life changing skincare tip that I must save for later. But reddit makes all of this really hard by just providing a linear way of saving content without having any extra control whatsoever. After further research, I have found that we can use private subreddits as a way to save personal content.</description>
+      <description>&lt;p&gt;I recently have been wanting to curate certain content, be it for design inspiration, or let&amp;rsquo;s just a outfit that I really like, or a life changing skincare tip that I must save for later. But reddit makes all of this really hard by just providing a linear way of saving content without having any extra control whatsoever. After further research, I have found that we can use private subreddits as a way to save personal content.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Broadcasting Services Bill</title>
       <link>http://localhost:1313/thesillyscribbles/posts/broadcast-bill/</link>
       <pubDate>Fri, 02 Aug 2024 09:32:34 +0530</pubDate>
       <guid>http://localhost:1313/thesillyscribbles/posts/broadcast-bill/</guid>
-      <description>Introduction India is on the verge of introducing a change in its media architecture with the proposed Broadcasting Services (Regulation) Bill, 2023. While the intention behind this bill seems noble—establishing control over a wider range of broadcasting services and implementing censorship—the implications are far-reaching and concerning for press freedom, privacy, and creative expression.
-A Consolidated Regulatory Framework The proposed bill seeks to consolidate all broadcasting services, including digital platforms like social media, under a single regulatory framework.</description>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;India is on the verge of introducing a change in its media architecture with the proposed &lt;a href=&#34;https://en.wikipedia.org/wiki/Broadcasting_Services_(Regulation)_Bill,_2023&#34;&gt;Broadcasting Services (Regulation) Bill, 2023&lt;/a&gt;. While the intention behind this bill seems noble—establishing control over a wider range of broadcasting services and implementing censorship—the implications are far-reaching and concerning for press freedom, privacy, and creative expression.&lt;/p&gt;
+&lt;h2 id=&#34;a-consolidated-regulatory-framework&#34;&gt;A Consolidated Regulatory Framework&lt;/h2&gt;
+&lt;p&gt;The proposed bill seeks to consolidate all broadcasting services, including digital platforms like social media, under a single regulatory framework. This move raises questions about the government&amp;rsquo;s intentions and potential control over what content is permitted in public discourse as we are well aware of the control established by the majority government in the past decade over journalistic independence and freedom. By expanding its reach to cover both traditional and digital mediums, the bill poses a significant threat to India&amp;rsquo;s digital journalism, which has played a crucial role in shaping public opinion and intellectual in the recent years, when the traditional forms of media were completely biased.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The PITX file format</title>
       <link>http://localhost:1313/thesillyscribbles/posts/pitx-file-format/</link>
       <pubDate>Thu, 01 Aug 2024 10:40:06 +0530</pubDate>
       <guid>http://localhost:1313/thesillyscribbles/posts/pitx-file-format/</guid>
-      <description>PITX is a file format that I have envisioned to create in the coming months as a new way to store digital media, a way where images are stored with their context, with their story, i.e. text.
-Inspiration Every image tells a story, yet so many of these stories are lost due to the lack of appropriate textual context. This gap inspired me to create PITX, a new file format designed to store images along with their stories, bringing us back to the exact moments we cherish.</description>
+      <description>&lt;p&gt;PITX is a file format that I have envisioned to create in the coming months as a new way to store digital media, a way where images are stored with their context, with their story, i.e. text.&lt;/p&gt;
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;Every image tells a story, yet so many of these stories are lost due to the lack of appropriate textual context. This gap inspired me to create PITX, a new file format designed to store images along with their stories, bringing us back to the exact moments we cherish.&lt;/p&gt;</description>
     </item>
     <item>
       <title>What Is UI/UX?</title>
       <link>http://localhost:1313/thesillyscribbles/posts/what-is-ui-ux/</link>
       <pubDate>Thu, 18 Jan 2024 21:09:37 +0530</pubDate>
       <guid>http://localhost:1313/thesillyscribbles/posts/what-is-ui-ux/</guid>
-      <description>We live in the age of information, the age of data, yet seldom do we notice, care or appreciate it&amp;rsquo;s representation. It&amp;rsquo;s representation is as powerful as the information itself, it can change how the person feels about it and how they will remember it.
-Good design, when it’s done well, becomes invisible. It’s only when it’s done poorly that we notice it - Jared Spool
-What&amp;rsquo;s UI? It stands for user interface and is the visual aspect of how information is represented, this includes fonts, colors, menus, buttons and what not, all meticulously chosen to set the tone.</description>
+      <description>&lt;p&gt;We live in the age of information, the age of data, yet seldom do we notice, care or appreciate it&amp;rsquo;s representation. It&amp;rsquo;s representation is as powerful as the information itself, it can change how the person feels about it and how they will remember it.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Good design, when it’s done well, becomes invisible. It’s only when it’s done poorly that we notice it - Jared Spool&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;whats-ui&#34;&gt;What&amp;rsquo;s UI?&lt;/h2&gt;
+&lt;p&gt;It stands for user interface and is the visual aspect of how information is represented, this includes fonts, colors, menus, buttons and what not, all meticulously chosen to set the tone. It&amp;rsquo;s like you dressing up for the appropriate occasion. You dress differently for a wedding, for a party, for a beach, and for sleeping. Similarly we represent information according to the context. For a more formal website, you&amp;rsquo;d use more formal fonts, and monochromatic colors, but for a club&amp;rsquo;s website, you may choose to get creative with how things look.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Virtual Private Networks (VPNs)</title>
       <link>http://localhost:1313/thesillyscribbles/posts/virtual-private-networks/</link>
       <pubDate>Tue, 14 Nov 2023 17:12:44 +0530</pubDate>
       <guid>http://localhost:1313/thesillyscribbles/posts/virtual-private-networks/</guid>
-      <description>Virtual Private Networks act as an important tool in the modern digital landscape empowering many to protect their privacy, and circumvent government imposed censorship. What the people need is choice. The ability to choose what we wish to share and what we wish to access, and a VPN puts that power in your hands.
-Let&amp;rsquo;s talk some tech.
-What is a VPN? A virtual private network (VPN) is a mechanism for creating a secure connection between a computing device and a computer network, or between two networks, using an insecure communication medium such as the public Internet &amp;ndash; Wikipedia</description>
+      <description>&lt;p&gt;Virtual Private Networks act as an important tool in the modern digital landscape empowering many to protect their privacy, and circumvent government imposed censorship. What the people need is &lt;em&gt;&lt;strong&gt;choice&lt;/strong&gt;&lt;/em&gt;. The ability to choose what we wish to share and what we wish to access, and a VPN puts that power in your hands.&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s talk some tech.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-a-vpn&#34;&gt;What is a VPN?&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A virtual private network (VPN) is a mechanism for creating a secure
+connection between a computing device and a computer network, or
+between two networks, using an insecure communication medium such as the
+public Internet
+&amp;ndash; &lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Virtual_private_network&#34;&gt;Wikipedia&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>KDE Bluetooth Disabled on Login</title>
       <link>http://localhost:1313/thesillyscribbles/posts/kde-bluetooth-on-login/</link>
       <pubDate>Fri, 13 Oct 2023 13:03:03 +0530</pubDate>
       <guid>http://localhost:1313/thesillyscribbles/posts/kde-bluetooth-on-login/</guid>
-      <description>Lately i had been dealing with an issue where my bluetooth would disable automatically upon login. I had done a lot of troubleshooting to realize that the issue was with me abruptly rebooting instead of rebooting via the gui.
-Which would cause ~/.config/bluedevilglobalrc to look something like this:
-[Adapters] 44:85:00:80:3C:BA_powered=false Solution: 1. Comment out the line to look something like this: [Adapters] #44:85:00:80:3C:BA_powered=false I have tested this and there does not seem to be any functionality issue whatsoever</description>
+      <description>&lt;p&gt;Lately i had been dealing with an issue where my bluetooth would disable automatically upon login. I had done a lot of troubleshooting to realize that the issue was with me &lt;em&gt;abruptly rebooting&lt;/em&gt; instead of rebooting via the gui.&lt;/p&gt;
+&lt;p&gt;Which would cause &lt;code&gt;~/.config/bluedevilglobalrc&lt;/code&gt; to look something like this:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;[Adapters]
+44:85:00:80:3C:BA_powered=false
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;solution&#34;&gt;Solution:&lt;/h2&gt;
+&lt;h3 id=&#34;1-comment-out-the-line-to-look-something-like-this&#34;&gt;1. Comment out the line to look something like this:&lt;/h3&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;[Adapters]
+#44:85:00:80:3C:BA_powered=false
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;I have tested this and there does not seem to be any functionality issue whatsoever&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

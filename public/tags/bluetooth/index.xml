@@ -9,7 +9,7 @@
       <url>http://localhost:1313/thesillyscribbles/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://localhost:1313/thesillyscribbles/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.131.0</generator>
+    <generator>Hugo -- 0.135.0</generator>
     <language>en</language>
     <lastBuildDate>Thu, 01 Aug 2024 00:37:04 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/thesillyscribbles/tags/bluetooth/index.xml" rel="self" type="application/rss+xml" />
@@ -18,9 +18,15 @@
       <link>http://localhost:1313/thesillyscribbles/posts/kde-bluetooth-on-login/</link>
       <pubDate>Fri, 13 Oct 2023 13:03:03 +0530</pubDate>
       <guid>http://localhost:1313/thesillyscribbles/posts/kde-bluetooth-on-login/</guid>
-      <description>Lately i had been dealing with an issue where my bluetooth would disable automatically upon login. I had done a lot of troubleshooting to realize that the issue was with me abruptly rebooting instead of rebooting via the gui.
-Which would cause ~/.config/bluedevilglobalrc to look something like this:
-[Adapters] 44:85:00:80:3C:BA_powered=false Solution: 1. Comment out the line to look something like this: [Adapters] #44:85:00:80:3C:BA_powered=false I have tested this and there does not seem to be any functionality issue whatsoever</description>
+      <description>&lt;p&gt;Lately i had been dealing with an issue where my bluetooth would disable automatically upon login. I had done a lot of troubleshooting to realize that the issue was with me &lt;em&gt;abruptly rebooting&lt;/em&gt; instead of rebooting via the gui.&lt;/p&gt;
+&lt;p&gt;Which would cause &lt;code&gt;~/.config/bluedevilglobalrc&lt;/code&gt; to look something like this:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;[Adapters]
+44:85:00:80:3C:BA_powered=false
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;solution&#34;&gt;Solution:&lt;/h2&gt;
+&lt;h3 id=&#34;1-comment-out-the-line-to-look-something-like-this&#34;&gt;1. Comment out the line to look something like this:&lt;/h3&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;[Adapters]
+#44:85:00:80:3C:BA_powered=false
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;I have tested this and there does not seem to be any functionality issue whatsoever&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

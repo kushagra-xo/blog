@@ -9,7 +9,7 @@
       <url>http://localhost:1313/thesillyscribbles/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://localhost:1313/thesillyscribbles/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.131.0</generator>
+    <generator>Hugo -- 0.135.0</generator>
     <language>en</language>
     <lastBuildDate>Fri, 02 Aug 2024 20:19:17 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/thesillyscribbles/tags/curate/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +18,7 @@
       <link>http://localhost:1313/thesillyscribbles/posts/reddit-curate/</link>
       <pubDate>Fri, 02 Aug 2024 18:03:18 +0530</pubDate>
       <guid>http://localhost:1313/thesillyscribbles/posts/reddit-curate/</guid>
-      <description>I recently have been wanting to curate certain content, be it for design inspiration, or let&amp;rsquo;s just a outfit that I really like, or a life changing skincare tip that I must save for later. But reddit makes all of this really hard by just providing a linear way of saving content without having any extra control whatsoever. After further research, I have found that we can use private subreddits as a way to save personal content.</description>
+      <description>&lt;p&gt;I recently have been wanting to curate certain content, be it for design inspiration, or let&amp;rsquo;s just a outfit that I really like, or a life changing skincare tip that I must save for later. But reddit makes all of this really hard by just providing a linear way of saving content without having any extra control whatsoever. After further research, I have found that we can use private subreddits as a way to save personal content.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
