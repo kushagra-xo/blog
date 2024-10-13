@@ -11,8 +11,18 @@
     </image>
     <generator>Hugo -- 0.135.0</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 13 Oct 2024 00:21:23 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 13 Oct 2024 12:41:49 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/thesillyscribbles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Time &amp; Space Complexity</title>
+      <link>http://localhost:1313/thesillyscribbles/posts/time-space-complexity/</link>
+      <pubDate>Sun, 13 Oct 2024 12:41:49 +0530</pubDate>
+      <guid>http://localhost:1313/thesillyscribbles/posts/time-space-complexity/</guid>
+      <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;ve recently decided to dive back into data structures and algorithms (DSA). These are fundamental skills for any developer, regardless of the field you&amp;rsquo;re in, and mastering them can significantly sharpen your problem-solving abilities. Beyond that, DSA is also intellectually stimulating and—dare I say—fun, especially when you’re tackling challenges with a friend. Now seems like the perfect time to revisit these essential topics.&lt;/p&gt;
+&lt;h2 id=&#34;solving-problems&#34;&gt;Solving Problems&lt;/h2&gt;
+&lt;p&gt;In computer science, just like in life, there are often multiple ways to solve a single problem. Each solution comes with its own trade-offs—just like how different recipes for making a cake can require varying amounts of time, effort, and ingredients. Similarly, algorithms have different &amp;ldquo;costs&amp;rdquo; in terms of resources.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Redragon K630: A Budget Mechanical Keyboard</title>
       <link>http://localhost:1313/thesillyscribbles/posts/k630-keyboard/</link>
