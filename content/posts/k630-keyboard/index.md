@@ -10,7 +10,7 @@ Recently, I needed a keyboard to pair with my Xiaomi Pad 6. The official Xiaomi 
 
 ## First Impressions
 
-![](./with_lap.jpg`)
+![](./with_lap.jpg)
 
 The unboxing experience was pretty standard—nothing fancy, but that’s what I expected given the price. One thing that stood out was the weight of the keyboard. It felt heavy in my hands, though I’m sure that’s just because this is my first mechanical keyboard, so I don’t have anything to compare it to.
 
