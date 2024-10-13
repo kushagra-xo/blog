@@ -1,6 +1,7 @@
 +++
 title = 'Redragon K630: A Budget Mechanical Keyboard'
 date = 2024-10-12T23:50:45+05:30
+tags = ['keyboard', 'mechanical-keyboard', 'tablet', 'programming']
 +++
 
 ## Background
@@ -24,3 +25,8 @@ One weird issue I’ve encountered—and this only happens when I use the keyboa
 ## Final Thoughts
 
 All in all, I think this keyboard is a great addition to my setup, and I’m pretty happy with the purchase. It’s functional, aesthetically pleasing, and makes typing a more enjoyable experience. Plus, who doesn’t love a good mechanical keyboard, right?
+
+## Related
+
+- [Redragon K630 - Official Website](https://www.redragonzone.com/products/redragon-k630-gaming-mechanical-keyboard)
+- [Xiaomi Pad 6 - Official Website](https://www.mi.com/in/product/xiaomi-pad-6/)
