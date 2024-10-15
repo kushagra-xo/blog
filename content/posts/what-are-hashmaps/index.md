@@ -6,7 +6,7 @@ tags = ['hashing', 'linked-list', 'hashmaps']
 
 ## Background
 
-Today, we’ll discuss hashmaps—a fundamental data structure in computer science. I chose this topic while solving the "Two Sum" problem, which required the use of hashmaps to efficiently find a solution. In this post, we'll cover hash functions, linked lists, and how they come together to form hashmaps.
+Today, we’ll discuss hashmaps—a fundamental data structure in computer science. I chose this topic while solving the ["Two Sum"](https://github.com/kushagra-xo/leetcode/tree/master/1.twoSum) problem, which required the use of hashmaps to efficiently find a solution. In this post, we'll cover hash functions, linked lists, and how they come together to form hashmaps.
 
 ## Hashing
 
@@ -32,7 +32,7 @@ A linked list is a dynamic data structure that doesn't store elements contiguous
 
 Hashmaps combine hash functions and linked lists to create a data structure optimized for fast data retrieval. Here's how it works:
 
-First, we use a hashing function to compute the hash of a given key (our input).
+First, we use a hashing function to compute the hash of a given key (our input), and also store the value a associated with it.
 This hash is then used to determine the index in an array where the data is stored. We refer to these indices as buckets.
 If a collision occurs (i.e., two keys hash to the same bucket), the collided elements are stored as a linked list at that bucket.
 
