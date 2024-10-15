@@ -11,8 +11,20 @@
     </image>
     <generator>Hugo -- 0.135.0</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 13 Oct 2024 12:41:49 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2024 15:24:03 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/thesillyscribbles/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What Are Hashmaps?</title>
+      <link>http://localhost:1313/thesillyscribbles/posts/what-are-hashmaps/</link>
+      <pubDate>Tue, 15 Oct 2024 15:24:03 +0530</pubDate>
+      <guid>http://localhost:1313/thesillyscribbles/posts/what-are-hashmaps/</guid>
+      <description>&lt;h1 id=&#34;background&#34;&gt;Background&lt;/h1&gt;
+&lt;p&gt;So today we&amp;rsquo;ll talk about hasmaps. I picked this topic because i was solving a dsa problem that required some use of hashmaps inside it.&lt;/p&gt;
+&lt;h1 id=&#34;hashing&#34;&gt;Hashing&lt;/h1&gt;
+&lt;p&gt;So we&amp;rsquo;ll start by talking about what is hashing? Hashing is a way of converting or maps a variable size input to a fixed size output. This process is carried out through a hashing function.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://en.wikipedia.org/wiki/Hash_function#/media/File:Hash_table_4_1_1_0_0_1_0_LL.svg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Time &amp; Space Complexity</title>
       <link>http://localhost:1313/thesillyscribbles/posts/time-space-complexity/</link>
