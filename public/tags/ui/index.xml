@@ -1,23 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Ui on The Silly Scribbles</title>
-    <link>http://localhost:1313/thesillyscribbles/tags/ui/</link>
-    <description>Recent content in Ui on The Silly Scribbles</description>
-    <image>
-      <title>The Silly Scribbles</title>
-      <url>http://localhost:1313/thesillyscribbles/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/thesillyscribbles/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
-    <generator>Hugo -- 0.135.0</generator>
+    <title>Ui on TheSillyScribbles</title>
+    <link>http://localhost:1313/tags/ui/</link>
+    <description>Recent content in Ui on TheSillyScribbles</description>
+    <generator>Hugo -- 0.139.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 31 Jul 2024 21:25:06 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/thesillyscribbles/tags/ui/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Jan 2024 21:09:37 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ui/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What Is UI/UX?</title>
-      <link>http://localhost:1313/thesillyscribbles/posts/what-is-ui-ux/</link>
+      <link>http://localhost:1313/posts/what-is-ui-ux/</link>
       <pubDate>Thu, 18 Jan 2024 21:09:37 +0530</pubDate>
-      <guid>http://localhost:1313/thesillyscribbles/posts/what-is-ui-ux/</guid>
+      <guid>http://localhost:1313/posts/what-is-ui-ux/</guid>
       <description>&lt;p&gt;We live in the age of information, the age of data, yet seldom do we notice, care or appreciate it&amp;rsquo;s representation. It&amp;rsquo;s representation is as powerful as the information itself, it can change how the person feels about it and how they will remember it.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Good design, when it’s done well, becomes invisible. It’s only when it’s done poorly that we notice it - Jared Spool&lt;/p&gt;
