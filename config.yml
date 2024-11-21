@@ -108,19 +108,13 @@ params:
     minMatchCharLength: 0
     limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
     keys: ["title", "permalink", "summary", "content"]
-  fuseOpts:
-    isCaseSensitive: false
-    shouldSort: true
-    location: 0
-    distance: 1000
-    threshold: 0.4
-    minMatchCharLength: 0
-    limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
-    keys: ["title", "permalink", "summary", "content"]
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
 menu:
   main:
-    - identifer: search
-      name: search
     - identifier: categories
       name: categories
       url: /categories/
@@ -129,10 +123,13 @@ menu:
       name: tags
       url: /tags/
       weight: 20
+    - identifer: search
+      name: search
+      weight: 30
     - identifier: portfolio
       name: kushagraj.xyz
       url: https://kushagraj.xyz
-      weight: 30
+      weight: 40
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
