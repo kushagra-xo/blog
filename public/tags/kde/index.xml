@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Kde on TheSillyScribbles</title>
-    <link>http://localhost:1313/tags/kde/</link>
+    <link>http://localhost:36781/tags/kde/</link>
     <description>Recent content in Kde on TheSillyScribbles</description>
     <generator>Hugo -- 0.139.0</generator>
     <language>en</language>
     <lastBuildDate>Fri, 13 Oct 2023 13:03:03 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/kde/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:36781/tags/kde/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>KDE Bluetooth Disabled on Login</title>
-      <link>http://localhost:1313/posts/kde-bluetooth-on-login/</link>
+      <link>http://localhost:36781/posts/kde-bluetooth-on-login/</link>
       <pubDate>Fri, 13 Oct 2023 13:03:03 +0530</pubDate>
-      <guid>http://localhost:1313/posts/kde-bluetooth-on-login/</guid>
+      <guid>http://localhost:36781/posts/kde-bluetooth-on-login/</guid>
       <description>&lt;p&gt;Lately i had been dealing with an issue where my bluetooth would disable automatically upon login. I had done a lot of troubleshooting to realize that the issue was with me &lt;em&gt;abruptly rebooting&lt;/em&gt; instead of rebooting via the gui.&lt;/p&gt;
 &lt;p&gt;Which would cause &lt;code&gt;~/.config/bluedevilglobalrc&lt;/code&gt; to look something like this:&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;[Adapters]

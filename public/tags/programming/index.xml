@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Programming on TheSillyScribbles</title>
-    <link>http://localhost:1313/tags/programming/</link>
+    <link>http://localhost:36781/tags/programming/</link>
     <description>Recent content in Programming on TheSillyScribbles</description>
     <generator>Hugo -- 0.139.0</generator>
     <language>en</language>
     <lastBuildDate>Sat, 12 Oct 2024 23:50:45 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:36781/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Redragon K630: A Budget Mechanical Keyboard</title>
-      <link>http://localhost:1313/posts/k630-keyboard/</link>
+      <link>http://localhost:36781/posts/k630-keyboard/</link>
       <pubDate>Sat, 12 Oct 2024 23:50:45 +0530</pubDate>
-      <guid>http://localhost:1313/posts/k630-keyboard/</guid>
+      <guid>http://localhost:36781/posts/k630-keyboard/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;Recently, I needed a keyboard to pair with my Xiaomi Pad 6. The official Xiaomi keyboard didn’t seem worth its price given its subpar quality and limited use with the tablet alone. That’s when I realized I’d been wanting a mechanical keyboard for a while. I mean, it’s aesthetic, the sound is satisfying, and let’s face it—using one kind of makes you &lt;em&gt;feel&lt;/em&gt; more like a programmer. So yeah, I got it for all the wrong reasons, but honestly, I don’t think it was a bad investment.&lt;/p&gt;</description>
     </item>

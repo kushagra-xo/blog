@@ -2,185 +2,185 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on TheSillyScribbles</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://localhost:36781/tags/</link>
     <description>Recent content in Tags on TheSillyScribbles</description>
     <generator>Hugo -- 0.139.0</generator>
     <language>en</language>
     <lastBuildDate>Tue, 15 Oct 2024 15:24:03 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:36781/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hashing</title>
-      <link>http://localhost:1313/tags/hashing/</link>
+      <link>http://localhost:36781/tags/hashing/</link>
       <pubDate>Tue, 15 Oct 2024 15:24:03 +0530</pubDate>
-      <guid>http://localhost:1313/tags/hashing/</guid>
+      <guid>http://localhost:36781/tags/hashing/</guid>
       <description></description>
     </item>
     <item>
       <title>Hashmaps</title>
-      <link>http://localhost:1313/tags/hashmaps/</link>
+      <link>http://localhost:36781/tags/hashmaps/</link>
       <pubDate>Tue, 15 Oct 2024 15:24:03 +0530</pubDate>
-      <guid>http://localhost:1313/tags/hashmaps/</guid>
+      <guid>http://localhost:36781/tags/hashmaps/</guid>
       <description></description>
     </item>
     <item>
       <title>Linked-List</title>
-      <link>http://localhost:1313/tags/linked-list/</link>
+      <link>http://localhost:36781/tags/linked-list/</link>
       <pubDate>Tue, 15 Oct 2024 15:24:03 +0530</pubDate>
-      <guid>http://localhost:1313/tags/linked-list/</guid>
+      <guid>http://localhost:36781/tags/linked-list/</guid>
       <description></description>
     </item>
     <item>
       <title>Dsa</title>
-      <link>http://localhost:1313/tags/dsa/</link>
+      <link>http://localhost:36781/tags/dsa/</link>
       <pubDate>Sun, 13 Oct 2024 12:41:49 +0530</pubDate>
-      <guid>http://localhost:1313/tags/dsa/</guid>
+      <guid>http://localhost:36781/tags/dsa/</guid>
       <description></description>
     </item>
     <item>
       <title>Space-Complexity</title>
-      <link>http://localhost:1313/tags/space-complexity/</link>
+      <link>http://localhost:36781/tags/space-complexity/</link>
       <pubDate>Sun, 13 Oct 2024 12:41:49 +0530</pubDate>
-      <guid>http://localhost:1313/tags/space-complexity/</guid>
+      <guid>http://localhost:36781/tags/space-complexity/</guid>
       <description></description>
     </item>
     <item>
       <title>Time-Complexity</title>
-      <link>http://localhost:1313/tags/time-complexity/</link>
+      <link>http://localhost:36781/tags/time-complexity/</link>
       <pubDate>Sun, 13 Oct 2024 12:41:49 +0530</pubDate>
-      <guid>http://localhost:1313/tags/time-complexity/</guid>
+      <guid>http://localhost:36781/tags/time-complexity/</guid>
       <description></description>
     </item>
     <item>
       <title>Keyboard</title>
-      <link>http://localhost:1313/tags/keyboard/</link>
+      <link>http://localhost:36781/tags/keyboard/</link>
       <pubDate>Sat, 12 Oct 2024 23:50:45 +0530</pubDate>
-      <guid>http://localhost:1313/tags/keyboard/</guid>
+      <guid>http://localhost:36781/tags/keyboard/</guid>
       <description></description>
     </item>
     <item>
       <title>Mechanical-Keyboard</title>
-      <link>http://localhost:1313/tags/mechanical-keyboard/</link>
+      <link>http://localhost:36781/tags/mechanical-keyboard/</link>
       <pubDate>Sat, 12 Oct 2024 23:50:45 +0530</pubDate>
-      <guid>http://localhost:1313/tags/mechanical-keyboard/</guid>
+      <guid>http://localhost:36781/tags/mechanical-keyboard/</guid>
       <description></description>
     </item>
     <item>
       <title>Programming</title>
-      <link>http://localhost:1313/tags/programming/</link>
+      <link>http://localhost:36781/tags/programming/</link>
       <pubDate>Sat, 12 Oct 2024 23:50:45 +0530</pubDate>
-      <guid>http://localhost:1313/tags/programming/</guid>
+      <guid>http://localhost:36781/tags/programming/</guid>
       <description></description>
     </item>
     <item>
       <title>Tablet</title>
-      <link>http://localhost:1313/tags/tablet/</link>
+      <link>http://localhost:36781/tags/tablet/</link>
       <pubDate>Sat, 12 Oct 2024 23:50:45 +0530</pubDate>
-      <guid>http://localhost:1313/tags/tablet/</guid>
+      <guid>http://localhost:36781/tags/tablet/</guid>
       <description></description>
     </item>
     <item>
       <title>Broadcast</title>
-      <link>http://localhost:1313/tags/broadcast/</link>
+      <link>http://localhost:36781/tags/broadcast/</link>
       <pubDate>Fri, 02 Aug 2024 09:32:34 +0530</pubDate>
-      <guid>http://localhost:1313/tags/broadcast/</guid>
+      <guid>http://localhost:36781/tags/broadcast/</guid>
       <description></description>
     </item>
     <item>
       <title>Censorship</title>
-      <link>http://localhost:1313/tags/censorship/</link>
+      <link>http://localhost:36781/tags/censorship/</link>
       <pubDate>Fri, 02 Aug 2024 09:32:34 +0530</pubDate>
-      <guid>http://localhost:1313/tags/censorship/</guid>
+      <guid>http://localhost:36781/tags/censorship/</guid>
       <description></description>
     </item>
     <item>
       <title>Content</title>
-      <link>http://localhost:1313/tags/content/</link>
+      <link>http://localhost:36781/tags/content/</link>
       <pubDate>Fri, 02 Aug 2024 09:32:34 +0530</pubDate>
-      <guid>http://localhost:1313/tags/content/</guid>
+      <guid>http://localhost:36781/tags/content/</guid>
       <description></description>
     </item>
     <item>
       <title>Content-Creator</title>
-      <link>http://localhost:1313/tags/content-creator/</link>
+      <link>http://localhost:36781/tags/content-creator/</link>
       <pubDate>Fri, 02 Aug 2024 09:32:34 +0530</pubDate>
-      <guid>http://localhost:1313/tags/content-creator/</guid>
+      <guid>http://localhost:36781/tags/content-creator/</guid>
       <description></description>
     </item>
     <item>
       <title>Freedom</title>
-      <link>http://localhost:1313/tags/freedom/</link>
+      <link>http://localhost:36781/tags/freedom/</link>
       <pubDate>Fri, 02 Aug 2024 09:32:34 +0530</pubDate>
-      <guid>http://localhost:1313/tags/freedom/</guid>
+      <guid>http://localhost:36781/tags/freedom/</guid>
       <description></description>
     </item>
     <item>
       <title>Law</title>
-      <link>http://localhost:1313/tags/law/</link>
+      <link>http://localhost:36781/tags/law/</link>
       <pubDate>Fri, 02 Aug 2024 09:32:34 +0530</pubDate>
-      <guid>http://localhost:1313/tags/law/</guid>
+      <guid>http://localhost:36781/tags/law/</guid>
       <description></description>
     </item>
     <item>
       <title>News</title>
-      <link>http://localhost:1313/tags/news/</link>
+      <link>http://localhost:36781/tags/news/</link>
       <pubDate>Fri, 02 Aug 2024 09:32:34 +0530</pubDate>
-      <guid>http://localhost:1313/tags/news/</guid>
+      <guid>http://localhost:36781/tags/news/</guid>
       <description></description>
     </item>
     <item>
       <title>Privacy</title>
-      <link>http://localhost:1313/tags/privacy/</link>
+      <link>http://localhost:36781/tags/privacy/</link>
       <pubDate>Fri, 02 Aug 2024 09:32:34 +0530</pubDate>
-      <guid>http://localhost:1313/tags/privacy/</guid>
+      <guid>http://localhost:36781/tags/privacy/</guid>
       <description></description>
     </item>
     <item>
       <title>Filetype</title>
-      <link>http://localhost:1313/tags/filetype/</link>
+      <link>http://localhost:36781/tags/filetype/</link>
       <pubDate>Thu, 01 Aug 2024 10:40:06 +0530</pubDate>
-      <guid>http://localhost:1313/tags/filetype/</guid>
+      <guid>http://localhost:36781/tags/filetype/</guid>
       <description></description>
     </item>
     <item>
       <title>Images</title>
-      <link>http://localhost:1313/tags/images/</link>
+      <link>http://localhost:36781/tags/images/</link>
       <pubDate>Thu, 01 Aug 2024 10:40:06 +0530</pubDate>
-      <guid>http://localhost:1313/tags/images/</guid>
+      <guid>http://localhost:36781/tags/images/</guid>
       <description></description>
     </item>
     <item>
       <title>Ui</title>
-      <link>http://localhost:1313/tags/ui/</link>
+      <link>http://localhost:36781/tags/ui/</link>
       <pubDate>Thu, 18 Jan 2024 21:09:37 +0530</pubDate>
-      <guid>http://localhost:1313/tags/ui/</guid>
+      <guid>http://localhost:36781/tags/ui/</guid>
       <description></description>
     </item>
     <item>
       <title>Ux</title>
-      <link>http://localhost:1313/tags/ux/</link>
+      <link>http://localhost:36781/tags/ux/</link>
       <pubDate>Thu, 18 Jan 2024 21:09:37 +0530</pubDate>
-      <guid>http://localhost:1313/tags/ux/</guid>
+      <guid>http://localhost:36781/tags/ux/</guid>
       <description></description>
     </item>
     <item>
       <title>Vpn</title>
-      <link>http://localhost:1313/tags/vpn/</link>
+      <link>http://localhost:36781/tags/vpn/</link>
       <pubDate>Tue, 14 Nov 2023 17:12:44 +0530</pubDate>
-      <guid>http://localhost:1313/tags/vpn/</guid>
+      <guid>http://localhost:36781/tags/vpn/</guid>
       <description></description>
     </item>
     <item>
       <title>Bluetooth</title>
-      <link>http://localhost:1313/tags/bluetooth/</link>
+      <link>http://localhost:36781/tags/bluetooth/</link>
       <pubDate>Fri, 13 Oct 2023 13:03:03 +0530</pubDate>
-      <guid>http://localhost:1313/tags/bluetooth/</guid>
+      <guid>http://localhost:36781/tags/bluetooth/</guid>
       <description></description>
     </item>
     <item>
       <title>Kde</title>
-      <link>http://localhost:1313/tags/kde/</link>
+      <link>http://localhost:36781/tags/kde/</link>
       <pubDate>Fri, 13 Oct 2023 13:03:03 +0530</pubDate>
-      <guid>http://localhost:1313/tags/kde/</guid>
+      <guid>http://localhost:36781/tags/kde/</guid>
       <description></description>
     </item>
   </channel>

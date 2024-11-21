@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Images on TheSillyScribbles</title>
-    <link>http://localhost:1313/tags/images/</link>
+    <link>http://localhost:36781/tags/images/</link>
     <description>Recent content in Images on TheSillyScribbles</description>
     <generator>Hugo -- 0.139.0</generator>
     <language>en</language>
     <lastBuildDate>Thu, 01 Aug 2024 10:40:06 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/images/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:36781/tags/images/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The PITX file format</title>
-      <link>http://localhost:1313/posts/pitx-file-format/</link>
+      <link>http://localhost:36781/posts/pitx-file-format/</link>
       <pubDate>Thu, 01 Aug 2024 10:40:06 +0530</pubDate>
-      <guid>http://localhost:1313/posts/pitx-file-format/</guid>
+      <guid>http://localhost:36781/posts/pitx-file-format/</guid>
       <description>&lt;p&gt;PITX is a file format that I have envisioned to create in the coming months as a new way to store digital media, a way where images are stored with their context, with their story, i.e. text.&lt;/p&gt;
 &lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
 &lt;p&gt;Every image tells a story, yet so many of these stories are lost due to the lack of appropriate textual context. This gap inspired me to create PITX, a new file format designed to store images along with their stories, bringing us back to the exact moments we cherish.&lt;/p&gt;</description>
