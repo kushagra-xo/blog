@@ -41,7 +41,7 @@ to provide any gratification seems boring. I resisted the urge and it was worth 
 ![](./embr.jpg)
 
 This is some rusty and old equipment I borrowed from my mom. I know this looks like nothing but it did take time given it was my first time around
-trying this out. My plan in the future is to create something on something I actually wear or use. Maybe a hankerchief?
+trying this out. My plan in the future is to create something on something I actually wear or use. Maybe a handkerchief?
 
 ## Closing thoughts
 
