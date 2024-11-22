@@ -19,6 +19,43 @@ match.&lt;/p&gt;
 &lt;h2 id=&#34;origins&#34;&gt;Origins&lt;/h2&gt;
 &lt;p&gt;Embroidery in it’s initial forms emerged from the practice of mending clothes. Mending, patch work, tailoring fostered the artistic possibilities
 with the thread, which further led to the art of embroidery.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Embroidery, if you don’t know already is an art form, relating to the decoration of clothing material with hand woven thread. I saw some reels
+about it and it for some reason it uncovered a sense of creativity in me. There is something about personalized clothing that fast-fashion cannot
+match.</p>
+<h2 id="origins">Origins</h2>
+<p>Embroidery in it’s initial forms emerged from the practice of mending clothes. Mending, patch work, tailoring fostered the artistic possibilities
+with the thread, which further led to the art of embroidery.</p>
+<p><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Kantha_%28Quilt%29_LACMA_AC1994.131.1.jpg"></p>
+<p>This art form somehow feels very similar to [[Kingsugi]] to me, philosophically speaking. Both art forms explore possibilities with broken or
+imperfect things to emerge an idea of beauty from it.</p>
+<h2 id="aunt-jennifer">Aunt Jennifer</h2>
+<p>The word embroidery somehow always evokes memories of Class 12, reading the poem Aunt Jennifer’s Tigers. I’ll attach it below.
+Aunt Jennifer’s tigers prance across a screen, Bright topaz denizens of a world of green. They do not fear the men beneath the tree; They pace
+in sleek chivalric certainty.
+Aunt Jennifer’s fingers fluttering through her wool Find even the ivory needle hard to pull. The massive weight of Uncle’s wedding band Sits
+heavily upon Aunt Jennifer’s hand.
+When Aunt is dead, her terrified hands will lie Still ringed with ordeals she was mastered by. The tigers in the panel that she made Will go on
+prancing, proud and unafraid.
+A beautiful poem.</p>
+<h2 id="my-progress">My progress</h2>
+<p>I quickly opened up youtube, and watched the following video.</p>
+
+
+    
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/OWv6Ypzn9dg?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+      ></iframe>
+    </div>
+
+<p>I was able to complete a few stiches. Once I started to stitch, I realized how broken our patience really is.
+Something like embroidery takes time but we&rsquo;re so used to instant gratification that anything that seems to take more than 30 seconds
+to provide any gratification seems boring. I resisted the urge and it was worth it.</p>
+<p><img loading="lazy" src="/posts/on-embroidery/embr.jpg"></p>
+<p>This is some rusty and old equipment I borrowed from my mom. I know this looks like nothing but it did take time given it was my first time around
+trying this out. My plan in the future is to create something on something I actually wear or use. Maybe a handkerchief?</p>
+<h2 id="closing-thoughts">Closing thoughts</h2>
+<p>Until next time, how about you try it out?</p>
+]]></content:encoded>
     </item>
     <item>
       <title>What Are Hashmaps?</title>
@@ -29,6 +66,32 @@ with the thread, which further led to the art of embroidery.&lt;/p&gt;</descript
 &lt;p&gt;Today, we’ll discuss hashmaps—a fundamental data structure in computer science. I chose this topic while solving the &lt;a href=&#34;https://github.com/kushagra-xo/leetcode/tree/master/1.twoSum&#34;&gt;&amp;ldquo;Two Sum&amp;rdquo;&lt;/a&gt; problem, which required the use of hashmaps to efficiently find a solution. In this post, we&amp;rsquo;ll cover hash functions, linked lists, and how they come together to form hashmaps.&lt;/p&gt;
 &lt;h2 id=&#34;hashing&#34;&gt;Hashing&lt;/h2&gt;
 &lt;p&gt;Let’s start by understanding hashing. Hashing is a process of mapping variable-sized input data (like strings or numbers) to a fixed-size output. This mapping is carried out by a hashing function.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h2 id="background">Background</h2>
+<p>Today, we’ll discuss hashmaps—a fundamental data structure in computer science. I chose this topic while solving the <a href="https://github.com/kushagra-xo/leetcode/tree/master/1.twoSum">&ldquo;Two Sum&rdquo;</a> problem, which required the use of hashmaps to efficiently find a solution. In this post, we&rsquo;ll cover hash functions, linked lists, and how they come together to form hashmaps.</p>
+<h2 id="hashing">Hashing</h2>
+<p>Let’s start by understanding hashing. Hashing is a process of mapping variable-sized input data (like strings or numbers) to a fixed-size output. This mapping is carried out by a hashing function.</p>
+<p><img loading="lazy" src="/posts/what-are-hashmaps/hash_func.svg"></p>
+<p>Hashing functions can produce outputs of different lengths. For example, a hash function that outputs 6 characters will always generate a string of exactly 6 characters.</p>
+<p>However, this process creates a challenge. Since there are infinitely many possible inputs but only a finite number of possible outputs, collisions can occur. A collision happens when two different inputs generate the same output. While collisions are inevitable in theory, modern hash functions like SHA256 are designed to minimize their occurrence, making them exceedingly rare in practice.</p>
+<p>Hashing is widely used beyond hashmaps. Some common applications include digital signatures, public key cryptography, and more.</p>
+<h2 id="linked-lists">Linked Lists</h2>
+<p>Now that we understand how hashing works, let’s move on to linked lists, which are crucial in handling collisions in hashmaps.</p>
+<p>A linked list is a dynamic data structure that doesn&rsquo;t store elements contiguously in memory. Instead, each element points to the next element, forming a chain-like structure.</p>
+<p><img loading="lazy" src="/posts/what-are-hashmaps/linkedList.svg"></p>
+<h2 id="hashmaps">Hashmaps</h2>
+<p>Hashmaps combine hash functions and linked lists to create a data structure optimized for fast data retrieval. Here&rsquo;s how it works:</p>
+<p>First, we use a hashing function to compute the hash of a given key (our input), and also store the value a associated with it.
+This hash is then used to determine the index in an array where the data is stored. We refer to these indices as buckets.
+If a collision occurs (i.e., two keys hash to the same bucket), the collided elements are stored as a linked list at that bucket.</p>
+<p><img loading="lazy" src="/posts/what-are-hashmaps/hashmap.svg"></p>
+<p>By combining the quick lookup capabilities of hash functions with the flexibility of linked lists, hashmaps allow us to efficiently store and retrieve data, even when collisions occur.</p>
+<h1 id="related">Related</h1>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Hash_function">https://en.wikipedia.org/wiki/Hash_function</a></li>
+<li><a href="https://crypto.stackexchange.com/questions/47809/why-havent-any-sha-256-collisions-been-found-yet">https://crypto.stackexchange.com/questions/47809/why-havent-any-sha-256-collisions-been-found-yet</a></li>
+<li><a href="https://www.freecodecamp.org/news/how-linked-lists-work/">https://www.freecodecamp.org/news/how-linked-lists-work/</a></li>
+</ul>
+]]></content:encoded>
     </item>
     <item>
       <title>Time &amp; Space Complexity</title>
@@ -39,6 +102,29 @@ with the thread, which further led to the art of embroidery.&lt;/p&gt;</descript
 &lt;p&gt;I&amp;rsquo;ve recently decided to dive back into data structures and algorithms (DSA). These are fundamental skills for any developer, regardless of the field you&amp;rsquo;re in, and mastering them can significantly sharpen your problem-solving abilities. Beyond that, DSA is also intellectually stimulating and—dare I say—fun, especially when you’re tackling challenges with a friend. Now seems like the perfect time to revisit these essential topics.&lt;/p&gt;
 &lt;h2 id=&#34;solving-problems&#34;&gt;Solving Problems&lt;/h2&gt;
 &lt;p&gt;In computer science, just like in life, there are often multiple ways to solve a single problem. Each solution comes with its own trade-offs—just like how different recipes for making a cake can require varying amounts of time, effort, and ingredients. Similarly, algorithms have different &amp;ldquo;costs&amp;rdquo; in terms of resources.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h2 id="background">Background</h2>
+<p>I&rsquo;ve recently decided to dive back into data structures and algorithms (DSA). These are fundamental skills for any developer, regardless of the field you&rsquo;re in, and mastering them can significantly sharpen your problem-solving abilities. Beyond that, DSA is also intellectually stimulating and—dare I say—fun, especially when you’re tackling challenges with a friend. Now seems like the perfect time to revisit these essential topics.</p>
+<h2 id="solving-problems">Solving Problems</h2>
+<p>In computer science, just like in life, there are often multiple ways to solve a single problem. Each solution comes with its own trade-offs—just like how different recipes for making a cake can require varying amounts of time, effort, and ingredients. Similarly, algorithms have different &ldquo;costs&rdquo; in terms of resources.</p>
+<p>When discussing algorithms, we typically focus on two major abstract resources: time and space. While these terms might seem straightforward, their impact on how we evaluate solutions requires a closer look. Let’s break them down.</p>
+<h2 id="time-complexity">Time Complexity</h2>
+<p>Time complexity is a measure of how the runtime of an algorithm increases as the size of the input grows. It helps us understand how efficient an algorithm is, especially as we deal with larger data sets. Time complexity is usually expressed using Big O notation, which describes the worst-case scenario—how the algorithm performs when the input is as demanding as possible.</p>
+<p>For example, if an algorithm has a time complexity of O(n), it means the execution time increases linearly with the input size n. So, if you double the input size, the runtime will also approximately double. Here’s a visual representation of different time complexities and how they compare:</p>
+<p><img alt="diagram" loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Comparison_computational_complexity.svg"></p>
+<p>In this diagram, you can see how different time complexities (e.g., O(1), O(n), O(n^2)) grow as the input size increases. The goal is to minimize the time complexity for more efficient algorithms.</p>
+<h2 id="space-complexity">Space Complexity</h2>
+<p>Space complexity, on the other hand, measures how much memory an algorithm uses to solve a problem. This includes both the memory used by the input itself and any additional memory (auxiliary space) the algorithm requires during its execution.</p>
+<p>For instance, if you’re sorting an array in place, your space complexity could be O(1) because you aren’t using any extra memory outside of the input. However, if the algorithm needs additional storage, such as an extra array for temporary data, the space complexity might increase to O(n).</p>
+<p>Understanding space complexity is just as important as time complexity because, in some cases, memory usage can be the limiting factor, especially when working with large datasets or resource-constrained environments.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>Mastering time and space complexity is crucial for writing efficient algorithms. By learning how to evaluate and optimize these factors, you can make better decisions when solving problems and choosing the right approach for the task at hand. In future posts, I’ll explore specific algorithms, their complexities, and how to apply these concepts in real-world scenarios.</p>
+<h2 id="references">References</h2>
+<ul>
+<li><a href="https://www.freecodecamp.org/news/big-o-cheat-sheet-time-complexity-chart/">Big O Cheat Sheet – Time Complexity Chart - freecodecamp</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Time_complexity">Time Complexity - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Space_complexity">Space Complexity - Wikipedia</a></li>
+</ul>
+]]></content:encoded>
     </item>
     <item>
       <title>Redragon K630: A Budget Mechanical Keyboard</title>
@@ -47,6 +133,23 @@ with the thread, which further led to the art of embroidery.&lt;/p&gt;</descript
       <guid>http://localhost:1313/posts/k630-keyboard/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;Recently, I needed a keyboard to pair with my Xiaomi Pad 6. The official Xiaomi keyboard didn’t seem worth its price given its subpar quality and limited use with the tablet alone. That’s when I realized I’d been wanting a mechanical keyboard for a while. I mean, it’s aesthetic, the sound is satisfying, and let’s face it—using one kind of makes you &lt;em&gt;feel&lt;/em&gt; more like a programmer. So yeah, I got it for all the wrong reasons, but honestly, I don’t think it was a bad investment.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h2 id="background">Background</h2>
+<p>Recently, I needed a keyboard to pair with my Xiaomi Pad 6. The official Xiaomi keyboard didn’t seem worth its price given its subpar quality and limited use with the tablet alone. That’s when I realized I’d been wanting a mechanical keyboard for a while. I mean, it’s aesthetic, the sound is satisfying, and let’s face it—using one kind of makes you <em>feel</em> more like a programmer. So yeah, I got it for all the wrong reasons, but honestly, I don’t think it was a bad investment.</p>
+<h2 id="first-impressions">First Impressions</h2>
+<p><img loading="lazy" src="/posts/k630-keyboard/with_lap.jpg"></p>
+<p>The unboxing experience was pretty standard—nothing fancy, but that’s what I expected given the price. One thing that stood out was the weight of the keyboard. It felt heavy in my hands, though I’m sure that’s just because this is my first mechanical keyboard, so I don’t have anything to compare it to.</p>
+<p>Typing on it felt completely different from my laptop keyboard. Now, whenever I switch back to my laptop, its keyboard feels flat and lifeless in comparison. As for the sound—it’s not overwhelming, but it’s just enough to give that satisfying mechanical <em>click</em>. Anything louder might get annoying after a while, so this feels like the perfect balance. Oh, and the backlighting? It’s a nice touch, especially at night.</p>
+<p><img loading="lazy" src="/posts/k630-keyboard/top.jpg"></p>
+<h2 id="issues">Issues</h2>
+<p>One weird issue I’ve encountered—and this only happens when I use the keyboard with my tablet—is that the ESC key registers as the &lsquo;`&rsquo; character. I’m still figuring out why this happens, but it’s an odd quirk that I hope to resolve soon.</p>
+<h2 id="final-thoughts">Final Thoughts</h2>
+<p>All in all, I think this keyboard is a great addition to my setup, and I’m pretty happy with the purchase. It’s functional, aesthetically pleasing, and makes typing a more enjoyable experience. Plus, who doesn’t love a good mechanical keyboard, right?</p>
+<h2 id="related">Related</h2>
+<ul>
+<li><a href="https://www.redragonzone.com/products/redragon-k630-gaming-mechanical-keyboard">Redragon K630 - Official Website</a></li>
+<li><a href="https://www.mi.com/in/product/xiaomi-pad-6/">Xiaomi Pad 6 - Official Website</a></li>
+</ul>
+]]></content:encoded>
     </item>
     <item>
       <title>Broadcasting Services Bill</title>
@@ -57,6 +160,29 @@ with the thread, which further led to the art of embroidery.&lt;/p&gt;</descript
 &lt;p&gt;India is on the verge of introducing a change in its media architecture with the proposed &lt;a href=&#34;https://en.wikipedia.org/wiki/Broadcasting_Services_(Regulation)_Bill,_2023&#34;&gt;Broadcasting Services (Regulation) Bill, 2023&lt;/a&gt;. While the intention behind this bill seems noble—establishing control over a wider range of broadcasting services and implementing censorship—the implications are far-reaching and concerning for press freedom, privacy, and creative expression.&lt;/p&gt;
 &lt;h2 id=&#34;a-consolidated-regulatory-framework&#34;&gt;A Consolidated Regulatory Framework&lt;/h2&gt;
 &lt;p&gt;The proposed bill seeks to consolidate all broadcasting services, including digital platforms like social media, under a single regulatory framework. This move raises questions about the government&amp;rsquo;s intentions and potential control over what content is permitted in public discourse as we are well aware of the control established by the majority government in the past decade over journalistic independence and freedom. By expanding its reach to cover both traditional and digital mediums, the bill poses a significant threat to India&amp;rsquo;s digital journalism, which has played a crucial role in shaping public opinion and intellectual in the recent years, when the traditional forms of media were completely biased.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
+<p>India is on the verge of introducing a change in its media architecture with the proposed <a href="https://en.wikipedia.org/wiki/Broadcasting_Services_(Regulation)_Bill,_2023">Broadcasting Services (Regulation) Bill, 2023</a>. While the intention behind this bill seems noble—establishing control over a wider range of broadcasting services and implementing censorship—the implications are far-reaching and concerning for press freedom, privacy, and creative expression.</p>
+<h2 id="a-consolidated-regulatory-framework">A Consolidated Regulatory Framework</h2>
+<p>The proposed bill seeks to consolidate all broadcasting services, including digital platforms like social media, under a single regulatory framework. This move raises questions about the government&rsquo;s intentions and potential control over what content is permitted in public discourse as we are well aware of the control established by the majority government in the past decade over journalistic independence and freedom. By expanding its reach to cover both traditional and digital mediums, the bill poses a significant threat to India&rsquo;s digital journalism, which has played a crucial role in shaping public opinion and intellectual in the recent years, when the traditional forms of media were completely biased.</p>
+<h2 id="threats-to-press-freedom">Threats to Press Freedom</h2>
+<p>The bill proposes strong content regulation through a separate committee responsible for regulating and censoring content on every service. This move raises concerns about the government&rsquo;s control over what can be reported and how journalists are expected to conduct themselves when sharing news or opinions. Additionally, the requirement for individual journalists and creators to register and follow broadcasting rules when commenting on news is troubling, as it could lead to self-censorship and stifle independent voices.</p>
+<h2 id="the-dominance-of-government">The Dominance of Government</h2>
+<p>The broadcasting advisory council in the proposed bill is dominated by government bureaucrats rather than independent voices. This move raises concerns about the potential for political influence over media content and the erosion of journalistic integrity. It also implies that the government will have a substantial role in shaping public discourse, which could lead to a suppression of dissenting views, highlights of which have very well been seen.</p>
+<h2 id="privacy-concerns">Privacy Concerns</h2>
+<p>The requirement for broadcasting network operators to maintain detailed subscriber data, including personal information, raises privacy concerns. This move can potentially expose individuals&rsquo; private information to unauthorized parties and create vulnerabilities for identity theft or surveillance. Furthermore, the collection and storage of such sensitive data could infringe upon citizens&rsquo; rights to privacy.</p>
+<h2 id="call-to-action">Call to action</h2>
+<p>As this proposed bill gains momentum in India&rsquo;s legislative process, it is essential that citizens, journalists, and media professionals take a stand against its potential dangers. Here are some steps you can take:</p>
+<ul>
+<li>Contact your local representatives and express your concerns about the bill.</li>
+<li>Share your thoughts on social media using relevant hashtags such as #KillTheBill to raise awareness.</li>
+<li>Support organizations and individuals who are fighting against the bill such as IFF (Indian Freedom Foundation).</li>
+</ul>
+<h2 id="resources">Resources</h2>
+<ul>
+<li><a href="https://prsindia.org/files/parliamentry-announcement/2023-12-09/Draft_Broadcasting_Services_(Regulation)_Bill,_2023.pdf">Broadcasting Services (Regulation) Bill, 2023</a></li>
+<li><a href="https://sansad.in/ls/members">Members of Parliament</a></li>
+</ul>
+]]></content:encoded>
     </item>
     <item>
       <title>The PITX file format</title>
@@ -66,6 +192,14 @@ with the thread, which further led to the art of embroidery.&lt;/p&gt;</descript
       <description>&lt;p&gt;PITX is a file format that I have envisioned to create in the coming months as a new way to store digital media, a way where images are stored with their context, with their story, i.e. text.&lt;/p&gt;
 &lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
 &lt;p&gt;Every image tells a story, yet so many of these stories are lost due to the lack of appropriate textual context. This gap inspired me to create PITX, a new file format designed to store images along with their stories, bringing us back to the exact moments we cherish.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>PITX is a file format that I have envisioned to create in the coming months as a new way to store digital media, a way where images are stored with their context, with their story, i.e. text.</p>
+<h2 id="inspiration">Inspiration</h2>
+<p>Every image tells a story, yet so many of these stories are lost due to the lack of appropriate textual context. This gap inspired me to create PITX, a new file format designed to store images along with their stories, bringing us back to the exact moments we cherish.</p>
+<h2 id="the-way-forward">The Way Forward</h2>
+<p>I envision a future where galleries seamlessly integrate textual context with visual data, improving our interation. Adding and reading these stories should be as effortless as capturing the images themselves.</p>
+<h2 id="current-progress">Current Progress</h2>
+<p>I&rsquo;ve already begun developing the basic structure and functionality of the PITX file type. You can follow the progress and contribute at <a href="https://github.com/kushagra-xo/pitx">kushagra-xo/pitx</a>.</p>
+]]></content:encoded>
     </item>
     <item>
       <title>What Is UI/UX?</title>
@@ -78,6 +212,20 @@ with the thread, which further led to the art of embroidery.&lt;/p&gt;</descript
 &lt;/blockquote&gt;
 &lt;h2 id=&#34;whats-ui&#34;&gt;What&amp;rsquo;s UI?&lt;/h2&gt;
 &lt;p&gt;It stands for user interface and is the visual aspect of how information is represented, this includes fonts, colors, menus, buttons and what not, all meticulously chosen to set the tone. It&amp;rsquo;s like you dressing up for the appropriate occasion. You dress differently for a wedding, for a party, for a beach, and for sleeping. Similarly we represent information according to the context. For a more formal website, you&amp;rsquo;d use more formal fonts, and monochromatic colors, but for a club&amp;rsquo;s website, you may choose to get creative with how things look.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>We live in the age of information, the age of data, yet seldom do we notice, care or appreciate it&rsquo;s representation. It&rsquo;s representation is as powerful as the information itself, it can change how the person feels about it and how they will remember it.</p>
+<blockquote>
+<p>Good design, when it’s done well, becomes invisible. It’s only when it’s done poorly that we notice it - Jared Spool</p>
+</blockquote>
+<h2 id="whats-ui">What&rsquo;s UI?</h2>
+<p>It stands for user interface and is the visual aspect of how information is represented, this includes fonts, colors, menus, buttons and what not, all meticulously chosen to set the tone. It&rsquo;s like you dressing up for the appropriate occasion. You dress differently for a wedding, for a party, for a beach, and for sleeping. Similarly we represent information according to the context. For a more formal website, you&rsquo;d use more formal fonts, and monochromatic colors, but for a club&rsquo;s website, you may choose to get creative with how things look.</p>
+<p><img alt="ui" loading="lazy" src="/posts/what-is-ui-ux/ui.png"></p>
+<h2 id="what-is-ux">What is UX?</h2>
+<p>UX is a broader concept that stands for user experience. It&rsquo;s a superset of UI, emphasizing the end-user experience aspect of design. UX designers ensures that the digital landscape is not just elegant but effortlessly functional through rigourous testing. A good UX appropriately solves the user problem and is accessible to all irrespective of their disabilities. Your dress can be as beautiful as you want it to be, but it cant&rsquo; be functional if it doesn&rsquo;t have enough pockets, or keeps you warm when it&rsquo;s cold.</p>
+<blockquote>
+<p>Fact: UX is not limted digitally, it can encompass things like chairs, door locks and even clothes as i mentioned above.</p>
+</blockquote>
+<p><img alt="ux" loading="lazy" src="/posts/what-is-ui-ux/ux.png"></p>
+]]></content:encoded>
     </item>
     <item>
       <title>Virtual Private Networks (VPNs)</title>
@@ -93,6 +241,40 @@ connection between a computing device and a computer network, or
 between two networks, using an insecure communication medium such as the
 public Internet
 &amp;ndash; &lt;cite&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Virtual_private_network&#34;&gt;Wikipedia&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Virtual Private Networks act as an important tool in the modern digital landscape empowering many to protect their privacy, and circumvent government imposed censorship. What the people need is <em><strong>choice</strong></em>. The ability to choose what we wish to share and what we wish to access, and a VPN puts that power in your hands.</p>
+<p>Let&rsquo;s talk some tech.</p>
+<h2 id="what-is-a-vpn">What is a VPN?</h2>
+<blockquote>
+<p>A virtual private network (VPN) is a mechanism for creating a secure
+connection between a computing device and a computer network, or
+between two networks, using an insecure communication medium such as the
+public Internet
+&ndash; <cite><a href="https://en.wikipedia.org/wiki/Virtual_private_network">Wikipedia</a></cite></p>
+</blockquote>
+<p>They provide the ability to <em><strong>connect to remote computers, securely</strong></em>.</p>
+<blockquote>
+<p>Security and privacy are two distinct concepts.
+<cite> Read more here: <a href="https://www.privacyguides.org/en/basics/common-threats/#security-and-privacy">PrivacyGuides</a></cite></p>
+</blockquote>
+<p>But why do you care? By connecting to remote computers, you could
+<em><strong>mask and tunnel</strong></em> all of your traffic through it. (VPNs are used differently in enterprise)</p>
+<p>What do I mean by mask and tunnel?</p>
+<ul>
+<li>Mask
+<ul>
+<li>The source of all of your traffic now seems to be the VPN server. You forward all the relevant information to the server to make the connections for you. In more simple terms, now you start to pretend to be someone else over the internet, i.e. you start wearing a mask.</li>
+</ul>
+</li>
+<li>Tunnel
+<ul>
+<li>A secure tunnel is established between you and the VPN server, via encryption, such that the ISP cannot know what you&rsquo;re trying to access.</li>
+</ul>
+</li>
+</ul>
+<h3 id="basic-vpn-usage">Basic VPN usage:</h3>
+<p><img alt="Normal VPN query" loading="lazy" src="/posts/virtual-private-networks/normal-vpn-query.png"></p>
+<p>A VPN shifts your trust from your ISP to a VPN server. Therefore choosing a VPN service is extremely crucial in determing privacy returns. A bad service will just be worse for your privacy.</p>
+]]></content:encoded>
     </item>
     <item>
       <title>KDE Bluetooth Disabled on Login</title>
@@ -108,6 +290,31 @@ public Internet
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;[Adapters]
 #44:85:00:80:3C:BA_powered=false
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;I have tested this and there does not seem to be any functionality issue whatsoever&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Lately i had been dealing with an issue where my bluetooth would disable automatically upon login. I had done a lot of troubleshooting to realize that the issue was with me <em>abruptly rebooting</em> instead of rebooting via the gui.</p>
+<p>Which would cause <code>~/.config/bluedevilglobalrc</code> to look something like this:</p>
+<pre tabindex="0"><code>[Adapters]
+44:85:00:80:3C:BA_powered=false
+</code></pre><h2 id="solution">Solution:</h2>
+<h3 id="1-comment-out-the-line-to-look-something-like-this">1. Comment out the line to look something like this:</h3>
+<pre tabindex="0"><code>[Adapters]
+#44:85:00:80:3C:BA_powered=false
+</code></pre><p>I have tested this and there does not seem to be any functionality issue whatsoever</p>
+<h3 id="2-make-the-file-read-only-or-immutable">2. Make the file read-only or immutable</h3>
+<ul>
+<li>Change the file to look like this:</li>
+</ul>
+<pre tabindex="0"><code>[Adapters]
+44:85:00:80:3C:BA_powered=true
+</code></pre><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">$ chattr +i ~/.config/bluedevilglobalrc
+</span></span></code></pre></div><hr>
+<h3 id="update-sun-nov-12-111746-am-ist-2023">Update: (Sun Nov 12 11:17:46 AM IST 2023)</h3>
+<p>The issue does not seem to persist anymore, atleast for me, it&rsquo;s been a while since anything weird happened with my bluetooth. If you are still facing issues maybe you can try the above, or report relevant bugs at bugs.kde.org for better support.</p>
+<h2 id="references">References:</h2>
+<ul>
+<li><a href="https://www.reddit.com/r/ManjaroLinux/comments/12fgj3o/kde_plasma_bluetooth_not_automatically_powered_on/">https://www.reddit.com/r/ManjaroLinux/comments/12fgj3o/kde_plasma_bluetooth_not_automatically_powered_on/</a></li>
+<li><a href="https://bugs.kde.org/show_bug.cgi?id=469119">https://bugs.kde.org/show_bug.cgi?id=469119</a></li>
+</ul>
+]]></content:encoded>
     </item>
   </channel>
 </rss>

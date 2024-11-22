@@ -36,6 +36,7 @@ params:
   hideSummary: false
   showtoc: false
   tocopen: false
+  ShowFullTextinRSS: true
 
   assets:
     # disableHLJS: true # to disable highlight.js
@@ -77,6 +78,8 @@ params:
       url: https://t.me/volodarolathana
     - name: stackoverflow
       url: "https://stackexchange.com/users/28102339/kushagra"
+    - name: rss
+      url: index.xml
 
   analytics:
     google:
