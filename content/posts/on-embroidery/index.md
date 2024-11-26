@@ -14,7 +14,7 @@ with the thread, which further led to the art of embroidery.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/2/2c/Kantha_%28Quilt%29_LACMA_AC1994.131.1.jpg)
 
-This art form somehow feels very similar to [Kingsugi](https://en.wikipedia.org/wiki/Kintsugi) to me, philosophically speaking. Both art forms explore possibilities with broken or
+This art form somehow feels very similar to [Kintsugi](https://en.wikipedia.org/wiki/Kintsugi) to me, philosophically speaking. Both art forms explore possibilities with broken or
 imperfect things to emerge an idea of beauty from it.
 
 ## Aunt Jennifer
