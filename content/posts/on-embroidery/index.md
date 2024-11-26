@@ -14,18 +14,26 @@ with the thread, which further led to the art of embroidery.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/2/2c/Kantha_%28Quilt%29_LACMA_AC1994.131.1.jpg)
 
-This art form somehow feels very similar to [[Kingsugi]] to me, philosophically speaking. Both art forms explore possibilities with broken or
+This art form somehow feels very similar to [Kingsugi](https://en.wikipedia.org/wiki/Kintsugi) to me, philosophically speaking. Both art forms explore possibilities with broken or
 imperfect things to emerge an idea of beauty from it.
 
 ## Aunt Jennifer
 
 The word embroidery somehow always evokes memories of Class 12, reading the poem Aunt Jennifer’s Tigers. I’ll attach it below.
+
+<blockquote>
+
 Aunt Jennifer’s tigers prance across a screen, Bright topaz denizens of a world of green. They do not fear the men beneath the tree; They pace
 in sleek chivalric certainty.
+
 Aunt Jennifer’s fingers fluttering through her wool Find even the ivory needle hard to pull. The massive weight of Uncle’s wedding band Sits
 heavily upon Aunt Jennifer’s hand.
+
 When Aunt is dead, her terrified hands will lie Still ringed with ordeals she was mastered by. The tigers in the panel that she made Will go on
 prancing, proud and unafraid.
+
+</blockquote>
+
 A beautiful poem.
 
 ## My progress
