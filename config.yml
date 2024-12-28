@@ -72,12 +72,6 @@ params:
     Content: exploring tech, thought and whimsy
 
   socialIcons:
-    - name: github
-      url: "https://github.com/kushagra-xo"
-    - name: telegram
-      url: https://t.me/volodarolathana
-    - name: stackoverflow
-      url: "https://stackexchange.com/users/28102339/kushagra"
     - name: rss
       url: index.xml
 
