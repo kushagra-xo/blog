@@ -72,6 +72,8 @@ params:
     Content: exploring tech, thought and whimsy
 
   socialIcons:
+    - name: github
+      url: https://github.com/kushagra-xo/
     - name: rss
       url: index.xml
 
