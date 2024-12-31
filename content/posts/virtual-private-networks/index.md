@@ -35,7 +35,7 @@ What do I mean by mask and tunnel?
   - A secure tunnel is established between you and the VPN server, via encryption, such that the ISP cannot know what you're trying to access.
 
 ### Basic VPN usage:
-![Normal VPN query](https://www.dropbox.com/scl/fi/5xydlr8zvp8nt8zxg7zaf/normal-vpn-query.webp?rlkey=62t052mg4ayt73hx1q06wpzmr&st=6q7hm9i9&raw=1)
+![Normal VPN query](./normal-vpn-query.webp)
 
 A VPN shifts your trust from your ISP to a VPN server. Therefore choosing a VPN service is extremely crucial in determing privacy returns. A bad service will just be worse for your privacy.
 
