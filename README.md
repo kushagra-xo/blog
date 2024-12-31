@@ -1,1 +1,1 @@
-![](thesillyscribbles.png)
+![](./assets/thesillyscribbles.png)
