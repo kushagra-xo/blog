@@ -53,7 +53,7 @@ public Internet
 </li>
 </ul>
 <h3 id="basic-vpn-usage">Basic VPN usage:</h3>
-<p><img alt="Normal VPN query" loading="lazy" src="https://www.dropbox.com/scl/fi/5xydlr8zvp8nt8zxg7zaf/normal-vpn-query.webp?rlkey=62t052mg4ayt73hx1q06wpzmr&st=6q7hm9i9&raw=1"></p>
+<p><img alt="Normal VPN query" loading="lazy" src="/posts/virtual-private-networks/normal-vpn-query.webp"></p>
 <p>A VPN shifts your trust from your ISP to a VPN server. Therefore choosing a VPN service is extremely crucial in determing privacy returns. A bad service will just be worse for your privacy.</p>
 ]]></content:encoded>
     </item>

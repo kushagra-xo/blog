@@ -12,7 +12,7 @@ Today, we’ll discuss hashmaps—a fundamental data structure in computer scien
 
 Let’s start by understanding hashing. Hashing is a process of mapping variable-sized input data (like strings or numbers) to a fixed-size output. This mapping is carried out by a hashing function.
 
-![](./hash_function.webp)
+![](./hash_func.webp)
 
 Hashing functions can produce outputs of different lengths. For example, a hash function that outputs 6 characters will always generate a string of exactly 6 characters.
 

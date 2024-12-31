@@ -21,7 +21,7 @@
 <p>Today, we’ll discuss hashmaps—a fundamental data structure in computer science. I chose this topic while solving the <a href="https://github.com/kushagra-xo/leetcode/tree/master/1.twoSum">&ldquo;Two Sum&rdquo;</a> problem, which required the use of hashmaps to efficiently find a solution. In this post, we&rsquo;ll cover hash functions, linked lists, and how they come together to form hashmaps.</p>
 <h2 id="hashing">Hashing</h2>
 <p>Let’s start by understanding hashing. Hashing is a process of mapping variable-sized input data (like strings or numbers) to a fixed-size output. This mapping is carried out by a hashing function.</p>
-<p><img loading="lazy" src="./hash_function.webp"></p>
+<p><img loading="lazy" src="/posts/what-are-hashmaps/hash_func.webp"></p>
 <p>Hashing functions can produce outputs of different lengths. For example, a hash function that outputs 6 characters will always generate a string of exactly 6 characters.</p>
 <p>However, this process creates a challenge. Since there are infinitely many possible inputs but only a finite number of possible outputs, collisions can occur. A collision happens when two different inputs generate the same output. While collisions are inevitable in theory, modern hash functions like SHA256 are designed to minimize their occurrence, making them exceedingly rare in practice.</p>
 <p>Hashing is widely used beyond hashmaps. Some common applications include digital signatures, public key cryptography, and more.</p>

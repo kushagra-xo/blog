@@ -21,20 +21,20 @@
 <p>Today, we’ll discuss hashmaps—a fundamental data structure in computer science. I chose this topic while solving the <a href="https://github.com/kushagra-xo/leetcode/tree/master/1.twoSum">&ldquo;Two Sum&rdquo;</a> problem, which required the use of hashmaps to efficiently find a solution. In this post, we&rsquo;ll cover hash functions, linked lists, and how they come together to form hashmaps.</p>
 <h2 id="hashing">Hashing</h2>
 <p>Let’s start by understanding hashing. Hashing is a process of mapping variable-sized input data (like strings or numbers) to a fixed-size output. This mapping is carried out by a hashing function.</p>
-<p><img loading="lazy" src="https://www.dropbox.com/scl/fi/ylu0vmplg1wrtv073xzqo/hash_func.webp?rlkey=brbpvybuaf5tn2mxcf99noi3z&st=yo9rggse&raw=1"></p>
+<p><img loading="lazy" src="/posts/what-are-hashmaps/hash_func.webp"></p>
 <p>Hashing functions can produce outputs of different lengths. For example, a hash function that outputs 6 characters will always generate a string of exactly 6 characters.</p>
 <p>However, this process creates a challenge. Since there are infinitely many possible inputs but only a finite number of possible outputs, collisions can occur. A collision happens when two different inputs generate the same output. While collisions are inevitable in theory, modern hash functions like SHA256 are designed to minimize their occurrence, making them exceedingly rare in practice.</p>
 <p>Hashing is widely used beyond hashmaps. Some common applications include digital signatures, public key cryptography, and more.</p>
 <h2 id="linked-lists">Linked Lists</h2>
 <p>Now that we understand how hashing works, let’s move on to linked lists, which are crucial in handling collisions in hashmaps.</p>
 <p>A linked list is a dynamic data structure that doesn&rsquo;t store elements contiguously in memory. Instead, each element points to the next element, forming a chain-like structure.</p>
-<p><img loading="lazy" src="https://www.dropbox.com/scl/fi/wjchp3zzui5gzmflmy8ah/linkedList.webp?rlkey=1nmwm267yogt4a6objr00ke5g&st=h61khfcf&raw=1"></p>
+<p><img loading="lazy" src="/posts/what-are-hashmaps/linkedList.webp"></p>
 <h2 id="hashmaps">Hashmaps</h2>
 <p>Hashmaps combine hash functions and linked lists to create a data structure optimized for fast data retrieval. Here&rsquo;s how it works:</p>
 <p>First, we use a hashing function to compute the hash of a given key (our input), and also store the value a associated with it.
 This hash is then used to determine the index in an array where the data is stored. We refer to these indices as buckets.
 If a collision occurs (i.e., two keys hash to the same bucket), the collided elements are stored as a linked list at that bucket.</p>
-<p><img loading="lazy" src="https://www.dropbox.com/scl/fi/5njk0yq9up42crhinsybw/hashmap.webp?rlkey=sy5o6pyqxtfsg1wv0kb0nr8nh&st=38m08ght&raw=1"></p>
+<p><img loading="lazy" src="/posts/what-are-hashmaps/hashmap.webp"></p>
 <p>By combining the quick lookup capabilities of hash functions with the flexibility of linked lists, hashmaps allow us to efficiently store and retrieve data, even when collisions occur.</p>
 <h1 id="related">Related</h1>
 <ul>
@@ -87,10 +87,10 @@ If a collision occurs (i.e., two keys hash to the same bucket), the collided ele
       <content:encoded><![CDATA[<h2 id="background">Background</h2>
 <p>Recently, I needed a keyboard to pair with my Xiaomi Pad 6. The official Xiaomi keyboard didn’t seem worth its price given its subpar quality and limited use with the tablet alone. That’s when I realized I’d been wanting a mechanical keyboard for a while. I mean, it’s aesthetic, the sound is satisfying, and let’s face it—using one kind of makes you <em>feel</em> more like a programmer. So yeah, I got it for all the wrong reasons, but honestly, I don’t think it was a bad investment.</p>
 <h2 id="first-impressions">First Impressions</h2>
-<p><img loading="lazy" src="https://www.dropbox.com/scl/fi/emyx4fwakb19s8pm66y0a/with_lap.webp?rlkey=6nv8ab1woda93yufb6cxvnnc8&st=y59wxp92&raw=1"></p>
+<p><img loading="lazy" src="/posts/k630-keyboard/with_lap.webp"></p>
 <p>The unboxing experience was pretty standard—nothing fancy, but that’s what I expected given the price. One thing that stood out was the weight of the keyboard. It felt heavy in my hands, though I’m sure that’s just because this is my first mechanical keyboard, so I don’t have anything to compare it to.</p>
 <p>Typing on it felt completely different from my laptop keyboard. Now, whenever I switch back to my laptop, its keyboard feels flat and lifeless in comparison. As for the sound—it’s not overwhelming, but it’s just enough to give that satisfying mechanical <em>click</em>. Anything louder might get annoying after a while, so this feels like the perfect balance. Oh, and the backlighting? It’s a nice touch, especially at night.</p>
-<p><img loading="lazy" src="https://www.dropbox.com/scl/fi/vfihvwv2pgaa9z1w33jvg/top.webp?rlkey=yx6zvk2t5u4jejwu2w8jz6awh&st=aa2cmf2n&raw=1"></p>
+<p><img loading="lazy" src="/posts/k630-keyboard/top.webp"></p>
 <h2 id="issues">Issues</h2>
 <p>One weird issue I’ve encountered—and this only happens when I use the keyboard with my tablet—is that the ESC key registers as the &lsquo;`&rsquo; character. I’m still figuring out why this happens, but it’s an odd quirk that I hope to resolve soon.</p>
 <h2 id="final-thoughts">Final Thoughts</h2>
@@ -223,7 +223,7 @@ public Internet
 </li>
 </ul>
 <h3 id="basic-vpn-usage">Basic VPN usage:</h3>
-<p><img alt="Normal VPN query" loading="lazy" src="https://www.dropbox.com/scl/fi/5xydlr8zvp8nt8zxg7zaf/normal-vpn-query.webp?rlkey=62t052mg4ayt73hx1q06wpzmr&st=6q7hm9i9&raw=1"></p>
+<p><img alt="Normal VPN query" loading="lazy" src="/posts/virtual-private-networks/normal-vpn-query.webp"></p>
 <p>A VPN shifts your trust from your ISP to a VPN server. Therefore choosing a VPN service is extremely crucial in determing privacy returns. A bad service will just be worse for your privacy.</p>
 ]]></content:encoded>
     </item>
