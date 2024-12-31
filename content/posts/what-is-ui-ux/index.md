@@ -11,11 +11,11 @@ We live in the age of information, the age of data, yet seldom do we notice, car
 ## What's UI?
 It stands for user interface and is the visual aspect of how information is represented, this includes fonts, colors, menus, buttons and what not, all meticulously chosen to set the tone. It's like you dressing up for the appropriate occasion. You dress differently for a wedding, for a party, for a beach, and for sleeping. Similarly we represent information according to the context. For a more formal website, you'd use more formal fonts, and monochromatic colors, but for a club's website, you may choose to get creative with how things look.
 
-![ui](ui.png)
+![ui](https://www.dropbox.com/scl/fi/p5nw2h9k6lht5w8ubl0iz/ui.webp?rlkey=bqsji5a5oircjybbjtsvmsjfu&st=rig0n6fd&raw=1)
 
 ## What is UX?
 UX is a broader concept that stands for user experience. It's a superset of UI, emphasizing the end-user experience aspect of design. UX designers ensures that the digital landscape is not just elegant but effortlessly functional through rigourous testing. A good UX appropriately solves the user problem and is accessible to all irrespective of their disabilities. Your dress can be as beautiful as you want it to be, but it cant' be functional if it doesn't have enough pockets, or keeps you warm when it's cold.
 
 > Fact: UX is not limted digitally, it can encompass things like chairs, door locks and even clothes as i mentioned above.
 
-![ux](ux.png) 
+![ux](https://www.dropbox.com/scl/fi/ljkvs21qy85f7a296wieq/ux.webp?rlkey=7jhrhxxhorg771zabpno1ddf5&st=vl49yfh2&raw=1) 

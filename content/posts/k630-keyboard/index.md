@@ -10,13 +10,13 @@ Recently, I needed a keyboard to pair with my Xiaomi Pad 6. The official Xiaomi 
 
 ## First Impressions
 
-![](./with_lap.jpg)
+![](https://www.dropbox.com/scl/fi/emyx4fwakb19s8pm66y0a/with_lap.webp?rlkey=6nv8ab1woda93yufb6cxvnnc8&st=y59wxp92&raw=1)
 
 The unboxing experience was pretty standard—nothing fancy, but that’s what I expected given the price. One thing that stood out was the weight of the keyboard. It felt heavy in my hands, though I’m sure that’s just because this is my first mechanical keyboard, so I don’t have anything to compare it to.
 
 Typing on it felt completely different from my laptop keyboard. Now, whenever I switch back to my laptop, its keyboard feels flat and lifeless in comparison. As for the sound—it’s not overwhelming, but it’s just enough to give that satisfying mechanical _click_. Anything louder might get annoying after a while, so this feels like the perfect balance. Oh, and the backlighting? It’s a nice touch, especially at night.
 
-![](./top.jpg)
+![](https://www.dropbox.com/scl/fi/vfihvwv2pgaa9z1w33jvg/top.webp?rlkey=yx6zvk2t5u4jejwu2w8jz6awh&st=aa2cmf2n&raw=1)
 
 ## Issues
 

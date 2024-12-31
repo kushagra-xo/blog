@@ -12,7 +12,7 @@ Today, we’ll discuss hashmaps—a fundamental data structure in computer scien
 
 Let’s start by understanding hashing. Hashing is a process of mapping variable-sized input data (like strings or numbers) to a fixed-size output. This mapping is carried out by a hashing function.
 
-![](./hash_func.svg)
+![](https://www.dropbox.com/scl/fi/ylu0vmplg1wrtv073xzqo/hash_func.webp?rlkey=brbpvybuaf5tn2mxcf99noi3z&st=yo9rggse&raw=1)
 
 Hashing functions can produce outputs of different lengths. For example, a hash function that outputs 6 characters will always generate a string of exactly 6 characters.
 
@@ -26,7 +26,7 @@ Now that we understand how hashing works, let’s move on to linked lists, which
 
 A linked list is a dynamic data structure that doesn't store elements contiguously in memory. Instead, each element points to the next element, forming a chain-like structure.
 
-![](./linkedList.svg)
+![](https://www.dropbox.com/scl/fi/wjchp3zzui5gzmflmy8ah/linkedList.webp?rlkey=1nmwm267yogt4a6objr00ke5g&st=h61khfcf&raw=1)
 
 ## Hashmaps
 
@@ -36,7 +36,7 @@ First, we use a hashing function to compute the hash of a given key (our input),
 This hash is then used to determine the index in an array where the data is stored. We refer to these indices as buckets.
 If a collision occurs (i.e., two keys hash to the same bucket), the collided elements are stored as a linked list at that bucket.
 
-![](./hashmap.svg)
+![](https://www.dropbox.com/scl/fi/5njk0yq9up42crhinsybw/hashmap.webp?rlkey=sy5o6pyqxtfsg1wv0kb0nr8nh&st=38m08ght&raw=1)
 
 By combining the quick lookup capabilities of hash functions with the flexibility of linked lists, hashmaps allow us to efficiently store and retrieve data, even when collisions occur.
 

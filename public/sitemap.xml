@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-12-31T18:44:03+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-12-31T18:44:03+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/hashing/</loc>
     <lastmod>2024-10-15T15:24:03+05:30</lastmod>
   </url><url>
@@ -11,13 +17,7 @@
     <loc>http://localhost:1313/tags/linked-list/</loc>
     <lastmod>2024-10-15T15:24:03+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-10-15T15:24:03+05:30</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-10-15T15:24:03+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2024-10-15T15:24:03+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/what-are-hashmaps/</loc>
