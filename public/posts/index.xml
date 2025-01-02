@@ -6,8 +6,25 @@
     <description>Recent content in Posts on TheSillyScribbles</description>
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Oct 2024 15:24:03 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2024 18:44:03 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I Manage My Development Containers</title>
+      <link>http://localhost:1313/posts/how-i-manage-dev-containers/</link>
+      <pubDate>Tue, 31 Dec 2024 18:44:03 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-i-manage-dev-containers/</guid>
+      <description>&lt;p&gt;In this blogpost I will be covering how I manage my development containers, why I have them, and how you could incorporate them
+into your own workflow.&lt;/p&gt;
+&lt;h2 id=&#34;what-are-development-containers&#34;&gt;What are Development Containers?&lt;/h2&gt;
+&lt;p&gt;Development containers are like, sandboxed operating systems i.e. they are their own operating system running completely (or not) isolated with your host
+environment i.e. your host operating system (like windows and such).&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>In this blogpost I will be covering how I manage my development containers, why I have them, and how you could incorporate them
+into your own workflow.</p>
+<h2 id="what-are-development-containers">What are Development Containers?</h2>
+<p>Development containers are like, sandboxed operating systems i.e. they are their own operating system running completely (or not) isolated with your host
+environment i.e. your host operating system (like windows and such).</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>What Are Hashmaps?</title>
       <link>http://localhost:1313/posts/what-are-hashmaps/</link>
