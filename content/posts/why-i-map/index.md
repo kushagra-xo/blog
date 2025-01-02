@@ -1,6 +1,7 @@
 +++
 title = "Why Do I Contribute to OpenStreetMap?"
 date = 2025-01-02T20:14:01+05:30
+tags = ['osm', 'geo-data', 'mapping', 'privacy', 'community']
 +++
 
 Today, I want to share why I contribute to OpenStreetMap (OSM) and why you should care—or even consider joining in.

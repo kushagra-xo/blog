@@ -2,7 +2,7 @@
 
 title = "How to Manage Development Containers?"
 date = 2024-12-31T18:44:03+05:30
-
+tags = ['development', 'containers']
 +++
 
 In this blog post, I’ll share how I manage my development containers, why they’re essential for my workflow, and how you can integrate them into yours.

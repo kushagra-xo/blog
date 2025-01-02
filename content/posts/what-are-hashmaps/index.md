@@ -1,7 +1,7 @@
 +++
 title = 'What Are Hashmaps?'
 date = 2024-10-15T15:24:03+05:30
-tags = ['hashing', 'linked-list', 'hashmaps']
+tags = ['hashing', 'linked-list', 'hashmaps', 'dsa']
 +++
 
 ## Background
