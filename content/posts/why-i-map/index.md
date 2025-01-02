@@ -24,8 +24,6 @@ OpenStreetMap (OSM) is an open database of geographic data (geo-data) that anyon
 
 For me, OpenStreetMap feels like a miniature digital version of Earth. It’s a recreation of our world, and contributing to it excites me. I see it as a way to make this virtual Earth as complete and accurate as possible.
 
-![india](https://upload.wikimedia.org/wikipedia/commons/e/ea/Innsbruck_in_FlightGear_2020.x_with_OSM2City_Output_based_on_Open_Street_Map_data_01.jpg)
-
 Here are more reasons why I love contributing:
 
 - **Granularity**: OSM allows contributors to add incredibly minute details—things you’d never find on a corporate map. For instance, I’ve added over 50 shelters in Delhi to the map, which brings me a sense of pride and fulfillment. Beyond shelters, you can map basketball courts, football fields, gates, trees, and even park benches. The smallest contributions collectively make OSM an unparalleled resource.
