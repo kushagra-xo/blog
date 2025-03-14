@@ -4,7 +4,7 @@
     <title>TheSillyScribbles</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on TheSillyScribbles</description>
-    <generator>Hugo -- 0.140.2</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Thu, 02 Jan 2025 20:14:01 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
@@ -39,7 +39,6 @@
 </ol>
 <h2 id="why-i-contribute">Why I Contribute</h2>
 <p>For me, OpenStreetMap feels like a miniature digital version of Earth. It’s a recreation of our world, and contributing to it excites me. I see it as a way to make this virtual Earth as complete and accurate as possible.</p>
-<p><img alt="india" loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Innsbruck_in_FlightGear_2020.x_with_OSM2City_Output_based_on_Open_Street_Map_data_01.jpg"></p>
 <p>Here are more reasons why I love contributing:</p>
 <ul>
 <li>
@@ -270,22 +269,19 @@ If a collision occurs (i.e., two keys hash to the same bucket), the collided ele
       <guid>http://localhost:1313/posts/what-is-ui-ux/</guid>
       <description>&lt;p&gt;We live in the age of information, the age of data, yet seldom do we notice, care or appreciate it&amp;rsquo;s representation. It&amp;rsquo;s representation is as powerful as the information itself, it can change how the person feels about it and how they will remember it.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Good design, when it’s done well, becomes invisible. It’s only when it’s done poorly that we notice it - Jared Spool&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Good design, when it’s done well, becomes invisible. It’s only when it’s done poorly that we notice it - Jared Spool&lt;/p&gt;&lt;/blockquote&gt;
 &lt;h2 id=&#34;whats-ui&#34;&gt;What&amp;rsquo;s UI?&lt;/h2&gt;
 &lt;p&gt;It stands for user interface and is the visual aspect of how information is represented, this includes fonts, colors, menus, buttons and what not, all meticulously chosen to set the tone. It&amp;rsquo;s like you dressing up for the appropriate occasion. You dress differently for a wedding, for a party, for a beach, and for sleeping. Similarly we represent information according to the context. For a more formal website, you&amp;rsquo;d use more formal fonts, and monochromatic colors, but for a club&amp;rsquo;s website, you may choose to get creative with how things look.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>We live in the age of information, the age of data, yet seldom do we notice, care or appreciate it&rsquo;s representation. It&rsquo;s representation is as powerful as the information itself, it can change how the person feels about it and how they will remember it.</p>
 <blockquote>
-<p>Good design, when it’s done well, becomes invisible. It’s only when it’s done poorly that we notice it - Jared Spool</p>
-</blockquote>
+<p>Good design, when it’s done well, becomes invisible. It’s only when it’s done poorly that we notice it - Jared Spool</p></blockquote>
 <h2 id="whats-ui">What&rsquo;s UI?</h2>
 <p>It stands for user interface and is the visual aspect of how information is represented, this includes fonts, colors, menus, buttons and what not, all meticulously chosen to set the tone. It&rsquo;s like you dressing up for the appropriate occasion. You dress differently for a wedding, for a party, for a beach, and for sleeping. Similarly we represent information according to the context. For a more formal website, you&rsquo;d use more formal fonts, and monochromatic colors, but for a club&rsquo;s website, you may choose to get creative with how things look.</p>
 <p><img alt="ui" loading="lazy" src="/posts/what-is-ui-ux/ui.webp"></p>
 <h2 id="what-is-ux">What is UX?</h2>
 <p>UX is a broader concept that stands for user experience. It&rsquo;s a superset of UI, emphasizing the end-user experience aspect of design. UX designers ensures that the digital landscape is not just elegant but effortlessly functional through rigourous testing. A good UX appropriately solves the user problem and is accessible to all irrespective of their disabilities. Your dress can be as beautiful as you want it to be, but it cant&rsquo; be functional if it doesn&rsquo;t have enough pockets, or keeps you warm when it&rsquo;s cold.</p>
 <blockquote>
-<p>Fact: UX is not limted digitally, it can encompass things like chairs, door locks and even clothes as i mentioned above.</p>
-</blockquote>
+<p>Fact: UX is not limted digitally, it can encompass things like chairs, door locks and even clothes as i mentioned above.</p></blockquote>
 <p><img alt="ux" loading="lazy" src="/posts/what-is-ui-ux/ux.webp"></p>
 ]]></content:encoded>
     </item>
@@ -311,13 +307,11 @@ public Internet
 connection between a computing device and a computer network, or
 between two networks, using an insecure communication medium such as the
 public Internet
-&ndash; <cite><a href="https://en.wikipedia.org/wiki/Virtual_private_network">Wikipedia</a></cite></p>
-</blockquote>
+&ndash; <cite><a href="https://en.wikipedia.org/wiki/Virtual_private_network">Wikipedia</a></cite></p></blockquote>
 <p>They provide the ability to <em><strong>connect to remote computers, securely</strong></em>.</p>
 <blockquote>
 <p>Security and privacy are two distinct concepts.
-<cite> Read more here: <a href="https://www.privacyguides.org/en/basics/common-threats/#security-and-privacy">PrivacyGuides</a></cite></p>
-</blockquote>
+<cite> Read more here: <a href="https://www.privacyguides.org/en/basics/common-threats/#security-and-privacy">PrivacyGuides</a></cite></p></blockquote>
 <p>But why do you care? By connecting to remote computers, you could
 <em><strong>mask and tunnel</strong></em> all of your traffic through it. (VPNs are used differently in enterprise)</p>
 <p>What do I mean by mask and tunnel?</p>

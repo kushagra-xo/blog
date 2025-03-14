@@ -2,7 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/community/</loc>
+    <lastmod>2025-01-02T20:14:01+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/geo-data/</loc>
+    <lastmod>2025-01-02T20:14:01+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mapping/</loc>
+    <lastmod>2025-01-02T20:14:01+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/osm/</loc>
+    <lastmod>2025-01-02T20:14:01+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-01-02T20:14:01+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/privacy/</loc>
+    <lastmod>2025-01-02T20:14:01+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-01-02T20:14:01+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
@@ -11,8 +29,17 @@
     <loc>http://localhost:1313/posts/why-i-map/</loc>
     <lastmod>2025-01-02T20:14:01+05:30</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/containers/</loc>
+    <lastmod>2024-12-31T18:44:03+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/development/</loc>
+    <lastmod>2024-12-31T18:44:03+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/how-i-manage-dev-containers/</loc>
     <lastmod>2024-12-31T18:44:03+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/dsa/</loc>
+    <lastmod>2024-10-15T15:24:03+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/hashing/</loc>
     <lastmod>2024-10-15T15:24:03+05:30</lastmod>
@@ -23,14 +50,8 @@
     <loc>http://localhost:1313/tags/linked-list/</loc>
     <lastmod>2024-10-15T15:24:03+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-10-15T15:24:03+05:30</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/what-are-hashmaps/</loc>
     <lastmod>2024-10-15T15:24:03+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/dsa/</loc>
-    <lastmod>2024-10-13T12:41:49+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/space-complexity/</loc>
     <lastmod>2024-10-13T12:41:49+05:30</lastmod>
@@ -80,9 +101,6 @@
     <loc>http://localhost:1313/tags/news/</loc>
     <lastmod>2024-08-02T09:32:34+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/privacy/</loc>
-    <lastmod>2024-08-02T09:32:34+05:30</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/filetype/</loc>
     <lastmod>2024-08-01T10:40:06+05:30</lastmod>
   </url><url>
@@ -100,6 +118,9 @@
   </url><url>
     <loc>http://localhost:1313/posts/what-is-ui-ux/</loc>
     <lastmod>2024-01-18T21:09:37+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/networking/</loc>
+    <lastmod>2023-11-14T17:12:44+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/virtual-private-networks/</loc>
     <lastmod>2023-11-14T17:12:44+05:30</lastmod>

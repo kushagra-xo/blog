@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Networking on TheSillyScribbles</title>
+    <link>http://localhost:1313/tags/networking/</link>
+    <description>Recent content in Networking on TheSillyScribbles</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 14 Nov 2023 17:12:44 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/networking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Virtual Private Networks (VPNs)</title>
+      <link>http://localhost:1313/posts/virtual-private-networks/</link>
+      <pubDate>Tue, 14 Nov 2023 17:12:44 +0530</pubDate>
+      <guid>http://localhost:1313/posts/virtual-private-networks/</guid>
+      <description>&lt;p&gt;Virtual Private Networks act as an important tool in the modern digital landscape empowering many to protect their privacy, and circumvent government imposed censorship. What the people need is &lt;em&gt;&lt;strong&gt;choice&lt;/strong&gt;&lt;/em&gt;. The ability to choose what we wish to share and what we wish to access, and a VPN puts that power in your hands.&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s talk some tech.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-a-vpn&#34;&gt;What is a VPN?&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A virtual private network (VPN) is a mechanism for creating a secure
+connection between a computing device and a computer network, or
+between two networks, using an insecure communication medium such as the
+public Internet
+&amp;ndash; &lt;cite&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Virtual_private_network&#34;&gt;Wikipedia&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Virtual Private Networks act as an important tool in the modern digital landscape empowering many to protect their privacy, and circumvent government imposed censorship. What the people need is <em><strong>choice</strong></em>. The ability to choose what we wish to share and what we wish to access, and a VPN puts that power in your hands.</p>
+<p>Let&rsquo;s talk some tech.</p>
+<h2 id="what-is-a-vpn">What is a VPN?</h2>
+<blockquote>
+<p>A virtual private network (VPN) is a mechanism for creating a secure
+connection between a computing device and a computer network, or
+between two networks, using an insecure communication medium such as the
+public Internet
+&ndash; <cite><a href="https://en.wikipedia.org/wiki/Virtual_private_network">Wikipedia</a></cite></p></blockquote>
+<p>They provide the ability to <em><strong>connect to remote computers, securely</strong></em>.</p>
+<blockquote>
+<p>Security and privacy are two distinct concepts.
+<cite> Read more here: <a href="https://www.privacyguides.org/en/basics/common-threats/#security-and-privacy">PrivacyGuides</a></cite></p></blockquote>
+<p>But why do you care? By connecting to remote computers, you could
+<em><strong>mask and tunnel</strong></em> all of your traffic through it. (VPNs are used differently in enterprise)</p>
+<p>What do I mean by mask and tunnel?</p>
+<ul>
+<li>Mask
+<ul>
+<li>The source of all of your traffic now seems to be the VPN server. You forward all the relevant information to the server to make the connections for you. In more simple terms, now you start to pretend to be someone else over the internet, i.e. you start wearing a mask.</li>
+</ul>
+</li>
+<li>Tunnel
+<ul>
+<li>A secure tunnel is established between you and the VPN server, via encryption, such that the ISP cannot know what you&rsquo;re trying to access.</li>
+</ul>
+</li>
+</ul>
+<h3 id="basic-vpn-usage">Basic VPN usage:</h3>
+<p><img alt="Normal VPN query" loading="lazy" src="/posts/virtual-private-networks/normal-vpn-query.webp"></p>
+<p>A VPN shifts your trust from your ISP to a VPN server. Therefore choosing a VPN service is extremely crucial in determing privacy returns. A bad service will just be worse for your privacy.</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

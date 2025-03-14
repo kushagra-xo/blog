@@ -4,10 +4,66 @@
     <title>Tags on TheSillyScribbles</title>
     <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on TheSillyScribbles</description>
-    <generator>Hugo -- 0.140.2</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Oct 2024 15:24:03 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 20:14:01 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Community</title>
+      <link>http://localhost:1313/tags/community/</link>
+      <pubDate>Thu, 02 Jan 2025 20:14:01 +0530</pubDate>
+      <guid>http://localhost:1313/tags/community/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Geo-Data</title>
+      <link>http://localhost:1313/tags/geo-data/</link>
+      <pubDate>Thu, 02 Jan 2025 20:14:01 +0530</pubDate>
+      <guid>http://localhost:1313/tags/geo-data/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mapping</title>
+      <link>http://localhost:1313/tags/mapping/</link>
+      <pubDate>Thu, 02 Jan 2025 20:14:01 +0530</pubDate>
+      <guid>http://localhost:1313/tags/mapping/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Osm</title>
+      <link>http://localhost:1313/tags/osm/</link>
+      <pubDate>Thu, 02 Jan 2025 20:14:01 +0530</pubDate>
+      <guid>http://localhost:1313/tags/osm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Privacy</title>
+      <link>http://localhost:1313/tags/privacy/</link>
+      <pubDate>Thu, 02 Jan 2025 20:14:01 +0530</pubDate>
+      <guid>http://localhost:1313/tags/privacy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Containers</title>
+      <link>http://localhost:1313/tags/containers/</link>
+      <pubDate>Tue, 31 Dec 2024 18:44:03 +0530</pubDate>
+      <guid>http://localhost:1313/tags/containers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development</title>
+      <link>http://localhost:1313/tags/development/</link>
+      <pubDate>Tue, 31 Dec 2024 18:44:03 +0530</pubDate>
+      <guid>http://localhost:1313/tags/development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dsa</title>
+      <link>http://localhost:1313/tags/dsa/</link>
+      <pubDate>Tue, 15 Oct 2024 15:24:03 +0530</pubDate>
+      <guid>http://localhost:1313/tags/dsa/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Hashing</title>
       <link>http://localhost:1313/tags/hashing/</link>
@@ -27,13 +83,6 @@
       <link>http://localhost:1313/tags/linked-list/</link>
       <pubDate>Tue, 15 Oct 2024 15:24:03 +0530</pubDate>
       <guid>http://localhost:1313/tags/linked-list/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dsa</title>
-      <link>http://localhost:1313/tags/dsa/</link>
-      <pubDate>Sun, 13 Oct 2024 12:41:49 +0530</pubDate>
-      <guid>http://localhost:1313/tags/dsa/</guid>
       <description></description>
     </item>
     <item>
@@ -128,13 +177,6 @@
       <description></description>
     </item>
     <item>
-      <title>Privacy</title>
-      <link>http://localhost:1313/tags/privacy/</link>
-      <pubDate>Fri, 02 Aug 2024 09:32:34 +0530</pubDate>
-      <guid>http://localhost:1313/tags/privacy/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Filetype</title>
       <link>http://localhost:1313/tags/filetype/</link>
       <pubDate>Thu, 01 Aug 2024 10:40:06 +0530</pubDate>
@@ -160,6 +202,13 @@
       <link>http://localhost:1313/tags/ux/</link>
       <pubDate>Thu, 18 Jan 2024 21:09:37 +0530</pubDate>
       <guid>http://localhost:1313/tags/ux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Networking</title>
+      <link>http://localhost:1313/tags/networking/</link>
+      <pubDate>Tue, 14 Nov 2023 17:12:44 +0530</pubDate>
+      <guid>http://localhost:1313/tags/networking/</guid>
       <description></description>
     </item>
     <item>
