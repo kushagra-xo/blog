@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ux on TheSillyScribbles</title>
-    <link>https://blog.kushagraj.xyz/tags/ux/</link>
+    <link>http://localhost:1313/tags/ux/</link>
     <description>Recent content in Ux on TheSillyScribbles</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Thu, 18 Jan 2024 21:09:37 +0530</lastBuildDate>
-    <atom:link href="https://blog.kushagraj.xyz/tags/ux/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/ux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What Is UI/UX?</title>
-      <link>https://blog.kushagraj.xyz/posts/what-is-ui-ux/</link>
+      <link>http://localhost:1313/posts/what-is-ui-ux/</link>
       <pubDate>Thu, 18 Jan 2024 21:09:37 +0530</pubDate>
-      <guid>https://blog.kushagraj.xyz/posts/what-is-ui-ux/</guid>
+      <guid>http://localhost:1313/posts/what-is-ui-ux/</guid>
       <description>&lt;p&gt;We live in the age of information, the age of data, yet seldom do we notice, care or appreciate it&amp;rsquo;s representation. It&amp;rsquo;s representation is as powerful as the information itself, it can change how the person feels about it and how they will remember it.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Good design, when it’s done well, becomes invisible. It’s only when it’s done poorly that we notice it - Jared Spool&lt;/p&gt;&lt;/blockquote&gt;
