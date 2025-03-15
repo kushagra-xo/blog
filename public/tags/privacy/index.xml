@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Privacy on TheSillyScribbles</title>
-    <link>http://localhost:1313/tags/privacy/</link>
+    <link>https://blog.kushagraj.xyz/tags/privacy/</link>
     <description>Recent content in Privacy on TheSillyScribbles</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Thu, 02 Jan 2025 20:14:01 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.kushagraj.xyz/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why Do I Contribute to OpenStreetMap?</title>
-      <link>http://localhost:1313/posts/why-i-map/</link>
+      <link>https://blog.kushagraj.xyz/posts/why-i-map/</link>
       <pubDate>Thu, 02 Jan 2025 20:14:01 +0530</pubDate>
-      <guid>http://localhost:1313/posts/why-i-map/</guid>
+      <guid>https://blog.kushagraj.xyz/posts/why-i-map/</guid>
       <description>&lt;p&gt;Today, I want to share why I contribute to OpenStreetMap (OSM) and why you should care—or even consider joining in.&lt;/p&gt;
 &lt;h2 id=&#34;what-is-openstreetmap&#34;&gt;What is OpenStreetMap?&lt;/h2&gt;
 &lt;p&gt;OpenStreetMap (OSM) is an open database of geographic data (geo-data) that anyone can contribute to. Unlike maps controlled by profit-driven corporations, OSM is a purely community-driven project. Its mission is to create a comprehensive and freely accessible log of all geographic data on Earth.&lt;/p&gt;
@@ -58,9 +58,9 @@
     </item>
     <item>
       <title>Broadcasting Services Bill</title>
-      <link>http://localhost:1313/posts/broadcast-bill/</link>
+      <link>https://blog.kushagraj.xyz/posts/broadcast-bill/</link>
       <pubDate>Fri, 02 Aug 2024 09:32:34 +0530</pubDate>
-      <guid>http://localhost:1313/posts/broadcast-bill/</guid>
+      <guid>https://blog.kushagraj.xyz/posts/broadcast-bill/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;India is on the verge of introducing a change in its media architecture with the proposed &lt;a href=&#34;https://en.wikipedia.org/wiki/Broadcasting_Services_(Regulation)_Bill,_2023&#34;&gt;Broadcasting Services (Regulation) Bill, 2023&lt;/a&gt;. While the intention behind this bill seems noble—establishing control over a wider range of broadcasting services and implementing censorship—the implications are far-reaching and concerning for press freedom, privacy, and creative expression.&lt;/p&gt;
 &lt;h2 id=&#34;a-consolidated-regulatory-framework&#34;&gt;A Consolidated Regulatory Framework&lt;/h2&gt;
@@ -91,9 +91,9 @@
     </item>
     <item>
       <title>Virtual Private Networks (VPNs)</title>
-      <link>http://localhost:1313/posts/virtual-private-networks/</link>
+      <link>https://blog.kushagraj.xyz/posts/virtual-private-networks/</link>
       <pubDate>Tue, 14 Nov 2023 17:12:44 +0530</pubDate>
-      <guid>http://localhost:1313/posts/virtual-private-networks/</guid>
+      <guid>https://blog.kushagraj.xyz/posts/virtual-private-networks/</guid>
       <description>&lt;p&gt;Virtual Private Networks act as an important tool in the modern digital landscape empowering many to protect their privacy, and circumvent government imposed censorship. What the people need is &lt;em&gt;&lt;strong&gt;choice&lt;/strong&gt;&lt;/em&gt;. The ability to choose what we wish to share and what we wish to access, and a VPN puts that power in your hands.&lt;/p&gt;
 &lt;p&gt;Let&amp;rsquo;s talk some tech.&lt;/p&gt;
 &lt;h2 id=&#34;what-is-a-vpn&#34;&gt;What is a VPN?&lt;/h2&gt;
