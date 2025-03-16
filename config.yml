@@ -72,6 +72,10 @@ params:
     Content: exploring tech, thought and whimsy
 
   socialIcons:
+    - name: signal
+      url: https://signal.me/#eu/rvtk39ovIGgTkVCLjtMkHN34nBLqvEez4VWj_eDTwEiFIRbzJWZPOIp_N43DbCns
+    - name: email
+      url: mailto:kushagra.j@pm.me
     - name: xmpp
       url: https://xmpp.link/#kj7@conversations.im
     - name: codeberg

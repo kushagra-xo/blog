@@ -2,26 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>TheSillyScribbles</title>
-    <link>https://blog.kushagraj.xyz/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on TheSillyScribbles</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Mar 2025 20:58:29 +0530</lastBuildDate>
-    <atom:link href="https://blog.kushagraj.xyz/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Kishy&#39;s guide to Photo Archival</title>
-      <link>https://blog.kushagraj.xyz/posts/photo-archival/</link>
-      <pubDate>Sat, 15 Mar 2025 20:58:29 +0530</pubDate>
-      <guid>https://blog.kushagraj.xyz/posts/photo-archival/</guid>
-      <description>&lt;p&gt;We all have memories, and we all have memories that we wish to protect.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>We all have memories, and we all have memories that we wish to protect.</p>
-]]></content:encoded>
-    </item>
+    <lastBuildDate>Thu, 02 Jan 2025 20:14:01 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why Do I Contribute to OpenStreetMap?</title>
-      <link>https://blog.kushagraj.xyz/posts/why-i-map/</link>
+      <link>http://localhost:1313/posts/why-i-map/</link>
       <pubDate>Thu, 02 Jan 2025 20:14:01 +0530</pubDate>
-      <guid>https://blog.kushagraj.xyz/posts/why-i-map/</guid>
+      <guid>http://localhost:1313/posts/why-i-map/</guid>
       <description>&lt;p&gt;Today, I want to share why I contribute to OpenStreetMap (OSM) and why you should care—or even consider joining in.&lt;/p&gt;
 &lt;h2 id=&#34;what-is-openstreetmap&#34;&gt;What is OpenStreetMap?&lt;/h2&gt;
 &lt;p&gt;OpenStreetMap (OSM) is an open database of geographic data (geo-data) that anyone can contribute to. Unlike maps controlled by profit-driven corporations, OSM is a purely community-driven project. Its mission is to create a comprehensive and freely accessible log of all geographic data on Earth.&lt;/p&gt;
@@ -67,9 +58,9 @@
     </item>
     <item>
       <title>How to Manage Development Containers?</title>
-      <link>https://blog.kushagraj.xyz/posts/how-i-manage-dev-containers/</link>
+      <link>http://localhost:1313/posts/how-i-manage-dev-containers/</link>
       <pubDate>Tue, 31 Dec 2024 18:44:03 +0530</pubDate>
-      <guid>https://blog.kushagraj.xyz/posts/how-i-manage-dev-containers/</guid>
+      <guid>http://localhost:1313/posts/how-i-manage-dev-containers/</guid>
       <description>&lt;p&gt;In this blog post, I’ll share how I manage my development containers, why they’re essential for my workflow, and how you can integrate them into yours.&lt;/p&gt;
 &lt;h2 id=&#34;what-are-development-containers&#34;&gt;What Are Development Containers?&lt;/h2&gt;
 &lt;p&gt;Development containers are isolated environments that function like sandboxed operating systems. Essentially, they’re self-contained operating systems that can run independently or with limited interaction with your host operating system (e.g., Windows, Linux, or macOS).&lt;/p&gt;
@@ -129,9 +120,9 @@
     </item>
     <item>
       <title>What Are Hashmaps?</title>
-      <link>https://blog.kushagraj.xyz/posts/what-are-hashmaps/</link>
+      <link>http://localhost:1313/posts/what-are-hashmaps/</link>
       <pubDate>Tue, 15 Oct 2024 15:24:03 +0530</pubDate>
-      <guid>https://blog.kushagraj.xyz/posts/what-are-hashmaps/</guid>
+      <guid>http://localhost:1313/posts/what-are-hashmaps/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;Today, we’ll discuss hashmaps—a fundamental data structure in computer science. I chose this topic while solving the &lt;a href=&#34;https://github.com/kushagra-xo/leetcode/tree/master/1.twoSum&#34;&gt;&amp;ldquo;Two Sum&amp;rdquo;&lt;/a&gt; problem, which required the use of hashmaps to efficiently find a solution. In this post, we&amp;rsquo;ll cover hash functions, linked lists, and how they come together to form hashmaps.&lt;/p&gt;
 &lt;h2 id=&#34;hashing&#34;&gt;Hashing&lt;/h2&gt;
@@ -165,9 +156,9 @@ If a collision occurs (i.e., two keys hash to the same bucket), the collided ele
     </item>
     <item>
       <title>Time &amp; Space Complexity</title>
-      <link>https://blog.kushagraj.xyz/posts/time-space-complexity/</link>
+      <link>http://localhost:1313/posts/time-space-complexity/</link>
       <pubDate>Sun, 13 Oct 2024 12:41:49 +0530</pubDate>
-      <guid>https://blog.kushagraj.xyz/posts/time-space-complexity/</guid>
+      <guid>http://localhost:1313/posts/time-space-complexity/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;I&amp;rsquo;ve recently decided to dive back into data structures and algorithms (DSA). These are fundamental skills for any developer, regardless of the field you&amp;rsquo;re in, and mastering them can significantly sharpen your problem-solving abilities. Beyond that, DSA is also intellectually stimulating and—dare I say—fun, especially when you’re tackling challenges with a friend. Now seems like the perfect time to revisit these essential topics.&lt;/p&gt;
 &lt;h2 id=&#34;solving-problems&#34;&gt;Solving Problems&lt;/h2&gt;
@@ -198,9 +189,9 @@ If a collision occurs (i.e., two keys hash to the same bucket), the collided ele
     </item>
     <item>
       <title>Redragon K630: A Budget Mechanical Keyboard</title>
-      <link>https://blog.kushagraj.xyz/posts/k630-keyboard/</link>
+      <link>http://localhost:1313/posts/k630-keyboard/</link>
       <pubDate>Sat, 12 Oct 2024 23:50:45 +0530</pubDate>
-      <guid>https://blog.kushagraj.xyz/posts/k630-keyboard/</guid>
+      <guid>http://localhost:1313/posts/k630-keyboard/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;Recently, I needed a keyboard to pair with my Xiaomi Pad 6. The official Xiaomi keyboard didn’t seem worth its price given its subpar quality and limited use with the tablet alone. That’s when I realized I’d been wanting a mechanical keyboard for a while. I mean, it’s aesthetic, the sound is satisfying, and let’s face it—using one kind of makes you &lt;em&gt;feel&lt;/em&gt; more like a programmer. So yeah, I got it for all the wrong reasons, but honestly, I don’t think it was a bad investment.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<h2 id="background">Background</h2>
@@ -223,9 +214,9 @@ If a collision occurs (i.e., two keys hash to the same bucket), the collided ele
     </item>
     <item>
       <title>Broadcasting Services Bill</title>
-      <link>https://blog.kushagraj.xyz/posts/broadcast-bill/</link>
+      <link>http://localhost:1313/posts/broadcast-bill/</link>
       <pubDate>Fri, 02 Aug 2024 09:32:34 +0530</pubDate>
-      <guid>https://blog.kushagraj.xyz/posts/broadcast-bill/</guid>
+      <guid>http://localhost:1313/posts/broadcast-bill/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;India is on the verge of introducing a change in its media architecture with the proposed &lt;a href=&#34;https://en.wikipedia.org/wiki/Broadcasting_Services_(Regulation)_Bill,_2023&#34;&gt;Broadcasting Services (Regulation) Bill, 2023&lt;/a&gt;. While the intention behind this bill seems noble—establishing control over a wider range of broadcasting services and implementing censorship—the implications are far-reaching and concerning for press freedom, privacy, and creative expression.&lt;/p&gt;
 &lt;h2 id=&#34;a-consolidated-regulatory-framework&#34;&gt;A Consolidated Regulatory Framework&lt;/h2&gt;
@@ -256,9 +247,9 @@ If a collision occurs (i.e., two keys hash to the same bucket), the collided ele
     </item>
     <item>
       <title>The PITX file format</title>
-      <link>https://blog.kushagraj.xyz/posts/pitx-file-format/</link>
+      <link>http://localhost:1313/posts/pitx-file-format/</link>
       <pubDate>Thu, 01 Aug 2024 10:40:06 +0530</pubDate>
-      <guid>https://blog.kushagraj.xyz/posts/pitx-file-format/</guid>
+      <guid>http://localhost:1313/posts/pitx-file-format/</guid>
       <description>&lt;p&gt;PITX is a file format that I have envisioned to create in the coming months as a new way to store digital media, a way where images are stored with their context, with their story, i.e. text.&lt;/p&gt;
 &lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
 &lt;p&gt;Every image tells a story, yet so many of these stories are lost due to the lack of appropriate textual context. This gap inspired me to create PITX, a new file format designed to store images along with their stories, bringing us back to the exact moments we cherish.&lt;/p&gt;</description>
@@ -273,9 +264,9 @@ If a collision occurs (i.e., two keys hash to the same bucket), the collided ele
     </item>
     <item>
       <title>What Is UI/UX?</title>
-      <link>https://blog.kushagraj.xyz/posts/what-is-ui-ux/</link>
+      <link>http://localhost:1313/posts/what-is-ui-ux/</link>
       <pubDate>Thu, 18 Jan 2024 21:09:37 +0530</pubDate>
-      <guid>https://blog.kushagraj.xyz/posts/what-is-ui-ux/</guid>
+      <guid>http://localhost:1313/posts/what-is-ui-ux/</guid>
       <description>&lt;p&gt;We live in the age of information, the age of data, yet seldom do we notice, care or appreciate it&amp;rsquo;s representation. It&amp;rsquo;s representation is as powerful as the information itself, it can change how the person feels about it and how they will remember it.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Good design, when it’s done well, becomes invisible. It’s only when it’s done poorly that we notice it - Jared Spool&lt;/p&gt;&lt;/blockquote&gt;
@@ -296,9 +287,9 @@ If a collision occurs (i.e., two keys hash to the same bucket), the collided ele
     </item>
     <item>
       <title>Virtual Private Networks (VPNs)</title>
-      <link>https://blog.kushagraj.xyz/posts/virtual-private-networks/</link>
+      <link>http://localhost:1313/posts/virtual-private-networks/</link>
       <pubDate>Tue, 14 Nov 2023 17:12:44 +0530</pubDate>
-      <guid>https://blog.kushagraj.xyz/posts/virtual-private-networks/</guid>
+      <guid>http://localhost:1313/posts/virtual-private-networks/</guid>
       <description>&lt;p&gt;Virtual Private Networks act as an important tool in the modern digital landscape empowering many to protect their privacy, and circumvent government imposed censorship. What the people need is &lt;em&gt;&lt;strong&gt;choice&lt;/strong&gt;&lt;/em&gt;. The ability to choose what we wish to share and what we wish to access, and a VPN puts that power in your hands.&lt;/p&gt;
 &lt;p&gt;Let&amp;rsquo;s talk some tech.&lt;/p&gt;
 &lt;h2 id=&#34;what-is-a-vpn&#34;&gt;What is a VPN?&lt;/h2&gt;
@@ -343,9 +334,9 @@ public Internet
     </item>
     <item>
       <title>KDE Bluetooth Disabled on Login</title>
-      <link>https://blog.kushagraj.xyz/posts/kde-bluetooth-on-login/</link>
+      <link>http://localhost:1313/posts/kde-bluetooth-on-login/</link>
       <pubDate>Fri, 13 Oct 2023 13:03:03 +0530</pubDate>
-      <guid>https://blog.kushagraj.xyz/posts/kde-bluetooth-on-login/</guid>
+      <guid>http://localhost:1313/posts/kde-bluetooth-on-login/</guid>
       <description>&lt;p&gt;Lately i had been dealing with an issue where my bluetooth would disable automatically upon login. I had done a lot of troubleshooting to realize that the issue was with me &lt;em&gt;abruptly rebooting&lt;/em&gt; instead of rebooting via the gui.&lt;/p&gt;
 &lt;p&gt;Which would cause &lt;code&gt;~/.config/bluedevilglobalrc&lt;/code&gt; to look something like this:&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;[Adapters]
