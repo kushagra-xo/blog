@@ -72,6 +72,10 @@ params:
     Content: exploring tech, thought and whimsy
 
   socialIcons:
+    - name: xmpp
+      url: https://xmpp.link/#kj7@conversations.im
+    - name: codeberg
+      url: https://codeberg.org/kushagra-xo
     - name: github
       url: https://github.com/kushagra-xo/
     - name: rss
