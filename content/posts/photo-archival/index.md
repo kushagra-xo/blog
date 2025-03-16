@@ -1,6 +1,7 @@
 +++
 title = "Kishy's Guide to Photo Archival"
 date = 2025-03-15T20:58:29+05:30
+tags = ['photos', 'archival']
 +++
 
 ## Introduction
