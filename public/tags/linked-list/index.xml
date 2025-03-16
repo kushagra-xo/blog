@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Linked-List on TheSillyScribbles</title>
-    <link>http://localhost:1313/tags/linked-list/</link>
+    <link>https://blog.kushagraj.xyz/tags/linked-list/</link>
     <description>Recent content in Linked-List on TheSillyScribbles</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Tue, 15 Oct 2024 15:24:03 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/linked-list/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.kushagraj.xyz/tags/linked-list/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What Are Hashmaps?</title>
-      <link>http://localhost:1313/posts/what-are-hashmaps/</link>
+      <link>https://blog.kushagraj.xyz/posts/what-are-hashmaps/</link>
       <pubDate>Tue, 15 Oct 2024 15:24:03 +0530</pubDate>
-      <guid>http://localhost:1313/posts/what-are-hashmaps/</guid>
+      <guid>https://blog.kushagraj.xyz/posts/what-are-hashmaps/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;Today, we’ll discuss hashmaps—a fundamental data structure in computer science. I chose this topic while solving the &lt;a href=&#34;https://github.com/kushagra-xo/leetcode/tree/master/1.twoSum&#34;&gt;&amp;ldquo;Two Sum&amp;rdquo;&lt;/a&gt; problem, which required the use of hashmaps to efficiently find a solution. In this post, we&amp;rsquo;ll cover hash functions, linked lists, and how they come together to form hashmaps.&lt;/p&gt;
 &lt;h2 id=&#34;hashing&#34;&gt;Hashing&lt;/h2&gt;
