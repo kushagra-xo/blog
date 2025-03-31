@@ -2,248 +2,248 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on TheSillyScribbles</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://blog.kushagraj.xyz/tags/</link>
     <description>Recent content in Tags on TheSillyScribbles</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Sat, 15 Mar 2025 20:58:29 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.kushagraj.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Archival</title>
-      <link>http://localhost:1313/tags/archival/</link>
+      <link>https://blog.kushagraj.xyz/tags/archival/</link>
       <pubDate>Sat, 15 Mar 2025 20:58:29 +0530</pubDate>
-      <guid>http://localhost:1313/tags/archival/</guid>
+      <guid>https://blog.kushagraj.xyz/tags/archival/</guid>
       <description></description>
     </item>
     <item>
       <title>Photos</title>
-      <link>http://localhost:1313/tags/photos/</link>
+      <link>https://blog.kushagraj.xyz/tags/photos/</link>
       <pubDate>Sat, 15 Mar 2025 20:58:29 +0530</pubDate>
-      <guid>http://localhost:1313/tags/photos/</guid>
+      <guid>https://blog.kushagraj.xyz/tags/photos/</guid>
       <description></description>
     </item>
     <item>
       <title>Community</title>
-      <link>http://localhost:1313/tags/community/</link>
+      <link>https://blog.kushagraj.xyz/tags/community/</link>
       <pubDate>Thu, 02 Jan 2025 20:14:01 +0530</pubDate>
-      <guid>http://localhost:1313/tags/community/</guid>
+      <guid>https://blog.kushagraj.xyz/tags/community/</guid>
       <description></description>
     </item>
     <item>
       <title>Geo-Data</title>
-      <link>http://localhost:1313/tags/geo-data/</link>
+      <link>https://blog.kushagraj.xyz/tags/geo-data/</link>
       <pubDate>Thu, 02 Jan 2025 20:14:01 +0530</pubDate>
-      <guid>http://localhost:1313/tags/geo-data/</guid>
+      <guid>https://blog.kushagraj.xyz/tags/geo-data/</guid>
       <description></description>
     </item>
     <item>
       <title>Mapping</title>
-      <link>http://localhost:1313/tags/mapping/</link>
+      <link>https://blog.kushagraj.xyz/tags/mapping/</link>
       <pubDate>Thu, 02 Jan 2025 20:14:01 +0530</pubDate>
-      <guid>http://localhost:1313/tags/mapping/</guid>
+      <guid>https://blog.kushagraj.xyz/tags/mapping/</guid>
       <description></description>
     </item>
     <item>
       <title>Osm</title>
-      <link>http://localhost:1313/tags/osm/</link>
+      <link>https://blog.kushagraj.xyz/tags/osm/</link>
       <pubDate>Thu, 02 Jan 2025 20:14:01 +0530</pubDate>
-      <guid>http://localhost:1313/tags/osm/</guid>
+      <guid>https://blog.kushagraj.xyz/tags/osm/</guid>
       <description></description>
     </item>
     <item>
       <title>Privacy</title>
-      <link>http://localhost:1313/tags/privacy/</link>
+      <link>https://blog.kushagraj.xyz/tags/privacy/</link>
       <pubDate>Thu, 02 Jan 2025 20:14:01 +0530</pubDate>
-      <guid>http://localhost:1313/tags/privacy/</guid>
+      <guid>https://blog.kushagraj.xyz/tags/privacy/</guid>
       <description></description>
     </item>
     <item>
       <title>Containers</title>
-      <link>http://localhost:1313/tags/containers/</link>
+      <link>https://blog.kushagraj.xyz/tags/containers/</link>
       <pubDate>Tue, 31 Dec 2024 18:44:03 +0530</pubDate>
-      <guid>http://localhost:1313/tags/containers/</guid>
+      <guid>https://blog.kushagraj.xyz/tags/containers/</guid>
       <description></description>
     </item>
     <item>
       <title>Development</title>
-      <link>http://localhost:1313/tags/development/</link>
+      <link>https://blog.kushagraj.xyz/tags/development/</link>
       <pubDate>Tue, 31 Dec 2024 18:44:03 +0530</pubDate>
-      <guid>http://localhost:1313/tags/development/</guid>
+      <guid>https://blog.kushagraj.xyz/tags/development/</guid>
       <description></description>
     </item>
     <item>
       <title>Dsa</title>
-      <link>http://localhost:1313/tags/dsa/</link>
+      <link>https://blog.kushagraj.xyz/tags/dsa/</link>
       <pubDate>Tue, 15 Oct 2024 15:24:03 +0530</pubDate>
-      <guid>http://localhost:1313/tags/dsa/</guid>
+      <guid>https://blog.kushagraj.xyz/tags/dsa/</guid>
       <description></description>
     </item>
     <item>
       <title>Hashing</title>
-      <link>http://localhost:1313/tags/hashing/</link>
+      <link>https://blog.kushagraj.xyz/tags/hashing/</link>
       <pubDate>Tue, 15 Oct 2024 15:24:03 +0530</pubDate>
-      <guid>http://localhost:1313/tags/hashing/</guid>
+      <guid>https://blog.kushagraj.xyz/tags/hashing/</guid>
       <description></description>
     </item>
     <item>
       <title>Hashmaps</title>
-      <link>http://localhost:1313/tags/hashmaps/</link>
+      <link>https://blog.kushagraj.xyz/tags/hashmaps/</link>
       <pubDate>Tue, 15 Oct 2024 15:24:03 +0530</pubDate>
-      <guid>http://localhost:1313/tags/hashmaps/</guid>
+      <guid>https://blog.kushagraj.xyz/tags/hashmaps/</guid>
       <description></description>
     </item>
     <item>
       <title>Linked-List</title>
-      <link>http://localhost:1313/tags/linked-list/</link>
+      <link>https://blog.kushagraj.xyz/tags/linked-list/</link>
       <pubDate>Tue, 15 Oct 2024 15:24:03 +0530</pubDate>
-      <guid>http://localhost:1313/tags/linked-list/</guid>
+      <guid>https://blog.kushagraj.xyz/tags/linked-list/</guid>
       <description></description>
     </item>
     <item>
       <title>Space-Complexity</title>
-      <link>http://localhost:1313/tags/space-complexity/</link>
+      <link>https://blog.kushagraj.xyz/tags/space-complexity/</link>
       <pubDate>Sun, 13 Oct 2024 12:41:49 +0530</pubDate>
-      <guid>http://localhost:1313/tags/space-complexity/</guid>
+      <guid>https://blog.kushagraj.xyz/tags/space-complexity/</guid>
       <description></description>
     </item>
     <item>
       <title>Time-Complexity</title>
-      <link>http://localhost:1313/tags/time-complexity/</link>
+      <link>https://blog.kushagraj.xyz/tags/time-complexity/</link>
       <pubDate>Sun, 13 Oct 2024 12:41:49 +0530</pubDate>
-      <guid>http://localhost:1313/tags/time-complexity/</guid>
+      <guid>https://blog.kushagraj.xyz/tags/time-complexity/</guid>
       <description></description>
     </item>
     <item>
       <title>Keyboard</title>
-      <link>http://localhost:1313/tags/keyboard/</link>
+      <link>https://blog.kushagraj.xyz/tags/keyboard/</link>
       <pubDate>Sat, 12 Oct 2024 23:50:45 +0530</pubDate>
-      <guid>http://localhost:1313/tags/keyboard/</guid>
+      <guid>https://blog.kushagraj.xyz/tags/keyboard/</guid>
       <description></description>
     </item>
     <item>
       <title>Mechanical-Keyboard</title>
-      <link>http://localhost:1313/tags/mechanical-keyboard/</link>
+      <link>https://blog.kushagraj.xyz/tags/mechanical-keyboard/</link>
       <pubDate>Sat, 12 Oct 2024 23:50:45 +0530</pubDate>
-      <guid>http://localhost:1313/tags/mechanical-keyboard/</guid>
+      <guid>https://blog.kushagraj.xyz/tags/mechanical-keyboard/</guid>
       <description></description>
     </item>
     <item>
       <title>Programming</title>
-      <link>http://localhost:1313/tags/programming/</link>
+      <link>https://blog.kushagraj.xyz/tags/programming/</link>
       <pubDate>Sat, 12 Oct 2024 23:50:45 +0530</pubDate>
-      <guid>http://localhost:1313/tags/programming/</guid>
+      <guid>https://blog.kushagraj.xyz/tags/programming/</guid>
       <description></description>
     </item>
     <item>
       <title>Tablet</title>
-      <link>http://localhost:1313/tags/tablet/</link>
+      <link>https://blog.kushagraj.xyz/tags/tablet/</link>
       <pubDate>Sat, 12 Oct 2024 23:50:45 +0530</pubDate>
-      <guid>http://localhost:1313/tags/tablet/</guid>
+      <guid>https://blog.kushagraj.xyz/tags/tablet/</guid>
       <description></description>
     </item>
     <item>
       <title>Broadcast</title>
-      <link>http://localhost:1313/tags/broadcast/</link>
+      <link>https://blog.kushagraj.xyz/tags/broadcast/</link>
       <pubDate>Fri, 02 Aug 2024 09:32:34 +0530</pubDate>
-      <guid>http://localhost:1313/tags/broadcast/</guid>
+      <guid>https://blog.kushagraj.xyz/tags/broadcast/</guid>
       <description></description>
     </item>
     <item>
       <title>Censorship</title>
-      <link>http://localhost:1313/tags/censorship/</link>
+      <link>https://blog.kushagraj.xyz/tags/censorship/</link>
       <pubDate>Fri, 02 Aug 2024 09:32:34 +0530</pubDate>
-      <guid>http://localhost:1313/tags/censorship/</guid>
+      <guid>https://blog.kushagraj.xyz/tags/censorship/</guid>
       <description></description>
     </item>
     <item>
       <title>Content</title>
-      <link>http://localhost:1313/tags/content/</link>
+      <link>https://blog.kushagraj.xyz/tags/content/</link>
       <pubDate>Fri, 02 Aug 2024 09:32:34 +0530</pubDate>
-      <guid>http://localhost:1313/tags/content/</guid>
+      <guid>https://blog.kushagraj.xyz/tags/content/</guid>
       <description></description>
     </item>
     <item>
       <title>Content-Creator</title>
-      <link>http://localhost:1313/tags/content-creator/</link>
+      <link>https://blog.kushagraj.xyz/tags/content-creator/</link>
       <pubDate>Fri, 02 Aug 2024 09:32:34 +0530</pubDate>
-      <guid>http://localhost:1313/tags/content-creator/</guid>
+      <guid>https://blog.kushagraj.xyz/tags/content-creator/</guid>
       <description></description>
     </item>
     <item>
       <title>Freedom</title>
-      <link>http://localhost:1313/tags/freedom/</link>
+      <link>https://blog.kushagraj.xyz/tags/freedom/</link>
       <pubDate>Fri, 02 Aug 2024 09:32:34 +0530</pubDate>
-      <guid>http://localhost:1313/tags/freedom/</guid>
+      <guid>https://blog.kushagraj.xyz/tags/freedom/</guid>
       <description></description>
     </item>
     <item>
       <title>Law</title>
-      <link>http://localhost:1313/tags/law/</link>
+      <link>https://blog.kushagraj.xyz/tags/law/</link>
       <pubDate>Fri, 02 Aug 2024 09:32:34 +0530</pubDate>
-      <guid>http://localhost:1313/tags/law/</guid>
+      <guid>https://blog.kushagraj.xyz/tags/law/</guid>
       <description></description>
     </item>
     <item>
       <title>News</title>
-      <link>http://localhost:1313/tags/news/</link>
+      <link>https://blog.kushagraj.xyz/tags/news/</link>
       <pubDate>Fri, 02 Aug 2024 09:32:34 +0530</pubDate>
-      <guid>http://localhost:1313/tags/news/</guid>
+      <guid>https://blog.kushagraj.xyz/tags/news/</guid>
       <description></description>
     </item>
     <item>
       <title>Filetype</title>
-      <link>http://localhost:1313/tags/filetype/</link>
+      <link>https://blog.kushagraj.xyz/tags/filetype/</link>
       <pubDate>Thu, 01 Aug 2024 10:40:06 +0530</pubDate>
-      <guid>http://localhost:1313/tags/filetype/</guid>
+      <guid>https://blog.kushagraj.xyz/tags/filetype/</guid>
       <description></description>
     </item>
     <item>
       <title>Images</title>
-      <link>http://localhost:1313/tags/images/</link>
+      <link>https://blog.kushagraj.xyz/tags/images/</link>
       <pubDate>Thu, 01 Aug 2024 10:40:06 +0530</pubDate>
-      <guid>http://localhost:1313/tags/images/</guid>
+      <guid>https://blog.kushagraj.xyz/tags/images/</guid>
       <description></description>
     </item>
     <item>
       <title>Ui</title>
-      <link>http://localhost:1313/tags/ui/</link>
+      <link>https://blog.kushagraj.xyz/tags/ui/</link>
       <pubDate>Thu, 18 Jan 2024 21:09:37 +0530</pubDate>
-      <guid>http://localhost:1313/tags/ui/</guid>
+      <guid>https://blog.kushagraj.xyz/tags/ui/</guid>
       <description></description>
     </item>
     <item>
       <title>Ux</title>
-      <link>http://localhost:1313/tags/ux/</link>
+      <link>https://blog.kushagraj.xyz/tags/ux/</link>
       <pubDate>Thu, 18 Jan 2024 21:09:37 +0530</pubDate>
-      <guid>http://localhost:1313/tags/ux/</guid>
+      <guid>https://blog.kushagraj.xyz/tags/ux/</guid>
       <description></description>
     </item>
     <item>
       <title>Networking</title>
-      <link>http://localhost:1313/tags/networking/</link>
+      <link>https://blog.kushagraj.xyz/tags/networking/</link>
       <pubDate>Tue, 14 Nov 2023 17:12:44 +0530</pubDate>
-      <guid>http://localhost:1313/tags/networking/</guid>
+      <guid>https://blog.kushagraj.xyz/tags/networking/</guid>
       <description></description>
     </item>
     <item>
       <title>Vpn</title>
-      <link>http://localhost:1313/tags/vpn/</link>
+      <link>https://blog.kushagraj.xyz/tags/vpn/</link>
       <pubDate>Tue, 14 Nov 2023 17:12:44 +0530</pubDate>
-      <guid>http://localhost:1313/tags/vpn/</guid>
+      <guid>https://blog.kushagraj.xyz/tags/vpn/</guid>
       <description></description>
     </item>
     <item>
       <title>Bluetooth</title>
-      <link>http://localhost:1313/tags/bluetooth/</link>
+      <link>https://blog.kushagraj.xyz/tags/bluetooth/</link>
       <pubDate>Fri, 13 Oct 2023 13:03:03 +0530</pubDate>
-      <guid>http://localhost:1313/tags/bluetooth/</guid>
+      <guid>https://blog.kushagraj.xyz/tags/bluetooth/</guid>
       <description></description>
     </item>
     <item>
       <title>Kde</title>
-      <link>http://localhost:1313/tags/kde/</link>
+      <link>https://blog.kushagraj.xyz/tags/kde/</link>
       <pubDate>Fri, 13 Oct 2023 13:03:03 +0530</pubDate>
-      <guid>http://localhost:1313/tags/kde/</guid>
+      <guid>https://blog.kushagraj.xyz/tags/kde/</guid>
       <description></description>
     </item>
   </channel>

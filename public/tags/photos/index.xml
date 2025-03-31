@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Photos on TheSillyScribbles</title>
-    <link>http://localhost:1313/tags/photos/</link>
+    <link>https://blog.kushagraj.xyz/tags/photos/</link>
     <description>Recent content in Photos on TheSillyScribbles</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Sat, 15 Mar 2025 20:58:29 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/photos/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.kushagraj.xyz/tags/photos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kishy&#39;s Guide to Photo Archival</title>
-      <link>http://localhost:1313/posts/photo-archival/</link>
+      <link>https://blog.kushagraj.xyz/posts/photo-archival/</link>
       <pubDate>Sat, 15 Mar 2025 20:58:29 +0530</pubDate>
-      <guid>http://localhost:1313/posts/photo-archival/</guid>
+      <guid>https://blog.kushagraj.xyz/posts/photo-archival/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;We all have memories—and memories we desperately want to protect. Yet keeping those moments safe seems to be a fading idea as everything becomes so digitally transient and hard to preserve.&lt;/p&gt;
 &lt;p&gt;Today, I’m taking you on a journey I’ve been on myself: safeguarding the moments that mean the most—the story of our lives, our loved ones, and our identities. Because, honestly, isn’t that what life’s all about? I just want you to be able to lie in your 80s, looking at these preserved, disconnected moments that you once dismissed as trivial, slowly coming together into a narrative that makes you smile and cry at the same time.&lt;/p&gt;</description>
