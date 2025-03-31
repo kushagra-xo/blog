@@ -18,7 +18,7 @@ With software becoming commercialized, the need to keep it secret increased. Pro
 
 ## The Compromise
 
-What if we leverage proprietary services to our own good? We can choose to use these tools only when they work for us while supporting free alternatives in other cases. For example, you might use Instagram to keep in touch with people without oversharing or getting lost in endless scrolling. It’s about being deliberate: use proprietary services for their strengths but don’t let them dictate your digital life.
+What if we leverage proprietary services to our own good? We can choose to use these tools only when they work for us while supporting free alternatives in other cases. For example, you might use Instagram to keep in touch with people without oversharing or getting lost in endless scrolling. It’s about being deliberate: use proprietary services for their strengths but don’t let them dictate you.
 
 ## Final Thoughts
 
