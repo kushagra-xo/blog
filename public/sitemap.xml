@@ -2,154 +2,157 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.kushagraj.xyz/tags/archival/</loc>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-03-31T22:22:32+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-03-31T22:22:32+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/tool-or-trap/</loc>
+    <lastmod>2025-03-31T22:22:32+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/archival/</loc>
     <lastmod>2025-03-15T20:58:29+05:30</lastmod>
   </url><url>
-    <loc>https://blog.kushagraj.xyz/posts/photo-archival/</loc>
+    <loc>http://localhost:1313/posts/photo-archival/</loc>
     <lastmod>2025-03-15T20:58:29+05:30</lastmod>
   </url><url>
-    <loc>https://blog.kushagraj.xyz/tags/photos/</loc>
+    <loc>http://localhost:1313/tags/photos/</loc>
     <lastmod>2025-03-15T20:58:29+05:30</lastmod>
   </url><url>
-    <loc>https://blog.kushagraj.xyz/posts/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-03-15T20:58:29+05:30</lastmod>
   </url><url>
-    <loc>https://blog.kushagraj.xyz/tags/</loc>
-    <lastmod>2025-03-15T20:58:29+05:30</lastmod>
-  </url><url>
-    <loc>https://blog.kushagraj.xyz/</loc>
-    <lastmod>2025-03-15T20:58:29+05:30</lastmod>
-  </url><url>
-    <loc>https://blog.kushagraj.xyz/tags/community/</loc>
+    <loc>http://localhost:1313/tags/community/</loc>
     <lastmod>2025-01-02T20:14:01+05:30</lastmod>
   </url><url>
-    <loc>https://blog.kushagraj.xyz/tags/geo-data/</loc>
+    <loc>http://localhost:1313/tags/geo-data/</loc>
     <lastmod>2025-01-02T20:14:01+05:30</lastmod>
   </url><url>
-    <loc>https://blog.kushagraj.xyz/tags/mapping/</loc>
+    <loc>http://localhost:1313/tags/mapping/</loc>
     <lastmod>2025-01-02T20:14:01+05:30</lastmod>
   </url><url>
-    <loc>https://blog.kushagraj.xyz/tags/osm/</loc>
+    <loc>http://localhost:1313/tags/osm/</loc>
     <lastmod>2025-01-02T20:14:01+05:30</lastmod>
   </url><url>
-    <loc>https://blog.kushagraj.xyz/tags/privacy/</loc>
+    <loc>http://localhost:1313/tags/privacy/</loc>
     <lastmod>2025-01-02T20:14:01+05:30</lastmod>
   </url><url>
-    <loc>https://blog.kushagraj.xyz/posts/why-i-map/</loc>
+    <loc>http://localhost:1313/posts/why-i-map/</loc>
     <lastmod>2025-01-02T20:14:01+05:30</lastmod>
   </url><url>
-    <loc>https://blog.kushagraj.xyz/tags/containers/</loc>
+    <loc>http://localhost:1313/tags/containers/</loc>
     <lastmod>2024-12-31T18:44:03+05:30</lastmod>
   </url><url>
-    <loc>https://blog.kushagraj.xyz/tags/development/</loc>
+    <loc>http://localhost:1313/tags/development/</loc>
     <lastmod>2024-12-31T18:44:03+05:30</lastmod>
   </url><url>
-    <loc>https://blog.kushagraj.xyz/posts/how-i-manage-dev-containers/</loc>
+    <loc>http://localhost:1313/posts/how-i-manage-dev-containers/</loc>
     <lastmod>2024-12-31T18:44:03+05:30</lastmod>
   </url><url>
-    <loc>https://blog.kushagraj.xyz/tags/dsa/</loc>
+    <loc>http://localhost:1313/tags/dsa/</loc>
     <lastmod>2024-10-15T15:24:03+05:30</lastmod>
   </url><url>
-    <loc>https://blog.kushagraj.xyz/tags/hashing/</loc>
+    <loc>http://localhost:1313/tags/hashing/</loc>
     <lastmod>2024-10-15T15:24:03+05:30</lastmod>
   </url><url>
-    <loc>https://blog.kushagraj.xyz/tags/hashmaps/</loc>
+    <loc>http://localhost:1313/tags/hashmaps/</loc>
     <lastmod>2024-10-15T15:24:03+05:30</lastmod>
   </url><url>
-    <loc>https://blog.kushagraj.xyz/tags/linked-list/</loc>
+    <loc>http://localhost:1313/tags/linked-list/</loc>
     <lastmod>2024-10-15T15:24:03+05:30</lastmod>
   </url><url>
-    <loc>https://blog.kushagraj.xyz/posts/what-are-hashmaps/</loc>
+    <loc>http://localhost:1313/posts/what-are-hashmaps/</loc>
     <lastmod>2024-10-15T15:24:03+05:30</lastmod>
   </url><url>
-    <loc>https://blog.kushagraj.xyz/tags/space-complexity/</loc>
+    <loc>http://localhost:1313/tags/space-complexity/</loc>
     <lastmod>2024-10-13T12:41:49+05:30</lastmod>
   </url><url>
-    <loc>https://blog.kushagraj.xyz/posts/time-space-complexity/</loc>
+    <loc>http://localhost:1313/posts/time-space-complexity/</loc>
     <lastmod>2024-10-13T12:41:49+05:30</lastmod>
   </url><url>
-    <loc>https://blog.kushagraj.xyz/tags/time-complexity/</loc>
+    <loc>http://localhost:1313/tags/time-complexity/</loc>
     <lastmod>2024-10-13T12:41:49+05:30</lastmod>
   </url><url>
-    <loc>https://blog.kushagraj.xyz/tags/keyboard/</loc>
+    <loc>http://localhost:1313/tags/keyboard/</loc>
     <lastmod>2024-10-12T23:50:45+05:30</lastmod>
   </url><url>
-    <loc>https://blog.kushagraj.xyz/tags/mechanical-keyboard/</loc>
+    <loc>http://localhost:1313/tags/mechanical-keyboard/</loc>
     <lastmod>2024-10-12T23:50:45+05:30</lastmod>
   </url><url>
-    <loc>https://blog.kushagraj.xyz/tags/programming/</loc>
+    <loc>http://localhost:1313/tags/programming/</loc>
     <lastmod>2024-10-12T23:50:45+05:30</lastmod>
   </url><url>
-    <loc>https://blog.kushagraj.xyz/posts/k630-keyboard/</loc>
+    <loc>http://localhost:1313/posts/k630-keyboard/</loc>
     <lastmod>2024-10-12T23:50:45+05:30</lastmod>
   </url><url>
-    <loc>https://blog.kushagraj.xyz/tags/tablet/</loc>
+    <loc>http://localhost:1313/tags/tablet/</loc>
     <lastmod>2024-10-12T23:50:45+05:30</lastmod>
   </url><url>
-    <loc>https://blog.kushagraj.xyz/tags/broadcast/</loc>
+    <loc>http://localhost:1313/tags/broadcast/</loc>
     <lastmod>2024-08-02T09:32:34+05:30</lastmod>
   </url><url>
-    <loc>https://blog.kushagraj.xyz/posts/broadcast-bill/</loc>
+    <loc>http://localhost:1313/posts/broadcast-bill/</loc>
     <lastmod>2024-08-02T09:32:34+05:30</lastmod>
   </url><url>
-    <loc>https://blog.kushagraj.xyz/tags/censorship/</loc>
+    <loc>http://localhost:1313/tags/censorship/</loc>
     <lastmod>2024-08-02T09:32:34+05:30</lastmod>
   </url><url>
-    <loc>https://blog.kushagraj.xyz/tags/content/</loc>
+    <loc>http://localhost:1313/tags/content/</loc>
     <lastmod>2024-08-02T09:32:34+05:30</lastmod>
   </url><url>
-    <loc>https://blog.kushagraj.xyz/tags/content-creator/</loc>
+    <loc>http://localhost:1313/tags/content-creator/</loc>
     <lastmod>2024-08-02T09:32:34+05:30</lastmod>
   </url><url>
-    <loc>https://blog.kushagraj.xyz/tags/freedom/</loc>
+    <loc>http://localhost:1313/tags/freedom/</loc>
     <lastmod>2024-08-02T09:32:34+05:30</lastmod>
   </url><url>
-    <loc>https://blog.kushagraj.xyz/tags/law/</loc>
+    <loc>http://localhost:1313/tags/law/</loc>
     <lastmod>2024-08-02T09:32:34+05:30</lastmod>
   </url><url>
-    <loc>https://blog.kushagraj.xyz/tags/news/</loc>
+    <loc>http://localhost:1313/tags/news/</loc>
     <lastmod>2024-08-02T09:32:34+05:30</lastmod>
   </url><url>
-    <loc>https://blog.kushagraj.xyz/tags/filetype/</loc>
+    <loc>http://localhost:1313/tags/filetype/</loc>
     <lastmod>2024-08-01T10:40:06+05:30</lastmod>
   </url><url>
-    <loc>https://blog.kushagraj.xyz/tags/images/</loc>
+    <loc>http://localhost:1313/tags/images/</loc>
     <lastmod>2024-08-01T10:40:06+05:30</lastmod>
   </url><url>
-    <loc>https://blog.kushagraj.xyz/posts/pitx-file-format/</loc>
+    <loc>http://localhost:1313/posts/pitx-file-format/</loc>
     <lastmod>2024-08-01T10:40:06+05:30</lastmod>
   </url><url>
-    <loc>https://blog.kushagraj.xyz/tags/ui/</loc>
+    <loc>http://localhost:1313/tags/ui/</loc>
     <lastmod>2024-01-18T21:09:37+05:30</lastmod>
   </url><url>
-    <loc>https://blog.kushagraj.xyz/tags/ux/</loc>
+    <loc>http://localhost:1313/tags/ux/</loc>
     <lastmod>2024-01-18T21:09:37+05:30</lastmod>
   </url><url>
-    <loc>https://blog.kushagraj.xyz/posts/what-is-ui-ux/</loc>
+    <loc>http://localhost:1313/posts/what-is-ui-ux/</loc>
     <lastmod>2024-01-18T21:09:37+05:30</lastmod>
   </url><url>
-    <loc>https://blog.kushagraj.xyz/tags/networking/</loc>
+    <loc>http://localhost:1313/tags/networking/</loc>
     <lastmod>2023-11-14T17:12:44+05:30</lastmod>
   </url><url>
-    <loc>https://blog.kushagraj.xyz/posts/virtual-private-networks/</loc>
+    <loc>http://localhost:1313/posts/virtual-private-networks/</loc>
     <lastmod>2023-11-14T17:12:44+05:30</lastmod>
   </url><url>
-    <loc>https://blog.kushagraj.xyz/tags/vpn/</loc>
+    <loc>http://localhost:1313/tags/vpn/</loc>
     <lastmod>2023-11-14T17:12:44+05:30</lastmod>
   </url><url>
-    <loc>https://blog.kushagraj.xyz/tags/bluetooth/</loc>
+    <loc>http://localhost:1313/tags/bluetooth/</loc>
     <lastmod>2023-10-13T13:03:03+05:30</lastmod>
   </url><url>
-    <loc>https://blog.kushagraj.xyz/tags/kde/</loc>
+    <loc>http://localhost:1313/tags/kde/</loc>
     <lastmod>2023-10-13T13:03:03+05:30</lastmod>
   </url><url>
-    <loc>https://blog.kushagraj.xyz/posts/kde-bluetooth-on-login/</loc>
+    <loc>http://localhost:1313/posts/kde-bluetooth-on-login/</loc>
     <lastmod>2023-10-13T13:03:03+05:30</lastmod>
   </url><url>
-    <loc>https://blog.kushagraj.xyz/archives/</loc>
+    <loc>http://localhost:1313/archives/</loc>
   </url><url>
-    <loc>https://blog.kushagraj.xyz/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://blog.kushagraj.xyz/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
   </url>
 </urlset>
