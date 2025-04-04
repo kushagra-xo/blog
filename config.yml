@@ -97,7 +97,7 @@ params:
     hiddenInSingle: false # hide on single page
 
   editPost:
-    URL: "https://github.com/kushagra-xo/blog/src/branch/master/content"
+    URL: "https://github.com/kushagra-xo/blog/blob/master/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
