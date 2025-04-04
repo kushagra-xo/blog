@@ -12,7 +12,7 @@ For those who aren’t familiar with free software, check out [gnu.org](gnu.org/
 
 This definition highlights that freedom isn’t something a piece of software grants you—it’s something you already have. Free software exists to ensure that your inherent freedom isn’t undermined or exploited by the tools you use.
 
-## Proprietary Software
+## Proprietary Software and Utility
 
 With software becoming commercialized, the need to keep it secret increased. Proprietary software is designed primarily to generate profit, often at the expense of the kind of freedoms free software offers. Think about how Meta’s platforms keep you hooked with endless “Reels” and notifications—exploiting your natural dopamine response. Yet, even here, the key is that such exploitation is only as potent as your own digital habits allow it to be.
 
