@@ -1,13 +1,15 @@
-+++ 
-title = "You Should Control the Software" 
-date = 2025-03-31T22:22:32+05:30 
++++
+title = "You Should Control the Software"
+date = 2025-03-31T22:22:32+05:30
+tags = ['software','foss','proprietary','freedom']
 +++
 
 I believe often the conversation about software—especially when concerning privacy—is about free software and the freedom associated with it. But I would like to argue that proprietary software can only exploit your freedom to the extent that you allow it to. In fact, you can even use it to your advantage.
 
 ## Free Software and Freedom
 
-For those who aren’t familiar with free software, check out [gnu.org](gnu.org/philosophy/free-sw.en.html)
+For those who aren’t familiar with free software, check out [gnu.org](https://gnu.org/philosophy/free-sw.en.html)
+
 > “Free software” means software that respects users' freedom and community.
 
 This definition highlights that freedom isn’t something a piece of software grants you—it’s something you already have. Free software exists to ensure that your inherent freedom isn’t undermined or exploited by the tools you use.

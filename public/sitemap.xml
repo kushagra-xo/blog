@@ -2,7 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.kushagraj.xyz/tags/foss/</loc>
+    <lastmod>2025-03-31T22:22:32+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.kushagraj.xyz/tags/freedom/</loc>
+    <lastmod>2025-03-31T22:22:32+05:30</lastmod>
+  </url><url>
     <loc>https://blog.kushagraj.xyz/posts/</loc>
+    <lastmod>2025-03-31T22:22:32+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.kushagraj.xyz/tags/proprietary/</loc>
+    <lastmod>2025-03-31T22:22:32+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.kushagraj.xyz/tags/software/</loc>
+    <lastmod>2025-03-31T22:22:32+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.kushagraj.xyz/tags/</loc>
     <lastmod>2025-03-31T22:22:32+05:30</lastmod>
   </url><url>
     <loc>https://blog.kushagraj.xyz/</loc>
@@ -18,9 +33,6 @@
     <lastmod>2025-03-15T20:58:29+05:30</lastmod>
   </url><url>
     <loc>https://blog.kushagraj.xyz/tags/photos/</loc>
-    <lastmod>2025-03-15T20:58:29+05:30</lastmod>
-  </url><url>
-    <loc>https://blog.kushagraj.xyz/tags/</loc>
     <lastmod>2025-03-15T20:58:29+05:30</lastmod>
   </url><url>
     <loc>https://blog.kushagraj.xyz/tags/community/</loc>
@@ -102,9 +114,6 @@
     <lastmod>2024-08-02T09:32:34+05:30</lastmod>
   </url><url>
     <loc>https://blog.kushagraj.xyz/tags/content-creator/</loc>
-    <lastmod>2024-08-02T09:32:34+05:30</lastmod>
-  </url><url>
-    <loc>https://blog.kushagraj.xyz/tags/freedom/</loc>
     <lastmod>2024-08-02T09:32:34+05:30</lastmod>
   </url><url>
     <loc>https://blog.kushagraj.xyz/tags/law/</loc>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Software on TheSillyScribbles</title>
+    <link>https://blog.kushagraj.xyz/tags/software/</link>
+    <description>Recent content in Software on TheSillyScribbles</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 31 Mar 2025 22:22:32 +0530</lastBuildDate>
+    <atom:link href="https://blog.kushagraj.xyz/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>You Should Control the Software</title>
+      <link>https://blog.kushagraj.xyz/posts/tool-or-trap/</link>
+      <pubDate>Mon, 31 Mar 2025 22:22:32 +0530</pubDate>
+      <guid>https://blog.kushagraj.xyz/posts/tool-or-trap/</guid>
+      <description>&lt;p&gt;I believe often the conversation about software—especially when concerning privacy—is about free software and the freedom associated with it. But I would like to argue that proprietary software can only exploit your freedom to the extent that you allow it to. In fact, you can even use it to your advantage.&lt;/p&gt;
+&lt;h2 id=&#34;free-software-and-freedom&#34;&gt;Free Software and Freedom&lt;/h2&gt;
+&lt;p&gt;For those who aren’t familiar with free software, check out &lt;a href=&#34;https://gnu.org/philosophy/free-sw.en.html&#34;&gt;gnu.org&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“Free software” means software that respects users&amp;rsquo; freedom and community.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>I believe often the conversation about software—especially when concerning privacy—is about free software and the freedom associated with it. But I would like to argue that proprietary software can only exploit your freedom to the extent that you allow it to. In fact, you can even use it to your advantage.</p>
+<h2 id="free-software-and-freedom">Free Software and Freedom</h2>
+<p>For those who aren’t familiar with free software, check out <a href="https://gnu.org/philosophy/free-sw.en.html">gnu.org</a></p>
+<blockquote>
+<p>“Free software” means software that respects users&rsquo; freedom and community.</p></blockquote>
+<p>This definition highlights that freedom isn’t something a piece of software grants you—it’s something you already have. Free software exists to ensure that your inherent freedom isn’t undermined or exploited by the tools you use.</p>
+<h2 id="proprietary-software-and-utility">Proprietary Software and Utility</h2>
+<p>With software becoming commercialized, the need to keep it secret increased. Proprietary software is designed primarily to generate profit, often at the expense of the kind of freedoms free software offers. Think about how Meta’s platforms keep you hooked with endless “Reels” and notifications—exploiting your natural dopamine response. Yet, even here, the key is that such exploitation is only as potent as your own digital habits allow it to be.</p>
+<h2 id="the-compromise">The Compromise</h2>
+<p>What if we leverage proprietary services to our own good? We can choose to use these tools only when they work for us while supporting free alternatives in other cases. For example, you might use Instagram to keep in touch with people without oversharing or getting lost in endless scrolling. It’s about being deliberate: use proprietary services for their strengths but don’t let them dictate you.</p>
+<h2 id="final-thoughts">Final Thoughts</h2>
+<p>Ultimately, the debate isn’t just about free versus proprietary software—it’s about how you, as the user, choose to interact with your tools. By taking charge of your digital habits, you can ensure that every piece of software works for you, not against you.</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
