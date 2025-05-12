@@ -4,34 +4,10 @@
     <title>Posts on TheSillyScribbles</title>
     <link>https://blog.kushagraj.xyz/posts/</link>
     <description>Recent content in Posts on TheSillyScribbles</description>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo -- 0.147.2</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 31 Mar 2025 22:22:32 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 15 Mar 2025 20:58:29 +0530</lastBuildDate>
     <atom:link href="https://blog.kushagraj.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>You Should Control the Software</title>
-      <link>https://blog.kushagraj.xyz/posts/tool-or-trap/</link>
-      <pubDate>Mon, 31 Mar 2025 22:22:32 +0530</pubDate>
-      <guid>https://blog.kushagraj.xyz/posts/tool-or-trap/</guid>
-      <description>&lt;p&gt;I believe often the conversation about software—especially when concerning privacy—is about free software and the freedom associated with it. But I would like to argue that proprietary software can only exploit your freedom to the extent that you allow it to. In fact, you can even use it to your advantage.&lt;/p&gt;
-&lt;h2 id=&#34;free-software-and-freedom&#34;&gt;Free Software and Freedom&lt;/h2&gt;
-&lt;p&gt;For those who aren’t familiar with free software, check out &lt;a href=&#34;https://gnu.org/philosophy/free-sw.en.html&#34;&gt;gnu.org&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“Free software” means software that respects users&amp;rsquo; freedom and community.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>I believe often the conversation about software—especially when concerning privacy—is about free software and the freedom associated with it. But I would like to argue that proprietary software can only exploit your freedom to the extent that you allow it to. In fact, you can even use it to your advantage.</p>
-<h2 id="free-software-and-freedom">Free Software and Freedom</h2>
-<p>For those who aren’t familiar with free software, check out <a href="https://gnu.org/philosophy/free-sw.en.html">gnu.org</a></p>
-<blockquote>
-<p>“Free software” means software that respects users&rsquo; freedom and community.</p></blockquote>
-<p>This definition highlights that freedom isn’t something a piece of software grants you—it’s something you already have. Free software exists to ensure that your inherent freedom isn’t undermined or exploited by the tools you use.</p>
-<h2 id="proprietary-software-and-utility">Proprietary Software and Utility</h2>
-<p>With software becoming commercialized, the need to keep it secret increased. Proprietary software is designed primarily to generate profit, often at the expense of the kind of freedoms free software offers. Think about how Meta’s platforms keep you hooked with endless “Reels” and notifications—exploiting your natural dopamine response. Yet, even here, the key is that such exploitation is only as potent as your own digital habits allow it to be.</p>
-<h2 id="the-compromise">The Compromise</h2>
-<p>What if we leverage proprietary services to our own good? We can choose to use these tools only when they work for us while supporting free alternatives in other cases. For example, you might use Instagram to keep in touch with people without oversharing or getting lost in endless scrolling. It’s about being deliberate: use proprietary services for their strengths but don’t let them dictate you.</p>
-<h2 id="final-thoughts">Final Thoughts</h2>
-<p>Ultimately, the debate isn’t just about free versus proprietary software—it’s about how you, as the user, choose to interact with your tools. By taking charge of your digital habits, you can ensure that every piece of software works for you, not against you.</p>
-]]></content:encoded>
-    </item>
     <item>
       <title>Kishy&#39;s Guide to Photo Archival</title>
       <link>https://blog.kushagraj.xyz/posts/photo-archival/</link>
@@ -335,29 +311,6 @@ If a collision occurs (i.e., two keys hash to the same bucket), the collided ele
 <p>I envision a future where galleries seamlessly integrate textual context with visual data, improving our interation. Adding and reading these stories should be as effortless as capturing the images themselves.</p>
 <h2 id="current-progress">Current Progress</h2>
 <p>I&rsquo;ve already begun developing the basic structure and functionality of the PITX file type. You can follow the progress and contribute at <a href="https://github.com/kushagra-xo/pitx">kushagra-xo/pitx</a>.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>What Is UI/UX?</title>
-      <link>https://blog.kushagraj.xyz/posts/what-is-ui-ux/</link>
-      <pubDate>Thu, 18 Jan 2024 21:09:37 +0530</pubDate>
-      <guid>https://blog.kushagraj.xyz/posts/what-is-ui-ux/</guid>
-      <description>&lt;p&gt;We live in the age of information, the age of data, yet seldom do we notice, care or appreciate it&amp;rsquo;s representation. It&amp;rsquo;s representation is as powerful as the information itself, it can change how the person feels about it and how they will remember it.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Good design, when it’s done well, becomes invisible. It’s only when it’s done poorly that we notice it - Jared Spool&lt;/p&gt;&lt;/blockquote&gt;
-&lt;h2 id=&#34;whats-ui&#34;&gt;What&amp;rsquo;s UI?&lt;/h2&gt;
-&lt;p&gt;It stands for user interface and is the visual aspect of how information is represented, this includes fonts, colors, menus, buttons and what not, all meticulously chosen to set the tone. It&amp;rsquo;s like you dressing up for the appropriate occasion. You dress differently for a wedding, for a party, for a beach, and for sleeping. Similarly we represent information according to the context. For a more formal website, you&amp;rsquo;d use more formal fonts, and monochromatic colors, but for a club&amp;rsquo;s website, you may choose to get creative with how things look.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>We live in the age of information, the age of data, yet seldom do we notice, care or appreciate it&rsquo;s representation. It&rsquo;s representation is as powerful as the information itself, it can change how the person feels about it and how they will remember it.</p>
-<blockquote>
-<p>Good design, when it’s done well, becomes invisible. It’s only when it’s done poorly that we notice it - Jared Spool</p></blockquote>
-<h2 id="whats-ui">What&rsquo;s UI?</h2>
-<p>It stands for user interface and is the visual aspect of how information is represented, this includes fonts, colors, menus, buttons and what not, all meticulously chosen to set the tone. It&rsquo;s like you dressing up for the appropriate occasion. You dress differently for a wedding, for a party, for a beach, and for sleeping. Similarly we represent information according to the context. For a more formal website, you&rsquo;d use more formal fonts, and monochromatic colors, but for a club&rsquo;s website, you may choose to get creative with how things look.</p>
-<p><img alt="ui" loading="lazy" src="/posts/what-is-ui-ux/ui.webp"></p>
-<h2 id="what-is-ux">What is UX?</h2>
-<p>UX is a broader concept that stands for user experience. It&rsquo;s a superset of UI, emphasizing the end-user experience aspect of design. UX designers ensures that the digital landscape is not just elegant but effortlessly functional through rigourous testing. A good UX appropriately solves the user problem and is accessible to all irrespective of their disabilities. Your dress can be as beautiful as you want it to be, but it cant&rsquo; be functional if it doesn&rsquo;t have enough pockets, or keeps you warm when it&rsquo;s cold.</p>
-<blockquote>
-<p>Fact: UX is not limted digitally, it can encompass things like chairs, door locks and even clothes as i mentioned above.</p></blockquote>
-<p><img alt="ux" loading="lazy" src="/posts/what-is-ui-ux/ux.webp"></p>
 ]]></content:encoded>
     </item>
     <item>

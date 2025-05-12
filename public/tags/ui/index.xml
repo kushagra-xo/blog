@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ui on TheSillyScribbles</title>
     <link>https://blog.kushagraj.xyz/tags/ui/</link>
     <description>Recent content in Ui on TheSillyScribbles</description>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 18 Jan 2024 21:09:37 +0530</lastBuildDate>
     <atom:link href="https://blog.kushagraj.xyz/tags/ui/index.xml" rel="self" type="application/rss+xml" />
@@ -13,23 +13,7 @@
       <link>https://blog.kushagraj.xyz/posts/what-is-ui-ux/</link>
       <pubDate>Thu, 18 Jan 2024 21:09:37 +0530</pubDate>
       <guid>https://blog.kushagraj.xyz/posts/what-is-ui-ux/</guid>
-      <description>&lt;p&gt;We live in the age of information, the age of data, yet seldom do we notice, care or appreciate it&amp;rsquo;s representation. It&amp;rsquo;s representation is as powerful as the information itself, it can change how the person feels about it and how they will remember it.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Good design, when it’s done well, becomes invisible. It’s only when it’s done poorly that we notice it - Jared Spool&lt;/p&gt;&lt;/blockquote&gt;
-&lt;h2 id=&#34;whats-ui&#34;&gt;What&amp;rsquo;s UI?&lt;/h2&gt;
-&lt;p&gt;It stands for user interface and is the visual aspect of how information is represented, this includes fonts, colors, menus, buttons and what not, all meticulously chosen to set the tone. It&amp;rsquo;s like you dressing up for the appropriate occasion. You dress differently for a wedding, for a party, for a beach, and for sleeping. Similarly we represent information according to the context. For a more formal website, you&amp;rsquo;d use more formal fonts, and monochromatic colors, but for a club&amp;rsquo;s website, you may choose to get creative with how things look.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>We live in the age of information, the age of data, yet seldom do we notice, care or appreciate it&rsquo;s representation. It&rsquo;s representation is as powerful as the information itself, it can change how the person feels about it and how they will remember it.</p>
-<blockquote>
-<p>Good design, when it’s done well, becomes invisible. It’s only when it’s done poorly that we notice it - Jared Spool</p></blockquote>
-<h2 id="whats-ui">What&rsquo;s UI?</h2>
-<p>It stands for user interface and is the visual aspect of how information is represented, this includes fonts, colors, menus, buttons and what not, all meticulously chosen to set the tone. It&rsquo;s like you dressing up for the appropriate occasion. You dress differently for a wedding, for a party, for a beach, and for sleeping. Similarly we represent information according to the context. For a more formal website, you&rsquo;d use more formal fonts, and monochromatic colors, but for a club&rsquo;s website, you may choose to get creative with how things look.</p>
-<p><img alt="ui" loading="lazy" src="/posts/what-is-ui-ux/ui.webp"></p>
-<h2 id="what-is-ux">What is UX?</h2>
-<p>UX is a broader concept that stands for user experience. It&rsquo;s a superset of UI, emphasizing the end-user experience aspect of design. UX designers ensures that the digital landscape is not just elegant but effortlessly functional through rigourous testing. A good UX appropriately solves the user problem and is accessible to all irrespective of their disabilities. Your dress can be as beautiful as you want it to be, but it cant&rsquo; be functional if it doesn&rsquo;t have enough pockets, or keeps you warm when it&rsquo;s cold.</p>
-<blockquote>
-<p>Fact: UX is not limted digitally, it can encompass things like chairs, door locks and even clothes as i mentioned above.</p></blockquote>
-<p><img alt="ux" loading="lazy" src="/posts/what-is-ui-ux/ux.webp"></p>
-]]></content:encoded>
+      <description>&lt;p&gt;We live in the age of information, the age of data, yet seldom do we notice, care or appreciate it&amp;rsquo;s representation. It&amp;rsquo;s representation is as powerful as the information itself, it can change how the person feels about it and how they will remember it.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Good design, when it’s done well, becomes invisible. It’s only when it’s done poorly that we notice it - Jared Spool&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;whats-ui&#34;&gt;What&amp;rsquo;s UI?&lt;/h2&gt;&#xA;&lt;p&gt;It stands for user interface and is the visual aspect of how information is represented, this includes fonts, colors, menus, buttons and what not, all meticulously chosen to set the tone. It&amp;rsquo;s like you dressing up for the appropriate occasion. You dress differently for a wedding, for a party, for a beach, and for sleeping. Similarly we represent information according to the context. For a more formal website, you&amp;rsquo;d use more formal fonts, and monochromatic colors, but for a club&amp;rsquo;s website, you may choose to get creative with how things look.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
