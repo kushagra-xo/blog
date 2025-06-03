@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Freedom on TheSillyScribbles</title>
+    <title>Freedom on TheSillyScibbles</title>
     <link>https://blog.kushagraj.xyz/tags/freedom/</link>
-    <description>Recent content in Freedom on TheSillyScribbles</description>
-    <generator>Hugo -- 0.147.7</generator>
-    <language>en</language>
+    <description>Recent content in Freedom on TheSillyScibbles</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
     <lastBuildDate>Fri, 02 Aug 2024 09:32:34 +0530</lastBuildDate>
     <atom:link href="https://blog.kushagraj.xyz/tags/freedom/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,33 +13,7 @@
       <link>https://blog.kushagraj.xyz/posts/broadcast-bill/</link>
       <pubDate>Fri, 02 Aug 2024 09:32:34 +0530</pubDate>
       <guid>https://blog.kushagraj.xyz/posts/broadcast-bill/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;India is on the verge of introducing a change in its media architecture with the proposed &lt;a href=&#34;https://en.wikipedia.org/wiki/Broadcasting_Services_(Regulation)_Bill,_2023&#34;&gt;Broadcasting Services (Regulation) Bill, 2023&lt;/a&gt;. While the intention behind this bill seems noble—establishing control over a wider range of broadcasting services and implementing censorship—the implications are far-reaching and concerning for press freedom, privacy, and creative expression.&lt;/p&gt;
-&lt;h2 id=&#34;a-consolidated-regulatory-framework&#34;&gt;A Consolidated Regulatory Framework&lt;/h2&gt;
-&lt;p&gt;The proposed bill seeks to consolidate all broadcasting services, including digital platforms like social media, under a single regulatory framework. This move raises questions about the government&amp;rsquo;s intentions and potential control over what content is permitted in public discourse as we are well aware of the control established by the majority government in the past decade over journalistic independence and freedom. By expanding its reach to cover both traditional and digital mediums, the bill poses a significant threat to India&amp;rsquo;s digital journalism, which has played a crucial role in shaping public opinion and intellectual in the recent years, when the traditional forms of media were completely biased.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
-<p>India is on the verge of introducing a change in its media architecture with the proposed <a href="https://en.wikipedia.org/wiki/Broadcasting_Services_(Regulation)_Bill,_2023">Broadcasting Services (Regulation) Bill, 2023</a>. While the intention behind this bill seems noble—establishing control over a wider range of broadcasting services and implementing censorship—the implications are far-reaching and concerning for press freedom, privacy, and creative expression.</p>
-<h2 id="a-consolidated-regulatory-framework">A Consolidated Regulatory Framework</h2>
-<p>The proposed bill seeks to consolidate all broadcasting services, including digital platforms like social media, under a single regulatory framework. This move raises questions about the government&rsquo;s intentions and potential control over what content is permitted in public discourse as we are well aware of the control established by the majority government in the past decade over journalistic independence and freedom. By expanding its reach to cover both traditional and digital mediums, the bill poses a significant threat to India&rsquo;s digital journalism, which has played a crucial role in shaping public opinion and intellectual in the recent years, when the traditional forms of media were completely biased.</p>
-<h2 id="threats-to-press-freedom">Threats to Press Freedom</h2>
-<p>The bill proposes strong content regulation through a separate committee responsible for regulating and censoring content on every service. This move raises concerns about the government&rsquo;s control over what can be reported and how journalists are expected to conduct themselves when sharing news or opinions. Additionally, the requirement for individual journalists and creators to register and follow broadcasting rules when commenting on news is troubling, as it could lead to self-censorship and stifle independent voices.</p>
-<h2 id="the-dominance-of-government">The Dominance of Government</h2>
-<p>The broadcasting advisory council in the proposed bill is dominated by government bureaucrats rather than independent voices. This move raises concerns about the potential for political influence over media content and the erosion of journalistic integrity. It also implies that the government will have a substantial role in shaping public discourse, which could lead to a suppression of dissenting views, highlights of which have very well been seen.</p>
-<h2 id="privacy-concerns">Privacy Concerns</h2>
-<p>The requirement for broadcasting network operators to maintain detailed subscriber data, including personal information, raises privacy concerns. This move can potentially expose individuals&rsquo; private information to unauthorized parties and create vulnerabilities for identity theft or surveillance. Furthermore, the collection and storage of such sensitive data could infringe upon citizens&rsquo; rights to privacy.</p>
-<h2 id="call-to-action">Call to action</h2>
-<p>As this proposed bill gains momentum in India&rsquo;s legislative process, it is essential that citizens, journalists, and media professionals take a stand against its potential dangers. Here are some steps you can take:</p>
-<ul>
-<li>Contact your local representatives and express your concerns about the bill.</li>
-<li>Share your thoughts on social media using relevant hashtags such as #KillTheBill to raise awareness.</li>
-<li>Support organizations and individuals who are fighting against the bill such as IFF (Indian Freedom Foundation).</li>
-</ul>
-<h2 id="resources">Resources</h2>
-<ul>
-<li><a href="https://prsindia.org/files/parliamentry-announcement/2023-12-09/Draft_Broadcasting_Services_(Regulation)_Bill,_2023.pdf">Broadcasting Services (Regulation) Bill, 2023</a></li>
-<li><a href="https://sansad.in/ls/members">Members of Parliament</a></li>
-</ul>
-]]></content:encoded>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;India is on the verge of introducing a change in its media architecture with the proposed &lt;a href=&#34;https://en.wikipedia.org/wiki/Broadcasting_Services_(Regulation)_Bill,_2023&#34;&gt;Broadcasting Services (Regulation) Bill, 2023&lt;/a&gt;. While the intention behind this bill seems noble—establishing control over a wider range of broadcasting services and implementing censorship—the implications are far-reaching and concerning for press freedom, privacy, and creative expression.&lt;/p&gt;&#xA;&lt;h2 id=&#34;a-consolidated-regulatory-framework&#34;&gt;A Consolidated Regulatory Framework&lt;/h2&gt;&#xA;&lt;p&gt;The proposed bill seeks to consolidate all broadcasting services, including digital platforms like social media, under a single regulatory framework. This move raises questions about the government&amp;rsquo;s intentions and potential control over what content is permitted in public discourse as we are well aware of the control established by the majority government in the past decade over journalistic independence and freedom. By expanding its reach to cover both traditional and digital mediums, the bill poses a significant threat to India&amp;rsquo;s digital journalism, which has played a crucial role in shaping public opinion and intellectual in the recent years, when the traditional forms of media were completely biased.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

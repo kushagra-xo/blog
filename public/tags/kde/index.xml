@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kde on TheSillyScribbles</title>
+    <title>Kde on TheSillyScibbles</title>
     <link>https://blog.kushagraj.xyz/tags/kde/</link>
-    <description>Recent content in Kde on TheSillyScribbles</description>
-    <generator>Hugo -- 0.147.7</generator>
-    <language>en</language>
+    <description>Recent content in Kde on TheSillyScibbles</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
     <lastBuildDate>Fri, 13 Oct 2023 13:03:03 +0530</lastBuildDate>
     <atom:link href="https://blog.kushagraj.xyz/tags/kde/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,40 +13,7 @@
       <link>https://blog.kushagraj.xyz/posts/kde-bluetooth-on-login/</link>
       <pubDate>Fri, 13 Oct 2023 13:03:03 +0530</pubDate>
       <guid>https://blog.kushagraj.xyz/posts/kde-bluetooth-on-login/</guid>
-      <description>&lt;p&gt;Lately i had been dealing with an issue where my bluetooth would disable automatically upon login. I had done a lot of troubleshooting to realize that the issue was with me &lt;em&gt;abruptly rebooting&lt;/em&gt; instead of rebooting via the gui.&lt;/p&gt;
-&lt;p&gt;Which would cause &lt;code&gt;~/.config/bluedevilglobalrc&lt;/code&gt; to look something like this:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;[Adapters]
-44:85:00:80:3C:BA_powered=false
-&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;solution&#34;&gt;Solution:&lt;/h2&gt;
-&lt;h3 id=&#34;1-comment-out-the-line-to-look-something-like-this&#34;&gt;1. Comment out the line to look something like this:&lt;/h3&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;[Adapters]
-#44:85:00:80:3C:BA_powered=false
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;I have tested this and there does not seem to be any functionality issue whatsoever&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Lately i had been dealing with an issue where my bluetooth would disable automatically upon login. I had done a lot of troubleshooting to realize that the issue was with me <em>abruptly rebooting</em> instead of rebooting via the gui.</p>
-<p>Which would cause <code>~/.config/bluedevilglobalrc</code> to look something like this:</p>
-<pre tabindex="0"><code>[Adapters]
-44:85:00:80:3C:BA_powered=false
-</code></pre><h2 id="solution">Solution:</h2>
-<h3 id="1-comment-out-the-line-to-look-something-like-this">1. Comment out the line to look something like this:</h3>
-<pre tabindex="0"><code>[Adapters]
-#44:85:00:80:3C:BA_powered=false
-</code></pre><p>I have tested this and there does not seem to be any functionality issue whatsoever</p>
-<h3 id="2-make-the-file-read-only-or-immutable">2. Make the file read-only or immutable</h3>
-<ul>
-<li>Change the file to look like this:</li>
-</ul>
-<pre tabindex="0"><code>[Adapters]
-44:85:00:80:3C:BA_powered=true
-</code></pre><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">$ chattr +i ~/.config/bluedevilglobalrc
-</span></span></code></pre></div><hr>
-<h3 id="update-sun-nov-12-111746-am-ist-2023">Update: (Sun Nov 12 11:17:46 AM IST 2023)</h3>
-<p>The issue does not seem to persist anymore, atleast for me, it&rsquo;s been a while since anything weird happened with my bluetooth. If you are still facing issues maybe you can try the above, or report relevant bugs at bugs.kde.org for better support.</p>
-<h2 id="references">References:</h2>
-<ul>
-<li><a href="https://www.reddit.com/r/ManjaroLinux/comments/12fgj3o/kde_plasma_bluetooth_not_automatically_powered_on/">https://www.reddit.com/r/ManjaroLinux/comments/12fgj3o/kde_plasma_bluetooth_not_automatically_powered_on/</a></li>
-<li><a href="https://bugs.kde.org/show_bug.cgi?id=469119">https://bugs.kde.org/show_bug.cgi?id=469119</a></li>
-</ul>
-]]></content:encoded>
+      <description>&lt;p&gt;Lately i had been dealing with an issue where my bluetooth would disable automatically upon login. I had done a lot of troubleshooting to realize that the issue was with me &lt;em&gt;abruptly rebooting&lt;/em&gt; instead of rebooting via the gui.&lt;/p&gt;&#xA;&lt;p&gt;Which would cause &lt;code&gt;~/.config/bluedevilglobalrc&lt;/code&gt; to look something like this:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;[Adapters]&#xA;44:85:00:80:3C:BA_powered=false&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;solution&#34;&gt;Solution:&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-comment-out-the-line-to-look-something-like-this&#34;&gt;1. Comment out the line to look something like this:&lt;/h3&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;[Adapters]&#xA;#44:85:00:80:3C:BA_powered=false&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;I have tested this and there does not seem to be any functionality issue whatsoever&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

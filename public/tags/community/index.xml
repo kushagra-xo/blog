@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Community on TheSillyScribbles</title>
+    <title>Community on TheSillyScibbles</title>
     <link>https://blog.kushagraj.xyz/tags/community/</link>
-    <description>Recent content in Community on TheSillyScribbles</description>
-    <generator>Hugo -- 0.147.7</generator>
-    <language>en</language>
+    <description>Recent content in Community on TheSillyScibbles</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
     <lastBuildDate>Thu, 02 Jan 2025 20:14:01 +0530</lastBuildDate>
     <atom:link href="https://blog.kushagraj.xyz/tags/community/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,60 +13,7 @@
       <link>https://blog.kushagraj.xyz/posts/why-i-map/</link>
       <pubDate>Thu, 02 Jan 2025 20:14:01 +0530</pubDate>
       <guid>https://blog.kushagraj.xyz/posts/why-i-map/</guid>
-      <description>&lt;p&gt;Today, I want to share why I contribute to &lt;a href=&#34;https://www.openstreetmap.org/&#34;&gt;OpenStreetMap (OSM)&lt;/a&gt; and why you should care—or even consider joining in.&lt;/p&gt;
-&lt;h2 id=&#34;what-is-openstreetmap&#34;&gt;What is OpenStreetMap?&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.openstreetmap.org/&#34;&gt;OpenStreetMap&lt;/a&gt; is an open database of geographic data (geo-data) that anyone can contribute to. Unlike maps controlled by profit-driven corporations, OSM is a purely community-driven project. Its mission is to create a comprehensive and freely accessible log of all geographic data on Earth.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Central London Map&#34; loading=&#34;lazy&#34; src=&#34;https://upload.wikimedia.org/wikipedia/commons/f/f7/Soho_-_map_1.png&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;why-should-you-care&#34;&gt;Why Should You Care?&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Community Driven&lt;/strong&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Today, I want to share why I contribute to <a href="https://www.openstreetmap.org/">OpenStreetMap (OSM)</a> and why you should care—or even consider joining in.</p>
-<h2 id="what-is-openstreetmap">What is OpenStreetMap?</h2>
-<p><a href="https://www.openstreetmap.org/">OpenStreetMap</a> is an open database of geographic data (geo-data) that anyone can contribute to. Unlike maps controlled by profit-driven corporations, OSM is a purely community-driven project. Its mission is to create a comprehensive and freely accessible log of all geographic data on Earth.</p>
-<p><img alt="Central London Map" loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Soho_-_map_1.png"></p>
-<h2 id="why-should-you-care">Why Should You Care?</h2>
-<ol>
-<li>
-<p><strong>Community Driven</strong></p>
-<ul>
-<li>OSM is built by volunteers from all over the world, making it a shared resource owned by no single entity. This open model prevents corporate control over what data is added, modified, or prioritized.</li>
-<li>Maps controlled by private companies often introduce issues like biased data inclusion and reduced privacy. OSM stands as a fair and equitable alternative.</li>
-</ul>
-</li>
-<li>
-<p><strong>It&rsquo;s a Database</strong></p>
-<ul>
-<li>At its core, OSM is a database. This enables users to perform incredibly detailed and specialized tasks beyond what traditional maps offer. Whether it’s building navigation systems, analyzing urban infrastructure, or creating highly customized maps, OSM’s database unlocks limitless possibilities.</li>
-<li><a href="https://wiki.openstreetmap.org/wiki/Main_Page">Learn more about using OSM data</a>.</li>
-</ul>
-</li>
-</ol>
-<h2 id="why-i-contribute">Why I Contribute</h2>
-<p>For me, OpenStreetMap feels like a miniature digital version of Earth. It’s a recreation of our world, and contributing to it excites me. I see it as a way to make this virtual Earth as complete and accurate as possible.</p>
-<p>Here are more reasons why I love contributing:</p>
-<ul>
-<li>
-<p><strong>Granularity</strong>: OSM allows contributors to add incredibly minute details—things you’d never find on a corporate map. For instance, I’ve added over 50 shelters in Delhi to the map, which brings me a sense of pride and fulfillment. Beyond shelters, you can map basketball courts, football fields, gates, trees, and even park benches. The smallest contributions collectively make OSM an unparalleled resource.</p>
-</li>
-<li>
-<p><strong>Equitable Access</strong>: Earth belongs to all of us. By contributing to OSM, I’m helping ensure that geographic data remains freely accessible to everyone, regardless of background or location. This open access empowers individuals and communities in ways commercial maps never could.</p>
-</li>
-<li>
-<p><strong>Exploring Local Regions</strong>: Contributing to OSM motivates me to explore local areas that are often overlooked or underrepresented. Mapping these regions not only helps the database but also gets me more involved in my locality.</p>
-</li>
-</ul>
-<h2 id="join-the-movement">Join the Movement</h2>
-<p>If you’ve ever felt frustrated by the limitations of traditional maps or simply want to make a difference, OSM is an incredible platform to explore. It’s not just about mapping—it’s about contributing to a global, community-driven project that benefits everyone.</p>
-<p>Start small. Add a detail in your neighborhood, like a park or a missing road. Or go big and help map entire regions. Every contribution counts.</p>
-<ul>
-<li><strong>Ready to get started?</strong> Visit the <a href="https://www.openstreetmap.org/edit">OSM Editing Page</a> and start mapping today.</li>
-<li><strong>Plan your mapping adventures:</strong> Check out <a href="https://osmcal.org/">OSM Calendar (osmcal)</a> for upcoming events and activities.</li>
-<li><strong>Connect with the community:</strong> Join the <a href="https://mastodon.osm.in/">OSM India Mastodon community</a> for local discussions, updates, and support.</li>
-</ul>
-<p>Together, we can build the most complete and accessible geographic database ever created. Every click, every mapped detail, every contribution helps shape a world where geographic data remains open and free for all.</p>
-<p>Happy mapping!</p>
-]]></content:encoded>
+      <description>&lt;p&gt;Today, I want to share why I contribute to &lt;a href=&#34;https://www.openstreetmap.org/&#34;&gt;OpenStreetMap (OSM)&lt;/a&gt; and why you should care—or even consider joining in.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-openstreetmap&#34;&gt;What is OpenStreetMap?&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.openstreetmap.org/&#34;&gt;OpenStreetMap&lt;/a&gt; is an open database of geographic data (geo-data) that anyone can contribute to. Unlike maps controlled by profit-driven corporations, OSM is a purely community-driven project. Its mission is to create a comprehensive and freely accessible log of all geographic data on Earth.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/f/f7/Soho_-_map_1.png&#34; alt=&#34;Central London Map&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-should-you-care&#34;&gt;Why Should You Care?&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Community Driven&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

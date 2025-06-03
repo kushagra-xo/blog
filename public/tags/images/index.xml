@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Images on TheSillyScribbles</title>
+    <title>Images on TheSillyScibbles</title>
     <link>https://blog.kushagraj.xyz/tags/images/</link>
-    <description>Recent content in Images on TheSillyScribbles</description>
-    <generator>Hugo -- 0.147.7</generator>
-    <language>en</language>
+    <description>Recent content in Images on TheSillyScibbles</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
     <lastBuildDate>Thu, 01 Aug 2024 10:40:06 +0530</lastBuildDate>
     <atom:link href="https://blog.kushagraj.xyz/tags/images/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,17 +13,7 @@
       <link>https://blog.kushagraj.xyz/posts/pitx-file-format/</link>
       <pubDate>Thu, 01 Aug 2024 10:40:06 +0530</pubDate>
       <guid>https://blog.kushagraj.xyz/posts/pitx-file-format/</guid>
-      <description>&lt;p&gt;PITX is a file format that I have envisioned to create in the coming months as a new way to store digital media, a way where images are stored with their context, with their story, i.e. text.&lt;/p&gt;
-&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
-&lt;p&gt;Every image tells a story, yet so many of these stories are lost due to the lack of appropriate textual context. This gap inspired me to create PITX, a new file format designed to store images along with their stories, bringing us back to the exact moments we cherish.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>PITX is a file format that I have envisioned to create in the coming months as a new way to store digital media, a way where images are stored with their context, with their story, i.e. text.</p>
-<h2 id="inspiration">Inspiration</h2>
-<p>Every image tells a story, yet so many of these stories are lost due to the lack of appropriate textual context. This gap inspired me to create PITX, a new file format designed to store images along with their stories, bringing us back to the exact moments we cherish.</p>
-<h2 id="the-way-forward">The Way Forward</h2>
-<p>I envision a future where galleries seamlessly integrate textual context with visual data, improving our interation. Adding and reading these stories should be as effortless as capturing the images themselves.</p>
-<h2 id="current-progress">Current Progress</h2>
-<p>I&rsquo;ve already begun developing the basic structure and functionality of the PITX file type. You can follow the progress and contribute at <a href="https://github.com/kushagra-xo/pitx">kushagra-xo/pitx</a>.</p>
-]]></content:encoded>
+      <description>&lt;p&gt;PITX is a file format that I have envisioned to create in the coming months as a new way to store digital media, a way where images are stored with their context, with their story, i.e. text.&lt;/p&gt;&#xA;&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;&#xA;&lt;p&gt;Every image tells a story, yet so many of these stories are lost due to the lack of appropriate textual context. This gap inspired me to create PITX, a new file format designed to store images along with their stories, bringing us back to the exact moments we cherish.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

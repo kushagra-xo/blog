@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Linked-List on TheSillyScribbles</title>
+    <title>Linked-List on TheSillyScibbles</title>
     <link>https://blog.kushagraj.xyz/tags/linked-list/</link>
-    <description>Recent content in Linked-List on TheSillyScribbles</description>
-    <generator>Hugo -- 0.147.7</generator>
-    <language>en</language>
+    <description>Recent content in Linked-List on TheSillyScibbles</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
     <lastBuildDate>Tue, 15 Oct 2024 15:24:03 +0530</lastBuildDate>
     <atom:link href="https://blog.kushagraj.xyz/tags/linked-list/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,36 +13,7 @@
       <link>https://blog.kushagraj.xyz/posts/what-are-hashmaps/</link>
       <pubDate>Tue, 15 Oct 2024 15:24:03 +0530</pubDate>
       <guid>https://blog.kushagraj.xyz/posts/what-are-hashmaps/</guid>
-      <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
-&lt;p&gt;Today, we’ll discuss hashmaps—a fundamental data structure in computer science. I chose this topic while solving the &lt;a href=&#34;https://github.com/kushagra-xo/leetcode/tree/master/1.twoSum&#34;&gt;&amp;ldquo;Two Sum&amp;rdquo;&lt;/a&gt; problem, which required the use of hashmaps to efficiently find a solution. In this post, we&amp;rsquo;ll cover hash functions, linked lists, and how they come together to form hashmaps.&lt;/p&gt;
-&lt;h2 id=&#34;hashing&#34;&gt;Hashing&lt;/h2&gt;
-&lt;p&gt;Let’s start by understanding hashing. Hashing is a process of mapping variable-sized input data (like strings or numbers) to a fixed-size output. This mapping is carried out by a hashing function.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<h2 id="background">Background</h2>
-<p>Today, we’ll discuss hashmaps—a fundamental data structure in computer science. I chose this topic while solving the <a href="https://github.com/kushagra-xo/leetcode/tree/master/1.twoSum">&ldquo;Two Sum&rdquo;</a> problem, which required the use of hashmaps to efficiently find a solution. In this post, we&rsquo;ll cover hash functions, linked lists, and how they come together to form hashmaps.</p>
-<h2 id="hashing">Hashing</h2>
-<p>Let’s start by understanding hashing. Hashing is a process of mapping variable-sized input data (like strings or numbers) to a fixed-size output. This mapping is carried out by a hashing function.</p>
-<p><img loading="lazy" src="/posts/what-are-hashmaps/hash_func.webp"></p>
-<p>Hashing functions can produce outputs of different lengths. For example, a hash function that outputs 6 characters will always generate a string of exactly 6 characters.</p>
-<p>However, this process creates a challenge. Since there are infinitely many possible inputs but only a finite number of possible outputs, collisions can occur. A collision happens when two different inputs generate the same output. While collisions are inevitable in theory, modern hash functions like SHA256 are designed to minimize their occurrence, making them exceedingly rare in practice.</p>
-<p>Hashing is widely used beyond hashmaps. Some common applications include digital signatures, public key cryptography, and more.</p>
-<h2 id="linked-lists">Linked Lists</h2>
-<p>Now that we understand how hashing works, let’s move on to linked lists, which are crucial in handling collisions in hashmaps.</p>
-<p>A linked list is a dynamic data structure that doesn&rsquo;t store elements contiguously in memory. Instead, each element points to the next element, forming a chain-like structure.</p>
-<p><img loading="lazy" src="/posts/what-are-hashmaps/linkedList.webp"></p>
-<h2 id="hashmaps">Hashmaps</h2>
-<p>Hashmaps combine hash functions and linked lists to create a data structure optimized for fast data retrieval. Here&rsquo;s how it works:</p>
-<p>First, we use a hashing function to compute the hash of a given key (our input), and also store the value a associated with it.
-This hash is then used to determine the index in an array where the data is stored. We refer to these indices as buckets.
-If a collision occurs (i.e., two keys hash to the same bucket), the collided elements are stored as a linked list at that bucket.</p>
-<p><img loading="lazy" src="/posts/what-are-hashmaps/hashmap.webp"></p>
-<p>By combining the quick lookup capabilities of hash functions with the flexibility of linked lists, hashmaps allow us to efficiently store and retrieve data, even when collisions occur.</p>
-<h1 id="related">Related</h1>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Hash_function">https://en.wikipedia.org/wiki/Hash_function</a></li>
-<li><a href="https://crypto.stackexchange.com/questions/47809/why-havent-any-sha-256-collisions-been-found-yet">https://crypto.stackexchange.com/questions/47809/why-havent-any-sha-256-collisions-been-found-yet</a></li>
-<li><a href="https://www.freecodecamp.org/news/how-linked-lists-work/">https://www.freecodecamp.org/news/how-linked-lists-work/</a></li>
-</ul>
-]]></content:encoded>
+      <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;&#xA;&lt;p&gt;Today, we’ll discuss hashmaps—a fundamental data structure in computer science. I chose this topic while solving the &lt;a href=&#34;https://github.com/kushagra-xo/leetcode/tree/master/1.twoSum&#34;&gt;&amp;ldquo;Two Sum&amp;rdquo;&lt;/a&gt; problem, which required the use of hashmaps to efficiently find a solution. In this post, we&amp;rsquo;ll cover hash functions, linked lists, and how they come together to form hashmaps.&lt;/p&gt;&#xA;&lt;h2 id=&#34;hashing&#34;&gt;Hashing&lt;/h2&gt;&#xA;&lt;p&gt;Let’s start by understanding hashing. Hashing is a process of mapping variable-sized input data (like strings or numbers) to a fixed-size output. This mapping is carried out by a hashing function.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

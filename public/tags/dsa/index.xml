@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dsa on TheSillyScribbles</title>
+    <title>Dsa on TheSillyScibbles</title>
     <link>https://blog.kushagraj.xyz/tags/dsa/</link>
-    <description>Recent content in Dsa on TheSillyScribbles</description>
-    <generator>Hugo -- 0.147.7</generator>
-    <language>en</language>
+    <description>Recent content in Dsa on TheSillyScibbles</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
     <lastBuildDate>Tue, 15 Oct 2024 15:24:03 +0530</lastBuildDate>
     <atom:link href="https://blog.kushagraj.xyz/tags/dsa/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,69 +13,14 @@
       <link>https://blog.kushagraj.xyz/posts/what-are-hashmaps/</link>
       <pubDate>Tue, 15 Oct 2024 15:24:03 +0530</pubDate>
       <guid>https://blog.kushagraj.xyz/posts/what-are-hashmaps/</guid>
-      <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
-&lt;p&gt;Today, we’ll discuss hashmaps—a fundamental data structure in computer science. I chose this topic while solving the &lt;a href=&#34;https://github.com/kushagra-xo/leetcode/tree/master/1.twoSum&#34;&gt;&amp;ldquo;Two Sum&amp;rdquo;&lt;/a&gt; problem, which required the use of hashmaps to efficiently find a solution. In this post, we&amp;rsquo;ll cover hash functions, linked lists, and how they come together to form hashmaps.&lt;/p&gt;
-&lt;h2 id=&#34;hashing&#34;&gt;Hashing&lt;/h2&gt;
-&lt;p&gt;Let’s start by understanding hashing. Hashing is a process of mapping variable-sized input data (like strings or numbers) to a fixed-size output. This mapping is carried out by a hashing function.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<h2 id="background">Background</h2>
-<p>Today, we’ll discuss hashmaps—a fundamental data structure in computer science. I chose this topic while solving the <a href="https://github.com/kushagra-xo/leetcode/tree/master/1.twoSum">&ldquo;Two Sum&rdquo;</a> problem, which required the use of hashmaps to efficiently find a solution. In this post, we&rsquo;ll cover hash functions, linked lists, and how they come together to form hashmaps.</p>
-<h2 id="hashing">Hashing</h2>
-<p>Let’s start by understanding hashing. Hashing is a process of mapping variable-sized input data (like strings or numbers) to a fixed-size output. This mapping is carried out by a hashing function.</p>
-<p><img loading="lazy" src="/posts/what-are-hashmaps/hash_func.webp"></p>
-<p>Hashing functions can produce outputs of different lengths. For example, a hash function that outputs 6 characters will always generate a string of exactly 6 characters.</p>
-<p>However, this process creates a challenge. Since there are infinitely many possible inputs but only a finite number of possible outputs, collisions can occur. A collision happens when two different inputs generate the same output. While collisions are inevitable in theory, modern hash functions like SHA256 are designed to minimize their occurrence, making them exceedingly rare in practice.</p>
-<p>Hashing is widely used beyond hashmaps. Some common applications include digital signatures, public key cryptography, and more.</p>
-<h2 id="linked-lists">Linked Lists</h2>
-<p>Now that we understand how hashing works, let’s move on to linked lists, which are crucial in handling collisions in hashmaps.</p>
-<p>A linked list is a dynamic data structure that doesn&rsquo;t store elements contiguously in memory. Instead, each element points to the next element, forming a chain-like structure.</p>
-<p><img loading="lazy" src="/posts/what-are-hashmaps/linkedList.webp"></p>
-<h2 id="hashmaps">Hashmaps</h2>
-<p>Hashmaps combine hash functions and linked lists to create a data structure optimized for fast data retrieval. Here&rsquo;s how it works:</p>
-<p>First, we use a hashing function to compute the hash of a given key (our input), and also store the value a associated with it.
-This hash is then used to determine the index in an array where the data is stored. We refer to these indices as buckets.
-If a collision occurs (i.e., two keys hash to the same bucket), the collided elements are stored as a linked list at that bucket.</p>
-<p><img loading="lazy" src="/posts/what-are-hashmaps/hashmap.webp"></p>
-<p>By combining the quick lookup capabilities of hash functions with the flexibility of linked lists, hashmaps allow us to efficiently store and retrieve data, even when collisions occur.</p>
-<h1 id="related">Related</h1>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Hash_function">https://en.wikipedia.org/wiki/Hash_function</a></li>
-<li><a href="https://crypto.stackexchange.com/questions/47809/why-havent-any-sha-256-collisions-been-found-yet">https://crypto.stackexchange.com/questions/47809/why-havent-any-sha-256-collisions-been-found-yet</a></li>
-<li><a href="https://www.freecodecamp.org/news/how-linked-lists-work/">https://www.freecodecamp.org/news/how-linked-lists-work/</a></li>
-</ul>
-]]></content:encoded>
+      <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;&#xA;&lt;p&gt;Today, we’ll discuss hashmaps—a fundamental data structure in computer science. I chose this topic while solving the &lt;a href=&#34;https://github.com/kushagra-xo/leetcode/tree/master/1.twoSum&#34;&gt;&amp;ldquo;Two Sum&amp;rdquo;&lt;/a&gt; problem, which required the use of hashmaps to efficiently find a solution. In this post, we&amp;rsquo;ll cover hash functions, linked lists, and how they come together to form hashmaps.&lt;/p&gt;&#xA;&lt;h2 id=&#34;hashing&#34;&gt;Hashing&lt;/h2&gt;&#xA;&lt;p&gt;Let’s start by understanding hashing. Hashing is a process of mapping variable-sized input data (like strings or numbers) to a fixed-size output. This mapping is carried out by a hashing function.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Time &amp; Space Complexity</title>
       <link>https://blog.kushagraj.xyz/posts/time-space-complexity/</link>
       <pubDate>Sun, 13 Oct 2024 12:41:49 +0530</pubDate>
       <guid>https://blog.kushagraj.xyz/posts/time-space-complexity/</guid>
-      <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
-&lt;p&gt;I&amp;rsquo;ve recently decided to dive back into data structures and algorithms (DSA). These are fundamental skills for any developer, regardless of the field you&amp;rsquo;re in, and mastering them can significantly sharpen your problem-solving abilities. Beyond that, DSA is also intellectually stimulating and—dare I say—fun, especially when you’re tackling challenges with a friend. Now seems like the perfect time to revisit these essential topics.&lt;/p&gt;
-&lt;h2 id=&#34;solving-problems&#34;&gt;Solving Problems&lt;/h2&gt;
-&lt;p&gt;In computer science, just like in life, there are often multiple ways to solve a single problem. Each solution comes with its own trade-offs—just like how different recipes for making a cake can require varying amounts of time, effort, and ingredients. Similarly, algorithms have different &amp;ldquo;costs&amp;rdquo; in terms of resources.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<h2 id="background">Background</h2>
-<p>I&rsquo;ve recently decided to dive back into data structures and algorithms (DSA). These are fundamental skills for any developer, regardless of the field you&rsquo;re in, and mastering them can significantly sharpen your problem-solving abilities. Beyond that, DSA is also intellectually stimulating and—dare I say—fun, especially when you’re tackling challenges with a friend. Now seems like the perfect time to revisit these essential topics.</p>
-<h2 id="solving-problems">Solving Problems</h2>
-<p>In computer science, just like in life, there are often multiple ways to solve a single problem. Each solution comes with its own trade-offs—just like how different recipes for making a cake can require varying amounts of time, effort, and ingredients. Similarly, algorithms have different &ldquo;costs&rdquo; in terms of resources.</p>
-<p>When discussing algorithms, we typically focus on two major abstract resources: time and space. While these terms might seem straightforward, their impact on how we evaluate solutions requires a closer look. Let’s break them down.</p>
-<h2 id="time-complexity">Time Complexity</h2>
-<p>Time complexity is a measure of how the runtime of an algorithm increases as the size of the input grows. It helps us understand how efficient an algorithm is, especially as we deal with larger data sets. Time complexity is usually expressed using Big O notation, which describes the worst-case scenario—how the algorithm performs when the input is as demanding as possible.</p>
-<p>For example, if an algorithm has a time complexity of O(n), it means the execution time increases linearly with the input size n. So, if you double the input size, the runtime will also approximately double. Here’s a visual representation of different time complexities and how they compare:</p>
-<p><img alt="diagram" loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Comparison_computational_complexity.svg"></p>
-<p>In this diagram, you can see how different time complexities (e.g., O(1), O(n), O(n^2)) grow as the input size increases. The goal is to minimize the time complexity for more efficient algorithms.</p>
-<h2 id="space-complexity">Space Complexity</h2>
-<p>Space complexity, on the other hand, measures how much memory an algorithm uses to solve a problem. This includes both the memory used by the input itself and any additional memory (auxiliary space) the algorithm requires during its execution.</p>
-<p>For instance, if you’re sorting an array in place, your space complexity could be O(1) because you aren’t using any extra memory outside of the input. However, if the algorithm needs additional storage, such as an extra array for temporary data, the space complexity might increase to O(n).</p>
-<p>Understanding space complexity is just as important as time complexity because, in some cases, memory usage can be the limiting factor, especially when working with large datasets or resource-constrained environments.</p>
-<h2 id="conclusion">Conclusion</h2>
-<p>Mastering time and space complexity is crucial for writing efficient algorithms. By learning how to evaluate and optimize these factors, you can make better decisions when solving problems and choosing the right approach for the task at hand. In future posts, I’ll explore specific algorithms, their complexities, and how to apply these concepts in real-world scenarios.</p>
-<h2 id="references">References</h2>
-<ul>
-<li><a href="https://www.freecodecamp.org/news/big-o-cheat-sheet-time-complexity-chart/">Big O Cheat Sheet – Time Complexity Chart - freecodecamp</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Time_complexity">Time Complexity - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Space_complexity">Space Complexity - Wikipedia</a></li>
-</ul>
-]]></content:encoded>
+      <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve recently decided to dive back into data structures and algorithms (DSA). These are fundamental skills for any developer, regardless of the field you&amp;rsquo;re in, and mastering them can significantly sharpen your problem-solving abilities. Beyond that, DSA is also intellectually stimulating and—dare I say—fun, especially when you’re tackling challenges with a friend. Now seems like the perfect time to revisit these essential topics.&lt;/p&gt;&#xA;&lt;h2 id=&#34;solving-problems&#34;&gt;Solving Problems&lt;/h2&gt;&#xA;&lt;p&gt;In computer science, just like in life, there are often multiple ways to solve a single problem. Each solution comes with its own trade-offs—just like how different recipes for making a cake can require varying amounts of time, effort, and ingredients. Similarly, algorithms have different &amp;ldquo;costs&amp;rdquo; in terms of resources.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mechanical-Keyboard on TheSillyScribbles</title>
+    <title>Mechanical-Keyboard on TheSillyScibbles</title>
     <link>https://blog.kushagraj.xyz/tags/mechanical-keyboard/</link>
-    <description>Recent content in Mechanical-Keyboard on TheSillyScribbles</description>
-    <generator>Hugo -- 0.147.7</generator>
-    <language>en</language>
+    <description>Recent content in Mechanical-Keyboard on TheSillyScibbles</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
     <lastBuildDate>Sat, 12 Oct 2024 23:50:45 +0530</lastBuildDate>
     <atom:link href="https://blog.kushagraj.xyz/tags/mechanical-keyboard/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,25 +13,7 @@
       <link>https://blog.kushagraj.xyz/posts/k630-keyboard/</link>
       <pubDate>Sat, 12 Oct 2024 23:50:45 +0530</pubDate>
       <guid>https://blog.kushagraj.xyz/posts/k630-keyboard/</guid>
-      <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
-&lt;p&gt;Recently, I needed a keyboard to pair with my Xiaomi Pad 6. The official Xiaomi keyboard didn’t seem worth its price given its subpar quality and limited use with the tablet alone. That’s when I realized I’d been wanting a mechanical keyboard for a while. I mean, it’s aesthetic, the sound is satisfying, and let’s face it—using one kind of makes you &lt;em&gt;feel&lt;/em&gt; more like a programmer. So yeah, I got it for all the wrong reasons, but honestly, I don’t think it was a bad investment.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<h2 id="background">Background</h2>
-<p>Recently, I needed a keyboard to pair with my Xiaomi Pad 6. The official Xiaomi keyboard didn’t seem worth its price given its subpar quality and limited use with the tablet alone. That’s when I realized I’d been wanting a mechanical keyboard for a while. I mean, it’s aesthetic, the sound is satisfying, and let’s face it—using one kind of makes you <em>feel</em> more like a programmer. So yeah, I got it for all the wrong reasons, but honestly, I don’t think it was a bad investment.</p>
-<h2 id="first-impressions">First Impressions</h2>
-<p><img loading="lazy" src="/posts/k630-keyboard/with_lap.webp"></p>
-<p>The unboxing experience was pretty standard—nothing fancy, but that’s what I expected given the price. One thing that stood out was the weight of the keyboard. It felt heavy in my hands, though I’m sure that’s just because this is my first mechanical keyboard, so I don’t have anything to compare it to.</p>
-<p>Typing on it felt completely different from my laptop keyboard. Now, whenever I switch back to my laptop, its keyboard feels flat and lifeless in comparison. As for the sound—it’s not overwhelming, but it’s just enough to give that satisfying mechanical <em>click</em>. Anything louder might get annoying after a while, so this feels like the perfect balance. Oh, and the backlighting? It’s a nice touch, especially at night.</p>
-<p><img loading="lazy" src="/posts/k630-keyboard/top.webp"></p>
-<h2 id="issues">Issues</h2>
-<p>One weird issue I’ve encountered—and this only happens when I use the keyboard with my tablet—is that the ESC key registers as the &lsquo;`&rsquo; character. I’m still figuring out why this happens, but it’s an odd quirk that I hope to resolve soon.</p>
-<h2 id="final-thoughts">Final Thoughts</h2>
-<p>All in all, I think this keyboard is a great addition to my setup, and I’m pretty happy with the purchase. It’s functional, aesthetically pleasing, and makes typing a more enjoyable experience. Plus, who doesn’t love a good mechanical keyboard, right?</p>
-<h2 id="related">Related</h2>
-<ul>
-<li><a href="https://www.redragonzone.com/products/redragon-k630-gaming-mechanical-keyboard">Redragon K630 - Official Website</a></li>
-<li><a href="https://www.mi.com/in/product/xiaomi-pad-6/">Xiaomi Pad 6 - Official Website</a></li>
-</ul>
-]]></content:encoded>
+      <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;&#xA;&lt;p&gt;Recently, I needed a keyboard to pair with my Xiaomi Pad 6. The official Xiaomi keyboard didn’t seem worth its price given its subpar quality and limited use with the tablet alone. That’s when I realized I’d been wanting a mechanical keyboard for a while. I mean, it’s aesthetic, the sound is satisfying, and let’s face it—using one kind of makes you &lt;em&gt;feel&lt;/em&gt; more like a programmer. So yeah, I got it for all the wrong reasons, but honestly, I don’t think it was a bad investment.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
